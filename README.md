@@ -23,7 +23,6 @@ An intent-classification system for Latinized/Romanized Hinglish customer-suppor
 │   ├── patch_dataset.py                   # Documented, non-destructive fix for one ambiguous base utterance
 │   ├── parse_whatsapp_export.py           # Keyword-candidate extraction (abandoned approach, kept for record)
 │   ├── eval_dataset_B.py                  # Evaluates a trained model on the held-out Dataset B
-│   ├── build_sentiment_dataset_v2.py      # Generates the sentiment dataset (secondary task)
 │   └── train_sentiment.py                 # Trains + evaluates the sentiment classifier
 ├── data/
 │   ├── dataset_A_v2_36class_final.csv             # Primary dataset (frozen), 21,600 rows, 36 intents
@@ -33,7 +32,8 @@ An intent-classification system for Latinized/Romanized Hinglish customer-suppor
 │   ├── dataset_A_v2_36class_final_audit.json      # Dataset integrity audit (row counts, split sizes, leakage checks)
 │   ├── dataset_A_v2_36class_2160_semantic_bases.csv
 │   ├── dataset_B_robustness.csv                   # Held-out, independently-authored robustness set (108 rows)
-│   ├── dataset_sentiment_v2.csv                   # Secondary sentiment dataset (1,860 rows)
+│   ├── dataset_sentiment_v1.csv                   # Sentiment dataset, prototype (150 rows) — see whitepaper Appendix A.2-A.3
+│   ├── dataset_sentiment_v2.csv                   # Sentiment dataset, scaled (1,860 rows) — used for the reported results
 │   └── whatsapp_candidates.csv                    # Small filtered sample from the abandoned WhatsApp approach
 └── outputs/                               # Generated at training time (see .gitignore — not committed)
 ```
@@ -107,9 +107,9 @@ python src/eval_dataset_B.py --model_dir outputs/muril/best_model --device cuda
 
 **7. (Optional) Secondary task: sentiment analysis**
 ```bash
-python src/build_sentiment_dataset_v2.py   # regenerates data/dataset_sentiment_v2.csv, or just use the committed file
 python src/train_sentiment.py
 ```
+Trains on the committed `data/dataset_sentiment_v2.csv` (the scaled, 1,860-row version). `data/dataset_sentiment_v1.csv` is the earlier 150-row prototype whose results are reported in whitepaper Appendix A.3 for comparison; the generation scripts for both dataset versions were used locally but are not included in this repo — the generated CSVs themselves are committed and are all `train_sentiment.py` needs.
 
 Every number reported in `whitepaper.md` was produced by one of the commands above — nothing in the writeup is estimated or hand-adjusted.
 
