@@ -23,7 +23,8 @@ An intent-classification system for Latinized/Romanized Hinglish customer-suppor
 │   ├── patch_dataset.py                   # Documented, non-destructive fix for one ambiguous base utterance
 │   ├── parse_whatsapp_export.py           # Keyword-candidate extraction (abandoned approach, kept for record)
 │   ├── eval_dataset_B.py                  # Evaluates a trained model on the held-out Dataset B
-│   └── train_sentiment.py                 # Trains + evaluates the sentiment classifier
+│   ├── train_sentiment.py                 # Trains + evaluates the sentiment classifier
+│   └── app.py                             # Local Gradio demo (intent + sentiment, live latency)
 ├── data/
 │   ├── dataset_A_v2_36class_final.csv             # Primary dataset (frozen), 21,600 rows, 36 intents
 │   ├── dataset_A_v2_36class_final_patched.csv     # Same, with one documented text correction (see whitepaper 8.3)
@@ -114,6 +115,17 @@ Trains on the committed `data/dataset_sentiment_v2.csv` (the scaled, 1,860-row v
 Every number reported in `whitepaper.md` was produced by one of the commands above — nothing in the writeup is estimated or hand-adjusted.
 
 ---
+
+## Demo app
+
+A local Gradio demo is included for interactively testing both models:
+
+```bash
+pip install -r requirements.txt
+python src/app.py
+```
+
+This opens a local browser UI (usually `http://127.0.0.1:7860`) with two tabs — intent classification and sentiment analysis — showing the predicted label, confidence, top-3 alternatives, and measured inference latency for whatever text you type in. Requires `outputs/xlmr/best_model` and `outputs/sentiment_xlmr/best_model` to already exist (i.e. run the relevant training steps above first). Not deployed anywhere; runs entirely on your own machine.
 
 ## Key findings (see whitepaper for full detail)
 
