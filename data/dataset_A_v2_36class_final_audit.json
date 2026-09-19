@@ -1,0 +1,262 @@
+{
+  "total_rows": 21600,
+  "unique_texts": 16091,
+  "intents": 36,
+  "base_utterances": 2160,
+  "base_per_intent": 60,
+  "surface_variants_per_base": 10,
+  "rows_per_intent": {
+    "account_login": 600,
+    "bill_due_date": 600,
+    "bill_payment": 600,
+    "cab_booking": 600,
+    "complaint": 600,
+    "delivery_address_change": 600,
+    "delivery_damaged": 600,
+    "delivery_delay": 600,
+    "delivery_missing": 600,
+    "delivery_tracking": 600,
+    "duplicate_charge": 600,
+    "exchange_item": 600,
+    "faq_how_to": 600,
+    "flight_booking": 600,
+    "flight_status": 600,
+    "greeting": 600,
+    "hotel_booking": 600,
+    "human_agent": 600,
+    "order_cancel": 600,
+    "order_cancellation_failed": 600,
+    "order_modify": 600,
+    "order_status": 600,
+    "password_reset": 600,
+    "payment_failed": 600,
+    "payment_pending": 600,
+    "profile_change": 600,
+    "refund_after_cancellation": 600,
+    "refund_missing": 600,
+    "refund_status": 600,
+    "return_item": 600,
+    "subscription_cancel": 600,
+    "subscription_charged": 600,
+    "subscription_upgrade": 600,
+    "thanks": 600,
+    "wrong_charge": 600,
+    "wrong_item": 600
+  },
+  "split_rows": {
+    "train": 15120,
+    "test": 3240,
+    "validation": 3240
+  },
+  "variant_rows": {
+    "clean": 2160,
+    "shorthand": 2160,
+    "code_mix": 2160,
+    "typo": 2160,
+    "emoji": 2160,
+    "punctuation": 2160,
+    "shorthand_typo": 2160,
+    "shorthand_emoji": 2160,
+    "code_mix_emoji": 2160,
+    "stress": 2160
+  },
+  "base_split_per_intent": {
+    "order_cancel": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "order_status": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "order_modify": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "order_cancellation_failed": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "wrong_item": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "return_item": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "exchange_item": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "refund_status": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "refund_after_cancellation": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "refund_missing": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "payment_failed": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "payment_pending": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "wrong_charge": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "duplicate_charge": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "delivery_address_change": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "delivery_delay": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "delivery_tracking": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "delivery_damaged": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "delivery_missing": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "account_login": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "password_reset": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "profile_change": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "human_agent": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "subscription_cancel": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "subscription_upgrade": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "subscription_charged": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "bill_due_date": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "bill_payment": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "flight_booking": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "flight_status": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "hotel_booking": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "cab_booking": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "greeting": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "thanks": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "complaint": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    },
+    "faq_how_to": {
+      "train": 42,
+      "validation": 9,
+      "test": 9
+    }
+  },
+  "normalized_text_overlap_between_splits": {
+    "train_vs_validation": 0,
+    "train_vs_test": 0,
+    "validation_vs_test": 0
+  },
+  "leakage_control": "semantic-base grouped splits + zero normalized-text overlap across splits",
+  "provenance": "original_constructed; no licensed external utterances used",
+  "taxonomy_domains": {
+    "Account & Support": 4,
+    "Delivery": 5,
+    "General": 4,
+    "Orders": 5,
+    "Payments": 4,
+    "Returns & Refunds": 5,
+    "Subscriptions & Billing": 5,
+    "Travel & Transport": 4
+  }
+}

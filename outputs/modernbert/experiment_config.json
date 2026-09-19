@@ -1,0 +1,39 @@
+{
+  "model_name": "ModernBERT-base",
+  "model_id": "answerdotai/ModernBERT-base",
+  "dataset": "data\\dataset_A_v2_36class_final.csv",
+  "num_labels": 36,
+  "max_length": 64,
+  "seed": 42,
+  "num_epochs": 5,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "train_batch_size": 8,
+  "eval_batch_size": 32,
+  "gradient_accumulation": 1,
+  "fp16": true,
+  "early_stopping_patience": 2,
+  "best_checkpoint": "outputs\\modernbert\\checkpoint-9450",
+  "best_validation_metric": 0.9993826398320782,
+  "validation_metrics": {
+    "eval_loss": 0.004195039160549641,
+    "eval_accuracy": 0.9993827160493827,
+    "eval_macro_f1": 0.9993826398320782,
+    "eval_weighted_f1": 0.9993826398320781,
+    "eval_runtime": 2.5632,
+    "eval_samples_per_second": 1264.027,
+    "eval_steps_per_second": 39.793,
+    "epoch": 5.0
+  },
+  "test_metrics": {
+    "test_loss": 0.014240054413676262,
+    "test_accuracy": 0.995679012345679,
+    "test_macro_f1": 0.9956697707869004,
+    "test_weighted_f1": 0.9956697707869004,
+    "test_runtime": 2.4493,
+    "test_samples_per_second": 1322.822,
+    "test_steps_per_second": 41.644,
+    "epoch": 5.0
+  }
+}

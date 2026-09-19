@@ -1,0 +1,124 @@
+{
+  "model_dir": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\xlmr\\best_model",
+  "dataset": "dataset_B_robustness (held-out, hand-authored, not used for tuning)",
+  "n_examples": 108,
+  "accuracy": 0.9166666666666666,
+  "macro_f1": 0.9123015873015873,
+  "weighted_f1": 0.9123015873015873,
+  "n_errors": 9,
+  "domain_breakdown": [
+    {
+      "domain": "Orders",
+      "total": 15,
+      "errors": 3,
+      "error_rate": 0.2
+    },
+    {
+      "domain": "Returns & Refunds",
+      "total": 15,
+      "errors": 3,
+      "error_rate": 0.2
+    },
+    {
+      "domain": "General",
+      "total": 12,
+      "errors": 2,
+      "error_rate": 0.16666666666666666
+    },
+    {
+      "domain": "Travel & Transport",
+      "total": 12,
+      "errors": 1,
+      "error_rate": 0.08333333333333333
+    },
+    {
+      "domain": "Account & Support",
+      "total": 12,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Delivery",
+      "total": 15,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Payments",
+      "total": 12,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Subscriptions & Billing",
+      "total": 15,
+      "errors": 0,
+      "error_rate": 0.0
+    }
+  ],
+  "misclassified": [
+    {
+      "id": "b_order_status_03",
+      "text": "whr is my ordr yr",
+      "intent": "order_status",
+      "predicted_intent": "greeting",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_modify_01",
+      "text": "order me address change krna h thoda",
+      "intent": "order_modify",
+      "predicted_intent": "delivery_address_change",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_wrong_item_01",
+      "text": "mujhe kuch aur mila jo order nahi kiya tha",
+      "intent": "wrong_item",
+      "predicted_intent": "order_cancel",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_refund_status_03",
+      "text": "paisa wapas kab aayega abhi tak kuch nahi",
+      "intent": "refund_status",
+      "predicted_intent": "order_status",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_refund_missing_01",
+      "text": "refund abhi tak nahi mila bohot time ho gya",
+      "intent": "refund_missing",
+      "predicted_intent": "refund_status",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_refund_missing_02",
+      "text": "paisa wapas nahi aaya still waiting",
+      "intent": "refund_missing",
+      "predicted_intent": "payment_pending",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_cab_booking_02",
+      "text": "gaadi chahiye jaldi book kr do",
+      "intent": "cab_booking",
+      "predicted_intent": "hotel_booking",
+      "domain": "Travel & Transport"
+    },
+    {
+      "id": "b_greeting_01",
+      "text": "hii kaise ho",
+      "intent": "greeting",
+      "predicted_intent": "faq_how_to",
+      "domain": "General"
+    },
+    {
+      "id": "b_complaint_01",
+      "text": "service bohot kharab h aapki",
+      "intent": "complaint",
+      "predicted_intent": "thanks",
+      "domain": "General"
+    }
+  ]
+}

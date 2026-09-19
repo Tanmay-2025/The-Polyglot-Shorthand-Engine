@@ -1,0 +1,280 @@
+id,base_id,text,sentiment,pattern_type,label,predicted_sentiment,correct
+neutral_21_stress,neutral_21,subscription plan ke featuuures kya h,neutral,stress,1,neutral,True
+positive_51_emoji_reinforce,positive_51,payment turant process ho gya bina delay ke 😄,positive,emoji_reinforce,2,positive,True
+positive_22_code_mix,positive_22,"just saying, subscription cancel krna bhi easy nikla",positive,code_mix,2,positive,True
+neutral_10_typo,neutral_10,roder tracking number chahiye,neutral,typo,1,neutral,True
+positive_41_shorthand_emoji,positive_41,flight crew bhot friendly the 😊,positive,shorthand_emoji,2,positive,True
+negative_25_typo,negative_25,itna bura experience ephle kabhi nahi hua,negative,typo,0,negative,True
+negative_42_clean,negative_42,cab driver ne gandi gaadi bheji,negative,clean,0,negative,True
+neutral_49_emoji_reinforce,neutral_49,payment split ho skta h kya 🙏,neutral,emoji_reinforce,1,neutral,True
+positive_16_shorthand,positive_16,payment turant confirm ho gya koi issue nhi,positive,shorthand,2,positive,True
+neutral_55_shorthand_typo,neutral_55,hoetl ka location kya h exactly,neutral,shorthand_typo,1,neutral,True
+negative_35_emoji_reinforce,negative_35,cancellation pe extra fee laga diya bina bataye 😞,negative,emoji_reinforce,0,negative,True
+negative_57_shorthand_typo,negative_57,delivery boy ne bina clal kiye chala gya,negative,shorthand_typo,0,negative,True
+positive_05_clean,positive_05,refund itni jaldi mil gaya kamal h,positive,clean,2,positive,True
+negative_19_code_mix,negative_19,"literally, flight delay hui aur koi update nahi mila",negative,code_mix,0,negative,True
+neutral_60_code_mix,neutral_60,"seriously, delivery partner ka contact kaise milega",neutral,code_mix,1,neutral,True
+neutral_08_stress,neutral_08,payment method channnge krna h,neutral,stress,1,neutral,True
+negative_03_emoji_reinforce,negative_03,support wale reply hi nahi krte kisi ka 😤,negative,emoji_reinforce,0,negative,True
+positive_09_shorthand_typo,positive_09,deliveyr boy bhot helpful tha,positive,shorthand_typo,2,positive,True
+neutral_47_shorthand,neutral_47,order combine kr skte h kya,neutral,shorthand,1,neutral,True
+neutral_33_shorthand_typo,neutral_33,delivery partenr ka naam kya h,neutral,shorthand_typo,1,neutral,True
+positive_15_shorthand_emoji,positive_15,exchange bina kisi dikkat ke ho gya 😄,positive,shorthand_emoji,2,positive,True
+negative_13_typo,negative_13,worng item bheja aur response bhi nahi mila,negative,typo,0,negative,True
+positive_37_stress,positive_37,refund procccess ekdum transparent tha,positive,stress,2,positive,True
+neutral_24_shorthand_emoji,neutral_24,order status update chahiye 🙏,neutral,shorthand_emoji,1,neutral,True
+negative_55_clean,negative_55,flight rebooking me bohot dikkat hui,negative,clean,0,positive,False
+neutral_35_emoji_reinforce,neutral_35,order invoice chahiye mujhe 🙏,neutral,emoji_reinforce,1,neutral,True
+positive_10_emoji_reinforce,positive_10,website use krna bohot easy h ab 😊,positive,emoji_reinforce,2,positive,True
+neutral_39_emoji_reinforce,neutral_39,order split ho skta h kya 🙏,neutral,emoji_reinforce,1,neutral,True
+positive_29_code_mix,positive_29,"actually, hotel staff bohot cooperative tha",positive,code_mix,2,positive,True
+negative_46_shorthand_typo,negative_46,blil breakdown samajh hi nhi aaya,negative,shorthand_typo,0,negative,True
+neutral_48_shorthand_typo,neutral_48,subscription puase kr skte h kya,neutral,shorthand_typo,1,neutral,True
+positive_03_stress,positive_03,support team ne turaaant help kri thank you,positive,stress,2,positive,True
+positive_15_shorthand_typo,positive_15,exchange bian kisi dikkat ke ho gya,positive,shorthand_typo,2,positive,True
+positive_57_punctuation,positive_57,delivery boy ne call karke confirm kiya!,positive,punctuation,2,positive,True
+positive_38_shorthand,positive_38,courier bhot fast tha expected se pehle aaya,positive,shorthand,2,positive,True
+negative_28_clean,negative_28,missing item ka koi response hi nahi mila,negative,clean,0,negative,True
+neutral_50_stress,neutral_50,delivery instruccctions add krni h,neutral,stress,1,neutral,True
+neutral_49_clean,neutral_49,payment split ho skta h kya,neutral,clean,1,neutral,True
+positive_40_flip_sarcasm,positive_40,return pickup time pe ho gya 😒,negative,flip_sarcasm,0,negative,True
+neutral_25_shorthand_emoji,neutral_25,exchange ke liye kya documents chahiye 🙏,neutral,shorthand_emoji,1,neutral,True
+negative_50_clean,negative_50,support agent ne bilkul help nahi ki seriously,negative,clean,0,negative,True
+negative_50_shorthand_emoji,negative_50,support agent ne blkl help nhi ki seriously 😤,negative,shorthand_emoji,0,negative,True
+negative_38_shorthand_emoji,negative_38,courier kaafi late tha bina kisi update ke 😞,negative,shorthand_emoji,0,negative,True
+positive_09_clean,positive_09,delivery boy bohot helpful tha,positive,clean,2,positive,True
+negative_23_punctuation,negative_23,customer care ne call hi disconnect kr diya...,negative,punctuation,0,negative,True
+neutral_56_shorthand,neutral_56,cab ka estimated time kitna h,neutral,shorthand,1,neutral,True
+neutral_16_clean,neutral_16,flight booking confirm hui ya nahi,neutral,clean,1,neutral,True
+positive_53_typo,positive_53,hotel room upgrade bina extra charge ke mil gya,positive,typo,2,positive,True
+positive_43_punctuation,positive_43,hotel checkin bina kisi wait ke ho gya!,positive,punctuation,2,positive,True
+positive_19_code_mix,positive_19,"honestly, discount mil gya bina kuch bole",positive,code_mix,2,positive,True
+negative_26_shorthand_emoji,negative_26,driver raste bhar phone pe baat karta rha 😞,negative,shorthand_emoji,0,negative,True
+neutral_56_punctuation,neutral_56,cab ka estimated time kitna h.,neutral,punctuation,1,neutral,True
+positive_09_shorthand_emoji,positive_09,delivery boy bhot helpful tha 👍,positive,shorthand_emoji,2,positive,True
+neutral_15_shorthand_typo,neutral_15,app ka verison kya h abi,neutral,shorthand_typo,1,neutral,True
+positive_04_punctuation,positive_04,app bohot smooth chal raha h ab!,positive,punctuation,2,positive,True
+positive_10_flip_sarcasm,positive_10,website use krna bohot easy h ab 😒,negative,flip_sarcasm,0,negative,True
+neutral_59_stress,neutral_59,payment confirmation kaise milllta h,neutral,stress,1,neutral,True
+negative_35_shorthand_typo,negative_35,cancellation pe extra fee alga diya bina bataye,negative,shorthand_typo,0,negative,True
+negative_47_typo,negative_47,subscription benefits jaisa bola tha waisa anhi mila,negative,typo,0,positive,False
+neutral_31_typo,neutral_31,subscription me iktne users add ho skte h,neutral,typo,1,neutral,True
+positive_03_shorthand_typo,positive_03,support team ne turant help kri tahnk you,positive,shorthand_typo,2,positive,True
+neutral_57_clean,neutral_57,order ke liye invoice kab milega,neutral,clean,1,neutral,True
+neutral_35_stress_emoji,neutral_35,order invoice chahhhiye mujhe 🙏,neutral,stress_emoji,1,neutral,True
+positive_28_stress,positive_28,missing item turant bhej diya bina extttra charge ke,positive,stress,2,positive,True
+positive_14_code_mix,positive_14,"seriously, return process bohot smooth raha",positive,code_mix,2,positive,True
+neutral_46_shorthand_emoji,neutral_46,cab share option available h kya 🙏,neutral,shorthand_emoji,1,neutral,True
+positive_38_code_mix,positive_38,"honestly, courier bohot fast tha expected se pehle aaya",positive,code_mix,2,positive,True
+positive_56_typo,positive_56,app ka search feature bohot cacurate h,positive,typo,2,positive,True
+neutral_43_shorthand,neutral_43,account email change krna h,neutral,shorthand,1,neutral,True
+positive_17_clean,positive_17,tracking updates time pe milte rehte h,positive,clean,2,positive,True
+negative_22_stress_emoji,negative_22,baar baar same probbblem bata chuka hu koi fix nahi 💔,negative,stress_emoji,0,negative,True
+negative_57_typo,negative_57,delivery boy ne bian call kiye chala gya,negative,typo,0,negative,True
+positive_07_shorthand_emoji,positive_07,order perfect condition me mila 😄,positive,shorthand_emoji,2,positive,True
+negative_19_punctuation,negative_19,flight delay hui aur koi update nahi mila...,negative,punctuation,0,negative,True
+neutral_51_code_mix,neutral_51,"honestly, order ka weight kitna h",neutral,code_mix,1,neutral,True
+positive_50_code_mix,positive_50,"just saying, support agent ne extra mile jaake help ki",positive,code_mix,2,positive,True
+positive_27_stress_emoji,positive_27,app ka checkout process bohot fassst h ab 🙌,positive,stress_emoji,2,positive,True
+neutral_05_emoji_reinforce,neutral_05,hotel checkin time kya h 🙏,neutral,emoji_reinforce,1,neutral,True
+neutral_13_shorthand,neutral_13,account verification krna h,neutral,shorthand,1,neutral,True
+neutral_08_typo,neutral_08,payment method chnage krna h,neutral,typo,1,neutral,True
+neutral_18_stress_emoji,neutral_18,cab drivvver ka number mil sakta h 🙏,neutral,stress_emoji,1,neutral,True
+neutral_37_stress,neutral_37,hotel room type channnge krna h,neutral,stress,1,neutral,True
+neutral_51_shorthand,neutral_51,order ka weight kitna h,neutral,shorthand,1,neutral,True
+negative_58_clean,negative_58,refund amount galat tha,negative,clean,0,negative,True
+negative_11_code_mix,negative_11,"literally, website hang ho jata h payment ke time",negative,code_mix,0,negative,True
+negative_14_clean,negative_14,charges galat lagaye aur explanation bhi nahi mila,negative,clean,0,negative,True
+positive_31_clean,positive_31,subscription ka trial bhi kaafi generous h,positive,clean,2,positive,True
+negative_13_shorthand_typo,negative_13,wrong item behja aur response bhi nhi mila,negative,shorthand_typo,0,negative,True
+negative_01_shorthand,negative_01,service bhot kharab h blkl bhi acha nhi,negative,shorthand,0,negative,True
+negative_46_stress_emoji,negative_46,bill breakkkdown samajh hi nahi aaya 😠,negative,stress_emoji,0,negative,True
+neutral_24_stress_emoji,neutral_24,orddder status update chahiye 🙏,neutral,stress_emoji,1,neutral,True
+positive_49_stress,positive_49,exchaaange bina kisi extra cost ke ho gya,positive,stress,2,positive,True
+neutral_23_shorthand_emoji,neutral_23,delivery address change krna h 🙏,neutral,shorthand_emoji,1,neutral,True
+positive_01_code_mix,positive_01,"actually, bohot badhiya service h aapki",positive,code_mix,2,positive,True
+positive_60_stress,positive_60,overrrall experience bohot satisfying raha,positive,stress,2,positive,True
+neutral_36_stress_emoji,neutral_36,flight cheeeck in online ho skta h kya 🙏,neutral,stress_emoji,1,neutral,True
+negative_19_stress_emoji,negative_19,flight delllay hui aur koi update nahi mila 😠,negative,stress_emoji,0,negative,True
+positive_27_shorthand_typo,positive_27,app ka checokut process bhot fast h ab,positive,shorthand_typo,2,positive,True
+neutral_40_stress_emoji,neutral_40,subscription auttto renew off krna h 🙏,neutral,stress_emoji,1,neutral,True
+neutral_16_stress_emoji,neutral_16,flight booking confirm huuui ya nahi 🙏,neutral,stress_emoji,1,neutral,True
+positive_11_shorthand_emoji,positive_11,agent ne patience se sara solve kr diya 😄,positive,shorthand_emoji,2,positive,True
+negative_16_shorthand,negative_16,return request reject kr diya bina reason ke,negative,shorthand,0,negative,True
+negative_14_shorthand_emoji,negative_14,charges galat lagaye aur explanation bhi nhi mila 😑,negative,shorthand_emoji,0,negative,True
+neutral_45_shorthand_typo,neutral_45,htoel breakfast included h kya,neutral,shorthand_typo,1,neutral,True
+negative_39_code_mix,negative_39,"seriously, customer support ne callback hi nahi diya",negative,code_mix,0,negative,True
+negative_39_stress_emoji,negative_39,customer support ne callback hi nahi diyyya 😑,negative,stress_emoji,0,negative,True
+positive_34_stress_emoji,positive_34,payment options kaaaafi convenient h ab ❤️,positive,stress_emoji,2,positive,True
+neutral_06_typo,neutral_06,cab ka frae kitna hoga,neutral,typo,1,neutral,True
+negative_27_emoji_reinforce,negative_27,app checkout baar baar fail ho jata h 😞,negative,emoji_reinforce,0,negative,True
+neutral_05_shorthand_typo,neutral_05,hotle checkin time kya h,neutral,shorthand_typo,1,neutral,True
+negative_32_emoji_reinforce,negative_32,delivery partner galat address pe chala gya 😠,negative,emoji_reinforce,0,negative,True
+positive_38_shorthand_emoji,positive_38,courier bhot fast tha expected se pehle aaya ❤️,positive,shorthand_emoji,2,positive,True
+neutral_44_typo,neutral_44,flight seat eslect krni h,neutral,typo,1,neutral,True
+negative_25_punctuation,negative_25,itna bura experience pehle kabhi nahi hua...,negative,punctuation,0,negative,True
+positive_02_punctuation,positive_02,delivery time pe ho gayi bahut accha laga!,positive,punctuation,2,positive,True
+positive_32_clean,positive_32,delivery partner ne sahi jagah pe deliver kiya,positive,clean,2,positive,True
+neutral_31_emoji_reinforce,neutral_31,subscription me kitne users add ho skte h 🙏,neutral,emoji_reinforce,1,neutral,True
+positive_43_typo,positive_43,hotel checkin bina kiis wait ke ho gya,positive,typo,2,positive,True
+negative_54_stress_emoji,negative_54,caaab fare bohot zyada laga liya 😞,negative,stress_emoji,0,negative,True
+negative_34_stress_emoji,negative_34,payment options bohhhot limited h 😠,negative,stress_emoji,0,negative,True
+neutral_47_clean,neutral_47,order combine kr skte h kya,neutral,clean,1,neutral,True
+neutral_09_stress,neutral_09,address update krnnna h profile me,neutral,stress,1,neutral,True
+positive_30_shorthand,positive_30,order jaldi pack ho gya expected se pehle,positive,shorthand,2,positive,True
+negative_21_shorthand,negative_21,app itna slow h ki use hi nhi hota,negative,shorthand,0,negative,True
+neutral_31_shorthand_typo,neutral_31,subscription me kinte users add ho skte h,neutral,shorthand_typo,1,neutral,True
+neutral_17_shorthand_typo,neutral_17,hotel me wifi avaliable h kya,neutral,shorthand_typo,1,neutral,True
+negative_53_clean,negative_53,hotel room bilkul promised jaisa nahi tha,negative,clean,0,negative,True
+positive_40_clean,positive_40,return pickup time pe ho gya,positive,clean,2,positive,True
+negative_55_shorthand_emoji,negative_55,flight rebooking me bhot dikkat hui 💔,negative,shorthand_emoji,0,negative,True
+positive_49_shorthand,positive_49,exchange bina kisi extra cost ke ho gya,positive,shorthand,2,positive,True
+negative_29_typo,negative_29,hotel staff bilukl cooperative nahi tha,negative,typo,0,negative,True
+neutral_01_clean,neutral_01,order kal deliver hoga,neutral,clean,1,neutral,True
+positive_28_typo,positive_28,missing item turant bhej dyia bina extra charge ke,positive,typo,2,positive,True
+negative_53_shorthand,negative_53,hotel room blkl promised jaisa nhi tha,negative,shorthand,0,negative,True
+positive_19_emoji_reinforce,positive_19,discount mil gya bina kuch bole 👍,positive,emoji_reinforce,2,positive,True
+neutral_10_stress,neutral_10,order tracking number chahhhiye,neutral,stress,1,neutral,True
+negative_02_punctuation,negative_02,order 5 din late aaya bohot ganda experience...,negative,punctuation,0,negative,True
+positive_15_emoji_reinforce,positive_15,exchange bina kisi dikkat ke ho gya 😄,positive,emoji_reinforce,2,positive,True
+positive_54_shorthand_emoji,positive_54,cab fare blkl fair tha 👍,positive,shorthand_emoji,2,positive,True
+neutral_20_stress,neutral_20,refund process me kitna timmme lagta h,neutral,stress,1,neutral,True
+positive_58_clean,positive_58,refund amount bilkul sahi tha,positive,clean,2,negative,False
+negative_38_punctuation,negative_38,courier kaafi late tha bina kisi update ke...,negative,punctuation,0,negative,True
+negative_27_stress_emoji,negative_27,app checkout baar baar faiiil ho jata h 😞,negative,stress_emoji,0,negative,True
+positive_17_stress_emoji,positive_17,tracking updates timmme pe milte rehte h 😊,positive,stress_emoji,2,positive,True
+neutral_07_typo,neutral_07,return windwo kitne din ka h,neutral,typo,1,neutral,True
+neutral_12_shorthand_emoji,neutral_12,delivery slot select krna h 🙏,neutral,shorthand_emoji,1,neutral,True
+positive_40_code_mix,positive_40,"just saying, return pickup time pe ho gya",positive,code_mix,2,positive,True
+positive_48_shorthand_typo,positive_48,delivery update har setp pe milta rha,positive,shorthand_typo,2,positive,True
+positive_21_stress_emoji,positive_21,delivery se pehle call aaya bohot thoughhhtful 😊,positive,stress_emoji,2,positive,True
+neutral_44_clean,neutral_44,flight seat select krni h,neutral,clean,1,neutral,True
+neutral_21_code_mix,neutral_21,"just saying, subscription plan ke features kya h",neutral,code_mix,1,neutral,True
+neutral_19_code_mix,neutral_19,"just saying, order me kitne items h",neutral,code_mix,1,neutral,True
+neutral_52_emoji_reinforce,neutral_52,subscription ke liye kaun kaun se payment methods accepted h 🙏,neutral,emoji_reinforce,1,neutral,True
+positive_28_punctuation,positive_28,missing item turant bhej diya bina extra charge ke!,positive,punctuation,2,positive,True
+neutral_39_shorthand_typo,neutral_39,order slpit ho skta h kya,neutral,shorthand_typo,1,neutral,True
+neutral_24_shorthand_typo,neutral_24,order sttaus update chahiye,neutral,shorthand_typo,1,neutral,True
+negative_07_stress,negative_07,agent ne bilkkkul help nahi ki,negative,stress,0,negative,True
+neutral_11_shorthand_typo,neutral_11,bill ka amount iktna h,neutral,shorthand_typo,1,neutral,True
+neutral_55_clean,neutral_55,hotel ka location kya h exactly,neutral,clean,1,neutral,True
+negative_52_shorthand,negative_52,order tracking link kabi mila hi nhi,negative,shorthand,0,negative,True
+positive_19_typo,positive_19,dsicount mil gya bina kuch bole,positive,typo,2,positive,True
+neutral_44_punctuation,neutral_44,flight seat select krni h.,neutral,punctuation,1,neutral,True
+positive_05_punctuation,positive_05,refund itni jaldi mil gaya kamal h!,positive,punctuation,2,positive,True
+negative_51_typo,negative_51,payment procses me kaafi delay hua,negative,typo,0,negative,True
+negative_21_clean,negative_21,app itna slow h ki use hi nahi hota,negative,clean,0,negative,True
+neutral_09_clean,neutral_09,address update krna h profile me,neutral,clean,1,neutral,True
+neutral_18_code_mix,neutral_18,"honestly, cab driver ka number mil sakta h",neutral,code_mix,1,neutral,True
+negative_35_punctuation,negative_35,cancellation pe extra fee laga diya bina bataye...,negative,punctuation,0,negative,True
+neutral_02_shorthand,neutral_02,mera account balance check krna h,neutral,shorthand,1,neutral,True
+negative_09_shorthand_typo,negative_09,wait tiem bhot zyada tha call pe,negative,shorthand_typo,0,negative,True
+neutral_56_emoji_reinforce,neutral_56,cab ka estimated time kitna h 🙏,neutral,emoji_reinforce,1,neutral,True
+negative_28_punctuation,negative_28,missing item ka koi response hi nahi mila...,negative,punctuation,0,negative,True
+negative_29_shorthand_emoji,negative_29,hotel staff blkl cooperative nhi tha 😤,negative,shorthand_emoji,0,negative,True
+negative_21_code_mix,negative_21,"seriously, app itna slow h ki use hi nahi hota",negative,code_mix,0,negative,True
+negative_44_stress_emoji,negative_44,order confirmation hi nahi millla kaafi der tak 😞,negative,stress_emoji,0,negative,True
+neutral_34_stress,neutral_34,account settings me language change krnnni h,neutral,stress,1,neutral,True
+negative_52_punctuation,negative_52,order tracking link kabhi mila hi nahi...,negative,punctuation,0,negative,True
+negative_20_emoji_reinforce,negative_20,bill me extra charge dikh raha h galti se 😤,negative,emoji_reinforce,0,negative,True
+neutral_47_shorthand_typo,neutral_47,ordre combine kr skte h kya,neutral,shorthand_typo,1,neutral,True
+negative_32_stress,negative_32,delivvvery partner galat address pe chala gya,negative,stress,0,negative,True
+positive_12_typo,positive_12,packaging bohot acchi thi is baar,positive,typo,2,positive,True
+positive_47_shorthand_emoji,positive_47,subscription benefits jaisa bola tha waisa hi mila 😄,positive,shorthand_emoji,2,positive,True
+negative_23_stress,negative_23,customer carrre ne call hi disconnect kr diya,negative,stress,0,negative,True
+negative_59_emoji_reinforce,negative_59,subscription cancel karne pe hidden charge laga diya 😑,negative,emoji_reinforce,0,negative,True
+positive_23_shorthand_emoji,positive_23,hotel booking process blkl seedha tha ❤️,positive,shorthand_emoji,2,positive,True
+positive_56_emoji_reinforce,positive_56,app ka search feature bohot accurate h 👍,positive,emoji_reinforce,2,positive,True
+negative_09_clean,negative_09,wait time bohot zyada tha call pe,negative,clean,0,negative,True
+neutral_12_clean,neutral_12,delivery slot select krna h,neutral,clean,1,neutral,True
+neutral_24_stress,neutral_24,orddder status update chahiye,neutral,stress,1,neutral,True
+negative_52_stress,negative_52,order tracking link kabbbhi mila hi nahi,negative,stress,0,negative,True
+negative_56_stress_emoji,negative_56,app ka search feattture kaam hi nahi karta 😑,negative,stress_emoji,0,negative,True
+positive_21_clean,positive_21,delivery se pehle call aaya bohot thoughtful,positive,clean,2,positive,True
+neutral_32_shorthand,neutral_32,payment gateway options kya kya h,neutral,shorthand,1,neutral,True
+positive_14_clean,positive_14,return process bohot smooth raha,positive,clean,2,positive,True
+positive_39_shorthand_emoji,positive_39,customer support ne turant callback diya 😊,positive,shorthand_emoji,2,positive,True
+positive_60_shorthand,positive_60,overall experience bhot satisfying rha,positive,shorthand,2,positive,True
+positive_41_clean,positive_41,flight crew bohot friendly the,positive,clean,2,positive,True
+positive_58_typo,positive_58,refund maount bilkul sahi tha,positive,typo,2,negative,False
+neutral_19_punctuation,neutral_19,order me kitne items h.,neutral,punctuation,1,neutral,True
+positive_43_shorthand_typo,positive_43,hoetl checkin bina kisi wait ke ho gya,positive,shorthand_typo,2,positive,True
+negative_11_typo,negative_11,website ahng ho jata h payment ke time,negative,typo,0,negative,True
+neutral_54_stress_emoji,neutral_54,fliggght ka duration kitna h 🙏,neutral,stress_emoji,1,neutral,True
+negative_41_clean,negative_41,flight crew rude tha bilkul,negative,clean,0,negative,True
+positive_52_shorthand,positive_52,order tracking link turant mil gya,positive,shorthand,2,positive,True
+negative_03_clean,negative_03,support wale reply hi nahi krte kisi ka,negative,clean,0,negative,True
+neutral_55_stress_emoji,neutral_55,hotttel ka location kya h exactly 🙏,neutral,stress_emoji,1,neutral,True
+negative_42_shorthand_typo,negative_42,cab drievr ne gandi gaadi bheji,negative,shorthand_typo,0,negative,True
+negative_13_shorthand,negative_13,wrong item bheja aur response bhi nhi mila,negative,shorthand,0,negative,True
+neutral_23_punctuation,neutral_23,delivery address change krna h.,neutral,punctuation,1,neutral,True
+negative_17_clean,negative_17,hotel room bilkul saaf nahi tha,negative,clean,0,negative,True
+negative_50_typo,negative_50,spuport agent ne bilkul help nahi ki seriously,negative,typo,0,negative,True
+neutral_05_code_mix,neutral_05,"actually, hotel checkin time kya h",neutral,code_mix,1,neutral,True
+negative_56_punctuation,negative_56,app ka search feature kaam hi nahi karta...,negative,punctuation,0,negative,True
+positive_53_punctuation,positive_53,hotel room upgrade bina extra charge ke mil gya!,positive,punctuation,2,positive,True
+positive_45_typo,positive_45,app ka UI bohto intuitive h ab,positive,typo,2,positive,True
+neutral_38_punctuation,neutral_38,cab me extra stop add krna h.,neutral,punctuation,1,neutral,True
+positive_15_clean,positive_15,exchange bina kisi dikkat ke ho gya,positive,clean,2,positive,True
+positive_41_shorthand_typo,positive_41,flight crew bhot frienldy the,positive,shorthand_typo,2,positive,True
+negative_04_typo,negative_04,item iblkul kharab quality ka nikla,negative,typo,0,negative,True
+positive_56_shorthand,positive_56,app ka search feature bhot accurate h,positive,shorthand,2,positive,True
+negative_13_shorthand_emoji,negative_13,wrong item bheja aur response bhi nhi mila 😞,negative,shorthand_emoji,0,negative,True
+negative_51_shorthand,negative_51,payment process me kaafi delay hua,negative,shorthand,0,negative,True
+positive_25_stress,positive_25,flight status live update milllta rehta h,positive,stress,2,positive,True
+neutral_41_stress,neutral_41,paymmment receipt chahiye,neutral,stress,1,neutral,True
+neutral_55_code_mix,neutral_55,"seriously, hotel ka location kya h exactly",neutral,code_mix,1,neutral,True
+negative_48_shorthand_typo,negative_48,delivery upadte ek baar bhi nhi mila,negative,shorthand_typo,0,negative,True
+negative_22_code_mix,negative_22,"just saying, baar baar same problem bata chuka hu koi fix nahi",negative,code_mix,0,negative,True
+neutral_41_typo,neutral_41,payemnt receipt chahiye,neutral,typo,1,neutral,True
+positive_02_shorthand,positive_02,delivery time pe ho gayi bahut accha laga,positive,shorthand,2,positive,True
+neutral_54_shorthand_emoji,neutral_54,flight ka duration kitna h 🙏,neutral,shorthand_emoji,1,neutral,True
+positive_22_stress,positive_22,subscription cancel krna bhhhi easy nikla,positive,stress,2,positive,True
+neutral_50_shorthand_typo,neutral_50,delivery instructions add rkni h,neutral,shorthand_typo,1,neutral,True
+neutral_60_clean,neutral_60,delivery partner ka contact kaise milega,neutral,clean,1,neutral,True
+neutral_13_code_mix,neutral_13,"seriously, account verification krna h",neutral,code_mix,1,neutral,True
+positive_32_shorthand,positive_32,delivery partner ne sahi jagah pe deliver kiya,positive,shorthand,2,positive,True
+positive_07_clean,positive_07,order perfect condition me mila,positive,clean,2,positive,True
+positive_34_shorthand_emoji,positive_34,payment options kaafi convenient h ab ❤️,positive,shorthand_emoji,2,positive,True
+negative_21_typo,negative_21,app itna slwo h ki use hi nahi hota,negative,typo,0,negative,True
+positive_48_code_mix,positive_48,"honestly, delivery update har step pe milta raha",positive,code_mix,2,positive,True
+negative_36_shorthand_emoji,negative_36,app notifications time pe aate hi nhi 😞,negative,shorthand_emoji,0,negative,True
+positive_50_emoji_reinforce,positive_50,support agent ne extra mile jaake help ki ❤️,positive,emoji_reinforce,2,positive,True
+positive_17_emoji_reinforce,positive_17,tracking updates time pe milte rehte h 😊,positive,emoji_reinforce,2,positive,True
+neutral_11_code_mix,neutral_11,"seriously, bill ka amount kitna h",neutral,code_mix,1,neutral,True
+positive_51_clean,positive_51,payment turant process ho gya bina delay ke,positive,clean,2,positive,True
+positive_47_stress,positive_47,subscription benefits jaisa bollla tha waisa hi mila,positive,stress,2,positive,True
+neutral_03_shorthand,neutral_03,subscription renewal date kya h,neutral,shorthand,1,neutral,True
+positive_15_flip_sarcasm,positive_15,exchange bina kisi dikkat ke ho gya 🙄,negative,flip_sarcasm,0,negative,True
+neutral_59_code_mix,neutral_59,"seriously, payment confirmation kaise milta h",neutral,code_mix,1,neutral,True
+negative_18_shorthand,negative_18,cab driver ne rasta hi galat le liya,negative,shorthand,0,negative,True
+positive_46_stress,positive_46,bill breakdown bohhhot clear tha,positive,stress,2,positive,True
+positive_17_flip_sarcasm,positive_17,tracking updates time pe milte rehte h 😒,negative,flip_sarcasm,0,negative,True
+positive_43_flip_sarcasm,positive_43,hotel checkin bina kisi wait ke ho gya 🙄,negative,flip_sarcasm,0,negative,True
+negative_50_shorthand,negative_50,support agent ne blkl help nhi ki seriously,negative,shorthand,0,negative,True
+positive_02_clean,positive_02,delivery time pe ho gayi bahut accha laga,positive,clean,2,positive,True
+negative_08_shorthand,negative_08,packaging blkl bekr thi sab tuta hua,negative,shorthand,0,negative,True
+negative_39_emoji_reinforce,negative_39,customer support ne callback hi nahi diya 😑,negative,emoji_reinforce,0,negative,True
+neutral_51_shorthand_typo,neutral_51,order ka weight ktina h,neutral,shorthand_typo,1,neutral,True
+negative_34_emoji_reinforce,negative_34,payment options bohot limited h 😠,negative,emoji_reinforce,0,negative,True
+positive_45_stress_emoji,positive_45,app ka UI bohhhot intuitive h ab 👍,positive,stress_emoji,2,positive,True
+positive_20_stress_emoji,positive_20,apppp ka new design bohot acha h ❤️,positive,stress_emoji,2,positive,True
+neutral_58_clean,neutral_58,account create karne ke liye kya chahiye,neutral,clean,1,neutral,True
+negative_10_stress_emoji,negative_10,delivery boy rude thhha bilkul 😤,negative,stress_emoji,0,negative,True
+positive_58_shorthand_emoji,positive_58,refund amount blkl sahi tha 👍,positive,shorthand_emoji,2,positive,True
+negative_04_shorthand_typo,negative_04,item blkl kharba quality ka nikla,negative,shorthand_typo,0,negative,True
+positive_23_code_mix,positive_23,"honestly, hotel booking process bilkul seedha tha",positive,code_mix,2,positive,True
+negative_52_clean,negative_52,order tracking link kabhi mila hi nahi,negative,clean,0,negative,True
+negative_06_typo,negative_06,app baar baar carsh ho jata h,negative,typo,0,negative,True
+negative_38_typo,negative_38,courier akafi late tha bina kisi update ke,negative,typo,0,negative,True
+negative_46_stress,negative_46,bill breakkkdown samajh hi nahi aaya,negative,stress,0,negative,True
+positive_31_stress_emoji,positive_31,subscription ka trial bhhhi kaafi generous h 😊,positive,stress_emoji,2,positive,True
+neutral_44_emoji_reinforce,neutral_44,flight seat select krni h 🙏,neutral,emoji_reinforce,1,neutral,True
+positive_50_flip_sarcasm,positive_50,support agent ne extra mile jaake help ki 🙄,negative,flip_sarcasm,0,negative,True
+negative_21_shorthand_typo,negative_21,app itna slwo h ki use hi nhi hota,negative,shorthand_typo,0,negative,True
+neutral_09_typo,neutral_09,address update krna h profile me,neutral,typo,1,neutral,True
+negative_06_shorthand,negative_06,app baar baar crash ho jata h,negative,shorthand,0,negative,True
+negative_30_shorthand_typo,negative_30,odrer pack hi nhi hua time pe,negative,shorthand_typo,0,negative,True
+negative_18_stress_emoji,negative_18,cab driver ne rasssta hi galat le liya 😠,negative,stress_emoji,0,negative,True
+neutral_58_shorthand_emoji,neutral_58,account create karne ke liye kya chahiye 🙏,neutral,shorthand_emoji,1,neutral,True
+negative_11_shorthand_typo,negative_11,website hang ho jaat h payment ke time,negative,shorthand_typo,0,negative,True

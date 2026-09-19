@@ -1,0 +1,151 @@
+id,base_id,text,sentiment,pattern_type
+flip_01_plain,flip_01,bohot badhiya service h aapki,positive,flip_plain
+flip_01_reinforced,flip_01,bohot badhiya service h aapki 😊,positive,flip_reinforced
+flip_01_sarcasm,flip_01,bohot badhiya service h aapki 🙄,negative,flip_sarcasm
+flip_02_plain,flip_02,delivery time pe ho gayi bahut accha laga,positive,flip_plain
+flip_02_reinforced,flip_02,delivery time pe ho gayi bahut accha laga ❤️,positive,flip_reinforced
+flip_02_sarcasm,flip_02,delivery time pe ho gayi bahut accha laga 🙃,negative,flip_sarcasm
+flip_03_plain,flip_03,support team ne turant help kri thank you,positive,flip_plain
+flip_03_reinforced,flip_03,support team ne turant help kri thank you 👍,positive,flip_reinforced
+flip_03_sarcasm,flip_03,support team ne turant help kri thank you 😒,negative,flip_sarcasm
+flip_04_plain,flip_04,app bohot smooth chal raha h ab,positive,flip_plain
+flip_04_reinforced,flip_04,app bohot smooth chal raha h ab 😊,positive,flip_reinforced
+flip_04_sarcasm,flip_04,app bohot smooth chal raha h ab 🙄,negative,flip_sarcasm
+flip_05_plain,flip_05,refund itni jaldi mil gaya kamal h,positive,flip_plain
+flip_05_reinforced,flip_05,refund itni jaldi mil gaya kamal h ❤️,positive,flip_reinforced
+flip_05_sarcasm,flip_05,refund itni jaldi mil gaya kamal h 🙃,negative,flip_sarcasm
+flip_06_plain,flip_06,customer care wale bohot polite the,positive,flip_plain
+flip_06_reinforced,flip_06,customer care wale bohot polite the 👍,positive,flip_reinforced
+flip_06_sarcasm,flip_06,customer care wale bohot polite the 😒,negative,flip_sarcasm
+flip_07_plain,flip_07,order perfect condition me mila,positive,flip_plain
+flip_07_reinforced,flip_07,order perfect condition me mila 😊,positive,flip_reinforced
+flip_07_sarcasm,flip_07,order perfect condition me mila 🙄,negative,flip_sarcasm
+flip_08_plain,flip_08,issue turant solve ho gya bohot badhiya,positive,flip_plain
+flip_08_reinforced,flip_08,issue turant solve ho gya bohot badhiya ❤️,positive,flip_reinforced
+flip_08_sarcasm,flip_08,issue turant solve ho gya bohot badhiya 🙃,negative,flip_sarcasm
+flip_09_plain,flip_09,delivery boy bohot helpful tha,positive,flip_plain
+flip_09_reinforced,flip_09,delivery boy bohot helpful tha 👍,positive,flip_reinforced
+flip_09_sarcasm,flip_09,delivery boy bohot helpful tha 😒,negative,flip_sarcasm
+flip_10_plain,flip_10,website use krna bohot easy h ab,positive,flip_plain
+flip_10_reinforced,flip_10,website use krna bohot easy h ab 😊,positive,flip_reinforced
+flip_10_sarcasm,flip_10,website use krna bohot easy h ab 🙄,negative,flip_sarcasm
+flip_11_plain,flip_11,agent ne patience se sara solve kr diya,positive,flip_plain
+flip_11_reinforced,flip_11,agent ne patience se sara solve kr diya ❤️,positive,flip_reinforced
+flip_11_sarcasm,flip_11,agent ne patience se sara solve kr diya 🙃,negative,flip_sarcasm
+flip_12_plain,flip_12,packaging bohot acchi thi is baar,positive,flip_plain
+flip_12_reinforced,flip_12,packaging bohot acchi thi is baar 👍,positive,flip_reinforced
+flip_12_sarcasm,flip_12,packaging bohot acchi thi is baar 😒,negative,flip_sarcasm
+flip_13_plain,flip_13,app update ke baad speed kaafi badh gayi,positive,flip_plain
+flip_13_reinforced,flip_13,app update ke baad speed kaafi badh gayi 😊,positive,flip_reinforced
+flip_13_sarcasm,flip_13,app update ke baad speed kaafi badh gayi 🙄,negative,flip_sarcasm
+flip_14_plain,flip_14,return process bohot smooth raha,positive,flip_plain
+flip_14_reinforced,flip_14,return process bohot smooth raha ❤️,positive,flip_reinforced
+flip_14_sarcasm,flip_14,return process bohot smooth raha 🙃,negative,flip_sarcasm
+flip_15_plain,flip_15,exchange bina kisi dikkat ke ho gya,positive,flip_plain
+flip_15_reinforced,flip_15,exchange bina kisi dikkat ke ho gya 👍,positive,flip_reinforced
+flip_15_sarcasm,flip_15,exchange bina kisi dikkat ke ho gya 😒,negative,flip_sarcasm
+flip_16_plain,flip_16,payment turant confirm ho gya koi issue nahi,positive,flip_plain
+flip_16_reinforced,flip_16,payment turant confirm ho gya koi issue nahi 😊,positive,flip_reinforced
+flip_16_sarcasm,flip_16,payment turant confirm ho gya koi issue nahi 🙄,negative,flip_sarcasm
+flip_17_plain,flip_17,tracking updates time pe milte rehte h,positive,flip_plain
+flip_17_reinforced,flip_17,tracking updates time pe milte rehte h ❤️,positive,flip_reinforced
+flip_17_sarcasm,flip_17,tracking updates time pe milte rehte h 🙃,negative,flip_sarcasm
+flip_18_plain,flip_18,complaint ka response bohot fast tha,positive,flip_plain
+flip_18_reinforced,flip_18,complaint ka response bohot fast tha 👍,positive,flip_reinforced
+flip_18_sarcasm,flip_18,complaint ka response bohot fast tha 😒,negative,flip_sarcasm
+flip_19_plain,flip_19,discount mil gya bina kuch bole,positive,flip_plain
+flip_19_reinforced,flip_19,discount mil gya bina kuch bole 😊,positive,flip_reinforced
+flip_19_sarcasm,flip_19,discount mil gya bina kuch bole 🙄,negative,flip_sarcasm
+flip_20_plain,flip_20,app ka new design bohot acha h,positive,flip_plain
+flip_20_reinforced,flip_20,app ka new design bohot acha h ❤️,positive,flip_reinforced
+flip_20_sarcasm,flip_20,app ka new design bohot acha h 🙃,negative,flip_sarcasm
+flip_21_plain,flip_21,delivery se pehle call aaya bohot thoughtful,positive,flip_plain
+flip_21_reinforced,flip_21,delivery se pehle call aaya bohot thoughtful 👍,positive,flip_reinforced
+flip_21_sarcasm,flip_21,delivery se pehle call aaya bohot thoughtful 😒,negative,flip_sarcasm
+flip_22_plain,flip_22,subscription cancel krna bhi easy nikla,positive,flip_plain
+flip_22_reinforced,flip_22,subscription cancel krna bhi easy nikla 😊,positive,flip_reinforced
+flip_22_sarcasm,flip_22,subscription cancel krna bhi easy nikla 🙄,negative,flip_sarcasm
+flip_23_plain,flip_23,hotel booking process bilkul seedha tha,positive,flip_plain
+flip_23_reinforced,flip_23,hotel booking process bilkul seedha tha ❤️,positive,flip_reinforced
+flip_23_sarcasm,flip_23,hotel booking process bilkul seedha tha 🙃,negative,flip_sarcasm
+flip_24_plain,flip_24,cab turant mil gyi wait nahi krna pada,positive,flip_plain
+flip_24_reinforced,flip_24,cab turant mil gyi wait nahi krna pada 👍,positive,flip_reinforced
+flip_24_sarcasm,flip_24,cab turant mil gyi wait nahi krna pada 😒,negative,flip_sarcasm
+flip_25_plain,flip_25,flight status live update milta rehta h,positive,flip_plain
+flip_25_reinforced,flip_25,flight status live update milta rehta h 😊,positive,flip_reinforced
+flip_25_sarcasm,flip_25,flight status live update milta rehta h 🙄,negative,flip_sarcasm
+neg_01,neg_01,service bohot kharab h bilkul bhi acha nahi,negative,standalone_negative
+neg_02,neg_02,order 5 din late aaya bohot ganda experience,negative,standalone_negative
+neg_03,neg_03,support wale reply hi nahi krte kisi ka,negative,standalone_negative
+neg_04,neg_04,item bilkul kharab quality ka nikla,negative,standalone_negative
+neg_05,neg_05,refund abhi tak nahi mila bohot frustrating h,negative,standalone_negative
+neg_06,neg_06,app baar baar crash ho jata h,negative,standalone_negative
+neg_07,neg_07,agent ne bilkul help nahi ki,negative,standalone_negative
+neg_08,neg_08,packaging bilkul bekar thi sab tuta hua,negative,standalone_negative
+neg_09,neg_09,wait time bohot zyada tha call pe,negative,standalone_negative
+neg_10,neg_10,delivery boy rude tha bilkul,negative,standalone_negative
+neg_11,neg_11,website hang ho jata h payment ke time,negative,standalone_negative
+neg_12,neg_12,complaint ignore kr diya gya,negative,standalone_negative
+neg_13,neg_13,wrong item bheja aur response bhi nahi mila,negative,standalone_negative
+neg_14,neg_14,charges galat lagaye aur explanation bhi nahi mila,negative,standalone_negative
+neg_15,neg_15,subscription cancel krna itna mushkil kyu h,negative,standalone_negative
+neg_16,neg_16,return request reject kr diya bina reason ke,negative,standalone_negative
+neg_17,neg_17,hotel room bilkul saaf nahi tha,negative,standalone_negative
+neg_18,neg_18,cab driver ne rasta hi galat le liya,negative,standalone_negative
+neg_19,neg_19,flight delay hui aur koi update nahi mila,negative,standalone_negative
+neg_20,neg_20,bill me extra charge dikh raha h galti se,negative,standalone_negative
+neg_21,neg_21,app itna slow h ki use hi nahi hota,negative,standalone_negative
+neg_22,neg_22,baar baar same problem bata chuka hu koi fix nahi,negative,standalone_negative
+neg_23,neg_23,customer care ne call hi disconnect kr diya,negative,standalone_negative
+neg_24,neg_24,exchange ke liye 10 din wait krna pada,negative,standalone_negative
+neg_25,neg_25,itna bura experience pehle kabhi nahi hua,negative,standalone_negative
+neu_01,neu_01,order kal deliver hoga,neutral,standalone_neutral
+neu_02,neu_02,mera account balance check krna h,neutral,standalone_neutral
+neu_03,neu_03,subscription renewal date kya h,neutral,standalone_neutral
+neu_04,neu_04,flight ka gate number kya h,neutral,standalone_neutral
+neu_05,neu_05,hotel checkin time kya h,neutral,standalone_neutral
+neu_06,neu_06,cab ka fare kitna hoga,neutral,standalone_neutral
+neu_07,neu_07,return window kitne din ka h,neutral,standalone_neutral
+neu_08,neu_08,payment method change krna h,neutral,standalone_neutral
+neu_09,neu_09,address update krna h profile me,neutral,standalone_neutral
+neu_10,neu_10,order tracking number chahiye,neutral,standalone_neutral
+neu_11,neu_11,bill ka amount kitna h,neutral,standalone_neutral
+neu_12,neu_12,delivery slot select krna h,neutral,standalone_neutral
+neu_13,neu_13,account verification krna h,neutral,standalone_neutral
+neu_14,neu_14,new password set krna h,neutral,standalone_neutral
+neu_15,neu_15,app ka version kya h abhi,neutral,standalone_neutral
+neu_16,neu_16,flight booking confirm hui ya nahi,neutral,standalone_neutral
+neu_17,neu_17,hotel me wifi available h kya,neutral,standalone_neutral
+neu_18,neu_18,cab driver ka number mil sakta h,neutral,standalone_neutral
+neu_19,neu_19,order me kitne items h,neutral,standalone_neutral
+neu_20,neu_20,refund process me kitna time lagta h,neutral,standalone_neutral
+neu_21,neu_21,subscription plan ke features kya h,neutral,standalone_neutral
+neu_22,neu_22,payment due date kya h,neutral,standalone_neutral
+neu_23,neu_23,delivery address change krna h,neutral,standalone_neutral
+neu_24,neu_24,order status update chahiye,neutral,standalone_neutral
+neu_25,neu_25,exchange ke liye kya documents chahiye,neutral,standalone_neutral
+neu_26,neu_26,account me do factor auth kaise on kre,neutral,standalone_neutral
+neu_27,neu_27,flight ka baggage allowance kitna h,neutral,standalone_neutral
+neu_28,neu_28,hotel ka cancellation policy kya h,neutral,standalone_neutral
+neu_29,neu_29,cab booking ke liye advance chahiye kya,neutral,standalone_neutral
+neu_30,neu_30,order me discount code apply kaise kre,neutral,standalone_neutral
+neu_31,neu_31,subscription me kitne users add ho skte h,neutral,standalone_neutral
+neu_32,neu_32,payment gateway options kya kya h,neutral,standalone_neutral
+neu_33,neu_33,delivery partner ka naam kya h,neutral,standalone_neutral
+neu_34,neu_34,account settings me language change krni h,neutral,standalone_neutral
+neu_35,neu_35,order invoice chahiye mujhe,neutral,standalone_neutral
+neu_36,neu_36,flight check in online ho skta h kya,neutral,standalone_neutral
+neu_37,neu_37,hotel room type change krna h,neutral,standalone_neutral
+neu_38,neu_38,cab me extra stop add krna h,neutral,standalone_neutral
+neu_39,neu_39,order split ho skta h kya,neutral,standalone_neutral
+neu_40,neu_40,subscription auto renew off krna h,neutral,standalone_neutral
+neu_41,neu_41,payment receipt chahiye,neutral,standalone_neutral
+neu_42,neu_42,delivery date confirm krni h,neutral,standalone_neutral
+neu_43,neu_43,account email change krna h,neutral,standalone_neutral
+neu_44,neu_44,flight seat select krni h,neutral,standalone_neutral
+neu_45,neu_45,hotel breakfast included h kya,neutral,standalone_neutral
+neu_46,neu_46,cab share option available h kya,neutral,standalone_neutral
+neu_47,neu_47,order combine kr skte h kya,neutral,standalone_neutral
+neu_48,neu_48,subscription pause kr skte h kya,neutral,standalone_neutral
+neu_49,neu_49,payment split ho skta h kya,neutral,standalone_neutral
+neu_50,neu_50,delivery instructions add krni h,neutral,standalone_neutral

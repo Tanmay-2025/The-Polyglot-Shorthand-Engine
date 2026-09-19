@@ -1,0 +1,79 @@
+{
+  "patch_reason": "delivery_tracking_b027's 10 surface variants were confused with order_status by both ModernBERT and XLM-R across every variant type (typo, emoji, code_mix, etc.), indicating a genuine semantic ambiguity in the base utterance itself ('tracking update' read as generic order-status language) rather than a model robustness failure. See error_analysis.py and inspect_confusion.py output.",
+  "target_base_id": "delivery_tracking_b027",
+  "label_change": "none -- intent stays delivery_tracking",
+  "text_change": "added explicit courier/parcel cue to disambiguate from order_status",
+  "n_rows_patched": 10,
+  "entries": [
+    {
+      "id": "delivery_tracking_b027_v01",
+      "variant": "clean",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha"
+    },
+    {
+      "id": "delivery_tracking_b027_v02",
+      "variant": "shorthand",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha"
+    },
+    {
+      "id": "delivery_tracking_b027_v03",
+      "variant": "code_mix",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha"
+    },
+    {
+      "id": "delivery_tracking_b027_v04",
+      "variant": "typo",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracikng updtae de do, trcking updat nahi mil raha",
+      "new_text": "pls courrier ka trackign updtae de do, parcle ka tracking updat nahi mil raha"
+    },
+    {
+      "id": "delivery_tracking_b027_v05",
+      "variant": "emoji",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha 🙏",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha 🙏"
+    },
+    {
+      "id": "delivery_tracking_b027_v06",
+      "variant": "punctuation",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha...",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha..."
+    },
+    {
+      "id": "delivery_tracking_b027_v07",
+      "variant": "shorthand_typo",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracing updtae de do, trackign udpate nahi mil raha",
+      "new_text": "pls corier ka tracing updtae de do, parcl ka trackign udpate nahi mil raha"
+    },
+    {
+      "id": "delivery_tracking_b027_v08",
+      "variant": "shorthand_emoji",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha 🙏",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha 🙏"
+    },
+    {
+      "id": "delivery_tracking_b027_v09",
+      "variant": "code_mix_emoji",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update de do, tracking update nahi mil raha 🙏",
+      "new_text": "pls courier ka tracking update de do, parcel ka tracking update nahi mil raha 🙏"
+    },
+    {
+      "id": "delivery_tracking_b027_v10",
+      "variant": "stress",
+      "intent_unchanged": "delivery_tracking",
+      "old_text": "pls tracking update deee do, tracking update nahi mil raha 😭",
+      "new_text": "pls courier ka tracking update deee do, parcel ka tracking update nahi mil raha 😭"
+    }
+  ]
+}

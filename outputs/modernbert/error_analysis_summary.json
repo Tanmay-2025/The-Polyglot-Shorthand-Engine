@@ -1,0 +1,348 @@
+{
+  "model_dir": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\modernbert\\best_model",
+  "test_examples": 3240,
+  "overall_accuracy": 0.9987654320987654,
+  "n_errors": 4,
+  "confused_pairs": [
+    {
+      "true_intent": "order_modify",
+      "predicted_intent": "exchange_item",
+      "count": 3
+    },
+    {
+      "true_intent": "flight_booking",
+      "predicted_intent": "delivery_tracking",
+      "count": 1
+    }
+  ],
+  "variant_breakdown": [
+    {
+      "variant": "typo",
+      "total": 324,
+      "errors": 3,
+      "error_rate": 0.009259259259259259
+    },
+    {
+      "variant": "shorthand_typo",
+      "total": 324,
+      "errors": 1,
+      "error_rate": 0.0030864197530864196
+    },
+    {
+      "variant": "clean",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "code_mix",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "code_mix_emoji",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "emoji",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "punctuation",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "shorthand",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "shorthand_emoji",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "variant": "stress",
+      "total": 324,
+      "errors": 0,
+      "error_rate": 0.0
+    }
+  ],
+  "domain_breakdown": [
+    {
+      "domain": "Orders",
+      "total": 450,
+      "errors": 3,
+      "error_rate": 0.006666666666666667
+    },
+    {
+      "domain": "Travel & Transport",
+      "total": 360,
+      "errors": 1,
+      "error_rate": 0.002777777777777778
+    },
+    {
+      "domain": "Account & Support",
+      "total": 360,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Delivery",
+      "total": 450,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "General",
+      "total": 360,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Payments",
+      "total": 360,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Returns & Refunds",
+      "total": 450,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Subscriptions & Billing",
+      "total": 450,
+      "errors": 0,
+      "error_rate": 0.0
+    }
+  ],
+  "intent_breakdown": [
+    {
+      "intent": "order_modify",
+      "total": 90,
+      "errors": 3,
+      "error_rate": 0.03333333333333333
+    },
+    {
+      "intent": "flight_booking",
+      "total": 90,
+      "errors": 1,
+      "error_rate": 0.011111111111111112
+    },
+    {
+      "intent": "account_login",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "bill_due_date",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "bill_payment",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "cab_booking",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "complaint",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "delivery_address_change",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "delivery_damaged",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "delivery_delay",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "delivery_missing",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "delivery_tracking",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "duplicate_charge",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "exchange_item",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "faq_how_to",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "flight_status",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "greeting",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "hotel_booking",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "human_agent",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "order_cancel",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "order_cancellation_failed",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "order_status",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "password_reset",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "payment_failed",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "payment_pending",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "profile_change",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "refund_after_cancellation",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "refund_missing",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "refund_status",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "return_item",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "subscription_cancel",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "subscription_charged",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "subscription_upgrade",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "thanks",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "wrong_charge",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "intent": "wrong_item",
+      "total": 90,
+      "errors": 0,
+      "error_rate": 0.0
+    }
+  ]
+}

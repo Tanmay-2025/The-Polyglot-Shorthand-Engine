@@ -1,0 +1,4 @@
+id,base_id,text,domain,intent,predicted_intent,variant,noise_level,emoji_role
+return_item_b017_v07,return_item_b017,"pls pls retunr process batoa, qualtiy expecetd jasii nahi hai",Returns & Refunds,return_item,refund_status,shorthand_typo,2_medium,none
+human_agent_b006_v04,human_agent_b006,automted spport ke bajya hmuan suppotr chahiey,Account & Support,human_agent,subscription_charged,typo,2_medium,none
+flight_booking_b015_v04,flight_booking_b015,"mjuhe lagat hai, trvael ke liye tikcet chahiye; weeken par fight chhaiye",Travel & Transport,flight_booking,hotel_booking,typo,2_medium,none

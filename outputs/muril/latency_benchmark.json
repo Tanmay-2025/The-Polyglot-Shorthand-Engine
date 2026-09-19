@@ -1,0 +1,102 @@
+{
+  "model_dir": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\muril\\best_model",
+  "device": "cuda",
+  "dtype": "fp32",
+  "param_count": 237583908,
+  "max_length": 64,
+  "runs": [
+    {
+      "run": 1,
+      "single_example_latency": {
+        "mean_ms": 5.133508599596098,
+        "p50_ms": 5.323499994119629,
+        "p90_ms": 5.585820035776123,
+        "p95_ms": 5.6840899749659,
+        "p99_ms": 5.945212983642705,
+        "max_ms": 6.775000016205013,
+        "min_ms": 3.7491999682970345
+      },
+      "batched_throughput": {
+        "batch_size": 32,
+        "n_batches_measured": 50,
+        "throughput_examples_per_sec": 1158.620673739191,
+        "mean_batch_latency_ms": 27.619047998450696
+      }
+    },
+    {
+      "run": 2,
+      "single_example_latency": {
+        "mean_ms": 4.987877000821754,
+        "p50_ms": 5.134300037752837,
+        "p90_ms": 5.489239998860285,
+        "p95_ms": 5.590289959218353,
+        "p99_ms": 5.973715026048012,
+        "max_ms": 6.6924000275321305,
+        "min_ms": 3.6694000009447336
+      },
+      "batched_throughput": {
+        "batch_size": 32,
+        "n_batches_measured": 50,
+        "throughput_examples_per_sec": 1159.651379749857,
+        "mean_batch_latency_ms": 27.594500001287088
+      }
+    },
+    {
+      "run": 3,
+      "single_example_latency": {
+        "mean_ms": 5.126155999023467,
+        "p50_ms": 5.302200006553903,
+        "p90_ms": 5.509859987068921,
+        "p95_ms": 5.583655016380361,
+        "p99_ms": 5.790309965377673,
+        "max_ms": 6.035500031430274,
+        "min_ms": 3.916100016795099
+      },
+      "batched_throughput": {
+        "batch_size": 32,
+        "n_batches_measured": 50,
+        "throughput_examples_per_sec": 1156.9440940764785,
+        "mean_batch_latency_ms": 27.659072001697496
+      }
+    }
+  ],
+  "stability": {
+    "n_repeats": 3,
+    "p50_ms": {
+      "mean": 5.253333346142123,
+      "std": 0.0846172509879997,
+      "values": [
+        5.323499994119629,
+        5.134300037752837,
+        5.302200006553903
+      ]
+    },
+    "p95_ms": {
+      "mean": 5.619344983521539,
+      "std": 0.04586168374917299,
+      "values": [
+        5.6840899749659,
+        5.590289959218353,
+        5.583655016380361
+      ]
+    },
+    "p99_ms": {
+      "mean": 5.903079325022797,
+      "std": 0.08058448139022364,
+      "values": [
+        5.945212983642705,
+        5.973715026048012,
+        5.790309965377673
+      ]
+    },
+    "throughput_examples_per_sec": {
+      "mean": 1158.405382521842,
+      "std": 1.1156796614682163,
+      "values": [
+        1158.620673739191,
+        1159.651379749857,
+        1156.9440940764785
+      ]
+    }
+  }
+}

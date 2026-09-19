@@ -1,0 +1,39 @@
+{
+  "model_name": "mDeBERTa-v3-base",
+  "model_id": "microsoft/mdeberta-v3-base",
+  "dataset": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\data\\dataset_A_v2_36class_final.csv",
+  "num_labels": 36,
+  "max_length": 64,
+  "seed": 42,
+  "num_epochs": 5,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "train_batch_size": 8,
+  "eval_batch_size": 32,
+  "gradient_accumulation": 1,
+  "precision": "fp32",
+  "early_stopping_patience": 2,
+  "best_checkpoint": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\mdeberta\\checkpoint-1890",
+  "best_validation_metric": 0.0015015015015015015,
+  "validation_metrics": {
+    "eval_loss": 3.585604190826416,
+    "eval_accuracy": 0.027777777777777776,
+    "eval_macro_f1": 0.0015015015015015015,
+    "eval_weighted_f1": 0.0015015015015015015,
+    "eval_runtime": 9.2309,
+    "eval_samples_per_second": 350.994,
+    "eval_steps_per_second": 11.05,
+    "epoch": 3.0
+  },
+  "test_metrics": {
+    "test_loss": 3.585604190826416,
+    "test_accuracy": 0.027777777777777776,
+    "test_macro_f1": 0.0015015015015015015,
+    "test_weighted_f1": 0.0015015015015015015,
+    "test_runtime": 9.0439,
+    "test_samples_per_second": 358.254,
+    "test_steps_per_second": 11.278,
+    "epoch": 3.0
+  }
+}

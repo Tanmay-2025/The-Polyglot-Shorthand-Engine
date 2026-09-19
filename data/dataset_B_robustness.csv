@@ -1,0 +1,109 @@
+id,text,domain,intent,source
+b_order_cancel_01,bhai order cancel krdo please urgent meeting h,Orders,order_cancel,dataset_B_handauthored
+b_order_cancel_02,order cancl kr do yr,Orders,order_cancel,dataset_B_handauthored
+b_order_cancel_03,cncl my ordr asap,Orders,order_cancel,dataset_B_handauthored
+b_order_status_01,mera order kaha h abhi tak pta nahi chala,Orders,order_status,dataset_B_handauthored
+b_order_status_02,order status?? koi update nahi mila abhi tk,Orders,order_status,dataset_B_handauthored
+b_order_status_03,whr is my ordr yr,Orders,order_status,dataset_B_handauthored
+b_order_modify_01,order me address change krna h thoda,Orders,order_modify,dataset_B_handauthored
+b_order_modify_02,can i modify qty in my order pls,Orders,order_modify,dataset_B_handauthored
+b_order_modify_03,order edit karna h ek cheez,Orders,order_modify,dataset_B_handauthored
+b_order_cancellation_failed_01,maine cancel kiya tha but order fir bhi aa gya,Orders,order_cancellation_failed,dataset_B_handauthored
+b_order_cancellation_failed_02,cancel button dabaya but status same h abhi bhi,Orders,order_cancellation_failed,dataset_B_handauthored
+b_order_cancellation_failed_03,order cancel nahi hua application me error dikha,Orders,order_cancellation_failed,dataset_B_handauthored
+b_wrong_item_01,mujhe kuch aur mila jo order nahi kiya tha,Orders,wrong_item,dataset_B_handauthored
+b_wrong_item_02,wrong product aaya bhai ye toh maine mangaya hi nahi,Orders,wrong_item,dataset_B_handauthored
+b_wrong_item_03,item mismatch hai jo bheja vo galat h,Orders,wrong_item,dataset_B_handauthored
+b_delivery_address_change_01,address change krna h delivery se pehle,Delivery,delivery_address_change,dataset_B_handauthored
+b_delivery_address_change_02,shipping address galat h update kr do,Delivery,delivery_address_change,dataset_B_handauthored
+b_delivery_address_change_03,naya address dalna h order me,Delivery,delivery_address_change,dataset_B_handauthored
+b_delivery_delay_01,delivery kaafi late ho rahi h kya hua,Delivery,delivery_delay,dataset_B_handauthored
+b_delivery_delay_02,order abhi tk nahi aaya bohot late h,Delivery,delivery_delay,dataset_B_handauthored
+b_delivery_delay_03,delay ho gya delivery me kb tk milega,Delivery,delivery_delay,dataset_B_handauthored
+b_delivery_tracking_01,courier kaha h abhi track nahi ho rha,Delivery,delivery_tracking,dataset_B_handauthored
+b_delivery_tracking_02,parcel ka status pta krna h,Delivery,delivery_tracking,dataset_B_handauthored
+b_delivery_tracking_03,shipment track krna h mera,Delivery,delivery_tracking,dataset_B_handauthored
+b_delivery_damaged_01,package tuta hua mila bohot bura laga,Delivery,delivery_damaged,dataset_B_handauthored
+b_delivery_damaged_02,item damaged aaya box bhi phata hua tha,Delivery,delivery_damaged,dataset_B_handauthored
+b_delivery_damaged_03,product broken h delivery ke baad,Delivery,delivery_damaged,dataset_B_handauthored
+b_delivery_missing_01,delivered dikha rha but mujhe kuch nahi mila,Delivery,delivery_missing,dataset_B_handauthored
+b_delivery_missing_02,status delivered h but parcel missing h,Delivery,delivery_missing,dataset_B_handauthored
+b_delivery_missing_03,courier delivered bola but ghar pe kuch aaya nahi,Delivery,delivery_missing,dataset_B_handauthored
+b_return_item_01,ye product return krna h mujhe pasand nahi aaya,Returns & Refunds,return_item,dataset_B_handauthored
+b_return_item_02,return process start krna h iska,Returns & Refunds,return_item,dataset_B_handauthored
+b_return_item_03,wapas krna h ye item,Returns & Refunds,return_item,dataset_B_handauthored
+b_exchange_item_01,size change krna h same product ka,Returns & Refunds,exchange_item,dataset_B_handauthored
+b_exchange_item_02,exchange krna h ye variant ka,Returns & Refunds,exchange_item,dataset_B_handauthored
+b_exchange_item_03,different color chahiye exchange krke,Returns & Refunds,exchange_item,dataset_B_handauthored
+b_refund_status_01,mera refund kaha h abhi tak nahi aaya,Returns & Refunds,refund_status,dataset_B_handauthored
+b_refund_status_02,refund status pucna h,Returns & Refunds,refund_status,dataset_B_handauthored
+b_refund_status_03,paisa wapas kab aayega abhi tak kuch nahi,Returns & Refunds,refund_status,dataset_B_handauthored
+b_refund_after_cancellation_01,cancel kiya tha order refund kab tk milega,Returns & Refunds,refund_after_cancellation,dataset_B_handauthored
+b_refund_after_cancellation_02,cancellation ke baad refund ka time kitna lagta h,Returns & Refunds,refund_after_cancellation,dataset_B_handauthored
+b_refund_after_cancellation_03,order cancel hone ke baad paisa kab aayega,Returns & Refunds,refund_after_cancellation,dataset_B_handauthored
+b_refund_missing_01,refund abhi tak nahi mila bohot time ho gya,Returns & Refunds,refund_missing,dataset_B_handauthored
+b_refund_missing_02,paisa wapas nahi aaya still waiting,Returns & Refunds,refund_missing,dataset_B_handauthored
+b_refund_missing_03,refund missing h mera account me kuch nahi dikh rha,Returns & Refunds,refund_missing,dataset_B_handauthored
+b_payment_failed_01,payment fail ho gya try krte hue,Payments,payment_failed,dataset_B_handauthored
+b_payment_failed_02,transaction fail hua paisa cut gya,Payments,payment_failed,dataset_B_handauthored
+b_payment_failed_03,payment nahi ho paya kya issue h,Payments,payment_failed,dataset_B_handauthored
+b_payment_pending_01,payment pending dikha rha kb tk clear hoga,Payments,payment_pending,dataset_B_handauthored
+b_payment_pending_02,transaction status pending h abhi tak,Payments,payment_pending,dataset_B_handauthored
+b_payment_pending_03,paisa pending me atka hua h,Payments,payment_pending,dataset_B_handauthored
+b_wrong_charge_01,extra amount charge hua h mujhse,Payments,wrong_charge,dataset_B_handauthored
+b_wrong_charge_02,galat amount cut gya account se,Payments,wrong_charge,dataset_B_handauthored
+b_wrong_charge_03,charge zyada hua h expected se,Payments,wrong_charge,dataset_B_handauthored
+b_duplicate_charge_01,do baar paisa cut gya ek hi order ka,Payments,duplicate_charge,dataset_B_handauthored
+b_duplicate_charge_02,double charge hua h same transaction ka,Payments,duplicate_charge,dataset_B_handauthored
+b_duplicate_charge_03,amount twice deduct hua h galti se,Payments,duplicate_charge,dataset_B_handauthored
+b_account_login_01,login nahi ho pa rha account me kya karu,Account & Support,account_login,dataset_B_handauthored
+b_account_login_02,app me login issue aa rha h,Account & Support,account_login,dataset_B_handauthored
+b_account_login_03,account access nahi ho rha error aa rha,Account & Support,account_login,dataset_B_handauthored
+b_password_reset_01,password bhul gya reset krna h,Account & Support,password_reset,dataset_B_handauthored
+b_password_reset_02,naya password set krna h bhul gya purana,Account & Support,password_reset,dataset_B_handauthored
+b_password_reset_03,password change krna h forgot kr diya,Account & Support,password_reset,dataset_B_handauthored
+b_profile_change_01,profile details update krni h thodi,Account & Support,profile_change,dataset_B_handauthored
+b_profile_change_02,naam change krna h account me,Account & Support,profile_change,dataset_B_handauthored
+b_profile_change_03,profile info edit krni h meri,Account & Support,profile_change,dataset_B_handauthored
+b_human_agent_01,kisi insaan se baat krni h bot se nahi ho rha,Account & Support,human_agent,dataset_B_handauthored
+b_human_agent_02,real agent chahiye mujhe abhi,Account & Support,human_agent,dataset_B_handauthored
+b_human_agent_03,human se connect kr do please,Account & Support,human_agent,dataset_B_handauthored
+b_subscription_cancel_01,subscription band krna h ab nahi chahiye,Subscriptions & Billing,subscription_cancel,dataset_B_handauthored
+b_subscription_cancel_02,cancel krni h meri membership,Subscriptions & Billing,subscription_cancel,dataset_B_handauthored
+b_subscription_cancel_03,subscription cancel krdo please,Subscriptions & Billing,subscription_cancel,dataset_B_handauthored
+b_subscription_upgrade_01,plan upgrade krna h premium wala,Subscriptions & Billing,subscription_upgrade,dataset_B_handauthored
+b_subscription_upgrade_02,higher plan chahiye mujhe ab,Subscriptions & Billing,subscription_upgrade,dataset_B_handauthored
+b_subscription_upgrade_03,subscription upgrade krni h meri,Subscriptions & Billing,subscription_upgrade,dataset_B_handauthored
+b_subscription_charged_01,subscription ka paisa cut gya achanak se,Subscriptions & Billing,subscription_charged,dataset_B_handauthored
+b_subscription_charged_02,bina bataye charge kr diya subscription ka,Subscriptions & Billing,subscription_charged,dataset_B_handauthored
+b_subscription_charged_03,renewal charge ho gya mujhe pta nahi tha,Subscriptions & Billing,subscription_charged,dataset_B_handauthored
+b_bill_due_date_01,bill kab due h mera pta nahi,Subscriptions & Billing,bill_due_date,dataset_B_handauthored
+b_bill_due_date_02,payment date kya h is baar ki,Subscriptions & Billing,bill_due_date,dataset_B_handauthored
+b_bill_due_date_03,due date kya h bill ki,Subscriptions & Billing,bill_due_date,dataset_B_handauthored
+b_bill_payment_01,bill pay krna h abhi ka,Subscriptions & Billing,bill_payment,dataset_B_handauthored
+b_bill_payment_02,payment krni h meri bill ki,Subscriptions & Billing,bill_payment,dataset_B_handauthored
+b_bill_payment_03,bill clear krna h jaldi,Subscriptions & Billing,bill_payment,dataset_B_handauthored
+b_flight_booking_01,flight book krni h delhi se mumbai,Travel & Transport,flight_booking,dataset_B_handauthored
+b_flight_booking_02,ticket chahiye flight ka agle hafte ka,Travel & Transport,flight_booking,dataset_B_handauthored
+b_flight_booking_03,booking krni h flight ki,Travel & Transport,flight_booking,dataset_B_handauthored
+b_flight_status_01,flight ka status pta krna h delay to nahi,Travel & Transport,flight_status,dataset_B_handauthored
+b_flight_status_02,mera flight time pe h ya late,Travel & Transport,flight_status,dataset_B_handauthored
+b_flight_status_03,flight status check krna h abhi,Travel & Transport,flight_status,dataset_B_handauthored
+b_hotel_booking_01,hotel book krna h ek raat ka,Travel & Transport,hotel_booking,dataset_B_handauthored
+b_hotel_booking_02,stay chahiye hotel me weekend ko,Travel & Transport,hotel_booking,dataset_B_handauthored
+b_hotel_booking_03,booking krni h hotel ki,Travel & Transport,hotel_booking,dataset_B_handauthored
+b_cab_booking_01,cab book krni h abhi ghar jana h,Travel & Transport,cab_booking,dataset_B_handauthored
+b_cab_booking_02,gaadi chahiye jaldi book kr do,Travel & Transport,cab_booking,dataset_B_handauthored
+b_cab_booking_03,cab lagani h station tk,Travel & Transport,cab_booking,dataset_B_handauthored
+b_greeting_01,hii kaise ho,General,greeting,dataset_B_handauthored
+b_greeting_02,namaste kuch puchna tha,General,greeting,dataset_B_handauthored
+b_greeting_03,hello madad chahiye thi,General,greeting,dataset_B_handauthored
+b_thanks_01,thank you bohot help mila,General,thanks,dataset_B_handauthored
+b_thanks_02,shukriya aapki madad ke liye,General,thanks,dataset_B_handauthored
+b_thanks_03,thanks yr sahi solve ho gya,General,thanks,dataset_B_handauthored
+b_complaint_01,service bohot kharab h aapki,General,complaint,dataset_B_handauthored
+b_complaint_02,bohot disappointed hu is baar,General,complaint,dataset_B_handauthored
+b_complaint_03,experience acha nahi raha overall,General,complaint,dataset_B_handauthored
+b_faq_how_to_01,account kaise delete kre bta do,General,faq_how_to,dataset_B_handauthored
+b_faq_how_to_02,order kaise place kre pehli baar,General,faq_how_to,dataset_B_handauthored
+b_faq_how_to_03,app kaise use kre samajh nahi aa rha,General,faq_how_to,dataset_B_handauthored

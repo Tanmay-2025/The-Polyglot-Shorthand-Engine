@@ -1,0 +1,1861 @@
+id,base_id,text,sentiment,pattern_type
+positive_01_clean,positive_01,bohot badhiya service h aapki,positive,clean
+positive_01_shorthand,positive_01,bhot badhiya service h aapki,positive,shorthand
+positive_01_typo,positive_01,bohot badhiay service h aapki,positive,typo
+positive_01_punctuation,positive_01,bohot badhiya service h aapki!,positive,punctuation
+positive_01_stress,positive_01,bohot badhiya servvvice h aapki,positive,stress
+positive_01_shorthand_typo,positive_01,bhot badhiya service h aapik,positive,shorthand_typo
+positive_01_code_mix,positive_01,"actually, bohot badhiya service h aapki",positive,code_mix
+positive_01_emoji_reinforce,positive_01,bohot badhiya service h aapki 👍,positive,emoji_reinforce
+positive_01_shorthand_emoji,positive_01,bhot badhiya service h aapki 👍,positive,shorthand_emoji
+positive_01_stress_emoji,positive_01,bohot badhiya servvvice h aapki 👍,positive,stress_emoji
+positive_02_clean,positive_02,delivery time pe ho gayi bahut accha laga,positive,clean
+positive_02_shorthand,positive_02,delivery time pe ho gayi bahut accha laga,positive,shorthand
+positive_02_typo,positive_02,delivery time pe ho gayi bahut accah laga,positive,typo
+positive_02_punctuation,positive_02,delivery time pe ho gayi bahut accha laga!,positive,punctuation
+positive_02_stress,positive_02,delivery time pe ho gayi bahhhut accha laga,positive,stress
+positive_02_shorthand_typo,positive_02,delivery time pe ho gayi bahut accha laga,positive,shorthand_typo
+positive_02_code_mix,positive_02,"just saying, delivery time pe ho gayi bahut accha laga",positive,code_mix
+positive_02_emoji_reinforce,positive_02,delivery time pe ho gayi bahut accha laga ❤️,positive,emoji_reinforce
+positive_02_shorthand_emoji,positive_02,delivery time pe ho gayi bahut accha laga ❤️,positive,shorthand_emoji
+positive_02_stress_emoji,positive_02,delivery time pe ho gayi bahhhut accha laga ❤️,positive,stress_emoji
+positive_03_clean,positive_03,support team ne turant help kri thank you,positive,clean
+positive_03_shorthand,positive_03,support team ne turant help kri thank you,positive,shorthand
+positive_03_typo,positive_03,support team ne turant hlep kri thank you,positive,typo
+positive_03_punctuation,positive_03,support team ne turant help kri thank you!,positive,punctuation
+positive_03_stress,positive_03,support team ne turaaant help kri thank you,positive,stress
+positive_03_shorthand_typo,positive_03,support team ne turant help kri tahnk you,positive,shorthand_typo
+positive_03_code_mix,positive_03,"literally, support team ne turant help kri thank you",positive,code_mix
+positive_03_emoji_reinforce,positive_03,support team ne turant help kri thank you 👍,positive,emoji_reinforce
+positive_03_shorthand_emoji,positive_03,support team ne turant help kri thank you 👍,positive,shorthand_emoji
+positive_03_stress_emoji,positive_03,support team ne turaaant help kri thank you 👍,positive,stress_emoji
+positive_04_clean,positive_04,app bohot smooth chal raha h ab,positive,clean
+positive_04_shorthand,positive_04,app bhot smooth chal rha h ab,positive,shorthand
+positive_04_typo,positive_04,app bohot smooth chal arha h ab,positive,typo
+positive_04_punctuation,positive_04,app bohot smooth chal raha h ab!,positive,punctuation
+positive_04_stress,positive_04,apppp bohot smooth chal raha h ab,positive,stress
+positive_04_shorthand_typo,positive_04,app hbot smooth chal rha h ab,positive,shorthand_typo
+positive_04_code_mix,positive_04,"actually, app bohot smooth chal raha h ab",positive,code_mix
+positive_04_emoji_reinforce,positive_04,app bohot smooth chal raha h ab ❤️,positive,emoji_reinforce
+positive_04_shorthand_emoji,positive_04,app bhot smooth chal rha h ab ❤️,positive,shorthand_emoji
+positive_04_stress_emoji,positive_04,apppp bohot smooth chal raha h ab ❤️,positive,stress_emoji
+positive_05_clean,positive_05,refund itni jaldi mil gaya kamal h,positive,clean
+positive_05_shorthand,positive_05,refund itni jaldi mil gaya kamal h,positive,shorthand
+positive_05_typo,positive_05,refund itni jaldi mil gaya kaaml h,positive,typo
+positive_05_punctuation,positive_05,refund itni jaldi mil gaya kamal h!,positive,punctuation
+positive_05_stress,positive_05,refuuund itni jaldi mil gaya kamal h,positive,stress
+positive_05_shorthand_typo,positive_05,refund itni jaldi mil gaya kamla h,positive,shorthand_typo
+positive_05_code_mix,positive_05,"honestly, refund itni jaldi mil gaya kamal h",positive,code_mix
+positive_05_emoji_reinforce,positive_05,refund itni jaldi mil gaya kamal h ❤️,positive,emoji_reinforce
+positive_05_shorthand_emoji,positive_05,refund itni jaldi mil gaya kamal h ❤️,positive,shorthand_emoji
+positive_05_stress_emoji,positive_05,refuuund itni jaldi mil gaya kamal h ❤️,positive,stress_emoji
+positive_06_clean,positive_06,customer care wale bohot polite the,positive,clean
+positive_06_shorthand,positive_06,customer care wale bhot polite the,positive,shorthand
+positive_06_typo,positive_06,customer care wael bohot polite the,positive,typo
+positive_06_punctuation,positive_06,customer care wale bohot polite the!,positive,punctuation
+positive_06_stress,positive_06,custooomer care wale bohot polite the,positive,stress
+positive_06_shorthand_typo,positive_06,ucstomer care wale bhot polite the,positive,shorthand_typo
+positive_06_code_mix,positive_06,"seriously, customer care wale bohot polite the",positive,code_mix
+positive_06_emoji_reinforce,positive_06,customer care wale bohot polite the 😊,positive,emoji_reinforce
+positive_06_shorthand_emoji,positive_06,customer care wale bhot polite the 😊,positive,shorthand_emoji
+positive_06_stress_emoji,positive_06,custooomer care wale bohot polite the 😊,positive,stress_emoji
+positive_07_clean,positive_07,order perfect condition me mila,positive,clean
+positive_07_shorthand,positive_07,order perfect condition me mila,positive,shorthand
+positive_07_typo,positive_07,order perfect condition me imla,positive,typo
+positive_07_punctuation,positive_07,order perfect condition me mila!,positive,punctuation
+positive_07_stress,positive_07,order perfffect condition me mila,positive,stress
+positive_07_shorthand_typo,positive_07,roder perfect condition me mila,positive,shorthand_typo
+positive_07_code_mix,positive_07,"literally, order perfect condition me mila",positive,code_mix
+positive_07_emoji_reinforce,positive_07,order perfect condition me mila 😄,positive,emoji_reinforce
+positive_07_shorthand_emoji,positive_07,order perfect condition me mila 😄,positive,shorthand_emoji
+positive_07_stress_emoji,positive_07,order perfffect condition me mila 😄,positive,stress_emoji
+positive_08_clean,positive_08,issue turant solve ho gya bohot badhiya,positive,clean
+positive_08_shorthand,positive_08,issue turant solve ho gya bhot badhiya,positive,shorthand
+positive_08_typo,positive_08,issue turant solve ho gya bohot bahdiya,positive,typo
+positive_08_punctuation,positive_08,issue turant solve ho gya bohot badhiya!,positive,punctuation
+positive_08_stress,positive_08,issue turant solve ho gya bohot badhhhiya,positive,stress
+positive_08_shorthand_typo,positive_08,issue turnat solve ho gya bhot badhiya,positive,shorthand_typo
+positive_08_code_mix,positive_08,"just saying, issue turant solve ho gya bohot badhiya",positive,code_mix
+positive_08_emoji_reinforce,positive_08,issue turant solve ho gya bohot badhiya ❤️,positive,emoji_reinforce
+positive_08_shorthand_emoji,positive_08,issue turant solve ho gya bhot badhiya ❤️,positive,shorthand_emoji
+positive_08_stress_emoji,positive_08,issue turant solve ho gya bohot badhhhiya ❤️,positive,stress_emoji
+positive_09_clean,positive_09,delivery boy bohot helpful tha,positive,clean
+positive_09_shorthand,positive_09,delivery boy bhot helpful tha,positive,shorthand
+positive_09_typo,positive_09,delivery boy bohot helpufl tha,positive,typo
+positive_09_punctuation,positive_09,delivery boy bohot helpful tha!,positive,punctuation
+positive_09_stress,positive_09,delivery boy bohhhot helpful tha,positive,stress
+positive_09_shorthand_typo,positive_09,deliveyr boy bhot helpful tha,positive,shorthand_typo
+positive_09_code_mix,positive_09,"literally, delivery boy bohot helpful tha",positive,code_mix
+positive_09_emoji_reinforce,positive_09,delivery boy bohot helpful tha 👍,positive,emoji_reinforce
+positive_09_shorthand_emoji,positive_09,delivery boy bhot helpful tha 👍,positive,shorthand_emoji
+positive_09_stress_emoji,positive_09,delivery boy bohhhot helpful tha 👍,positive,stress_emoji
+positive_10_clean,positive_10,website use krna bohot easy h ab,positive,clean
+positive_10_shorthand,positive_10,website use krna bhot easy h ab,positive,shorthand
+positive_10_typo,positive_10,websiet use krna bohot easy h ab,positive,typo
+positive_10_punctuation,positive_10,website use krna bohot easy h ab!,positive,punctuation
+positive_10_stress,positive_10,website use krna bohot easssy h ab,positive,stress
+positive_10_shorthand_typo,positive_10,website use krna bhot esay h ab,positive,shorthand_typo
+positive_10_code_mix,positive_10,"literally, website use krna bohot easy h ab",positive,code_mix
+positive_10_emoji_reinforce,positive_10,website use krna bohot easy h ab 😊,positive,emoji_reinforce
+positive_10_shorthand_emoji,positive_10,website use krna bhot easy h ab 😊,positive,shorthand_emoji
+positive_10_stress_emoji,positive_10,website use krna bohot easssy h ab 😊,positive,stress_emoji
+positive_11_clean,positive_11,agent ne patience se sara solve kr diya,positive,clean
+positive_11_shorthand,positive_11,agent ne patience se sara solve kr diya,positive,shorthand
+positive_11_typo,positive_11,agent ne patience se sara solve kr dyia,positive,typo
+positive_11_punctuation,positive_11,agent ne patience se sara solve kr diya!,positive,punctuation
+positive_11_stress,positive_11,agent ne patience se sara solllve kr diya,positive,stress
+positive_11_shorthand_typo,positive_11,aegnt ne patience se sara solve kr diya,positive,shorthand_typo
+positive_11_code_mix,positive_11,"literally, agent ne patience se sara solve kr diya",positive,code_mix
+positive_11_emoji_reinforce,positive_11,agent ne patience se sara solve kr diya 😄,positive,emoji_reinforce
+positive_11_shorthand_emoji,positive_11,agent ne patience se sara solve kr diya 😄,positive,shorthand_emoji
+positive_11_stress_emoji,positive_11,agent ne patience se sara solllve kr diya 😄,positive,stress_emoji
+positive_12_clean,positive_12,packaging bohot acchi thi is baar,positive,clean
+positive_12_shorthand,positive_12,packaging bhot acchi thi is baar,positive,shorthand
+positive_12_typo,positive_12,packaging bohot acchi thi is baar,positive,typo
+positive_12_punctuation,positive_12,packaging bohot acchi thi is baar!,positive,punctuation
+positive_12_stress,positive_12,packaging bohot acchi thhhi is baar,positive,stress
+positive_12_shorthand_typo,positive_12,packaigng bhot acchi thi is baar,positive,shorthand_typo
+positive_12_code_mix,positive_12,"honestly, packaging bohot acchi thi is baar",positive,code_mix
+positive_12_emoji_reinforce,positive_12,packaging bohot acchi thi is baar ❤️,positive,emoji_reinforce
+positive_12_shorthand_emoji,positive_12,packaging bhot acchi thi is baar ❤️,positive,shorthand_emoji
+positive_12_stress_emoji,positive_12,packaging bohot acchi thhhi is baar ❤️,positive,stress_emoji
+positive_13_clean,positive_13,app update ke baad speed kaafi badh gayi,positive,clean
+positive_13_shorthand,positive_13,app update ke baad speed kaafi badh gayi,positive,shorthand
+positive_13_typo,positive_13,app update ke abad speed kaafi badh gayi,positive,typo
+positive_13_punctuation,positive_13,app update ke baad speed kaafi badh gayi!,positive,punctuation
+positive_13_stress,positive_13,app update ke baad speed kaaaafi badh gayi,positive,stress
+positive_13_shorthand_typo,positive_13,app update ke baad speed kaafi bdah gayi,positive,shorthand_typo
+positive_13_code_mix,positive_13,"honestly, app update ke baad speed kaafi badh gayi",positive,code_mix
+positive_13_emoji_reinforce,positive_13,app update ke baad speed kaafi badh gayi 😄,positive,emoji_reinforce
+positive_13_shorthand_emoji,positive_13,app update ke baad speed kaafi badh gayi 😄,positive,shorthand_emoji
+positive_13_stress_emoji,positive_13,app update ke baad speed kaaaafi badh gayi 😄,positive,stress_emoji
+positive_14_clean,positive_14,return process bohot smooth raha,positive,clean
+positive_14_shorthand,positive_14,return process bhot smooth rha,positive,shorthand
+positive_14_typo,positive_14,return process bohot smooth arha,positive,typo
+positive_14_punctuation,positive_14,return process bohot smooth raha!,positive,punctuation
+positive_14_stress,positive_14,retuuurn process bohot smooth raha,positive,stress
+positive_14_shorthand_typo,positive_14,return process bhto smooth rha,positive,shorthand_typo
+positive_14_code_mix,positive_14,"seriously, return process bohot smooth raha",positive,code_mix
+positive_14_emoji_reinforce,positive_14,return process bohot smooth raha 😄,positive,emoji_reinforce
+positive_14_shorthand_emoji,positive_14,return process bhot smooth rha 😄,positive,shorthand_emoji
+positive_14_stress_emoji,positive_14,retuuurn process bohot smooth raha 😄,positive,stress_emoji
+positive_15_clean,positive_15,exchange bina kisi dikkat ke ho gya,positive,clean
+positive_15_shorthand,positive_15,exchange bina kisi dikkat ke ho gya,positive,shorthand
+positive_15_typo,positive_15,exchange ibna kisi dikkat ke ho gya,positive,typo
+positive_15_punctuation,positive_15,exchange bina kisi dikkat ke ho gya!,positive,punctuation
+positive_15_stress,positive_15,exchaaange bina kisi dikkat ke ho gya,positive,stress
+positive_15_shorthand_typo,positive_15,exchange bian kisi dikkat ke ho gya,positive,shorthand_typo
+positive_15_code_mix,positive_15,"actually, exchange bina kisi dikkat ke ho gya",positive,code_mix
+positive_15_emoji_reinforce,positive_15,exchange bina kisi dikkat ke ho gya 😄,positive,emoji_reinforce
+positive_15_shorthand_emoji,positive_15,exchange bina kisi dikkat ke ho gya 😄,positive,shorthand_emoji
+positive_15_stress_emoji,positive_15,exchaaange bina kisi dikkat ke ho gya 😄,positive,stress_emoji
+positive_16_clean,positive_16,payment turant confirm ho gya koi issue nahi,positive,clean
+positive_16_shorthand,positive_16,payment turant confirm ho gya koi issue nhi,positive,shorthand
+positive_16_typo,positive_16,apyment turant confirm ho gya koi issue nahi,positive,typo
+positive_16_punctuation,positive_16,payment turant confirm ho gya koi issue nahi!,positive,punctuation
+positive_16_stress,positive_16,payment turant confirm ho gyyya koi issue nahi,positive,stress
+positive_16_shorthand_typo,positive_16,payment turant confirm ho gya koi isseu nhi,positive,shorthand_typo
+positive_16_code_mix,positive_16,"seriously, payment turant confirm ho gya koi issue nahi",positive,code_mix
+positive_16_emoji_reinforce,positive_16,payment turant confirm ho gya koi issue nahi 😊,positive,emoji_reinforce
+positive_16_shorthand_emoji,positive_16,payment turant confirm ho gya koi issue nhi 😊,positive,shorthand_emoji
+positive_16_stress_emoji,positive_16,payment turant confirm ho gyyya koi issue nahi 😊,positive,stress_emoji
+positive_17_clean,positive_17,tracking updates time pe milte rehte h,positive,clean
+positive_17_shorthand,positive_17,tracking updates time pe milte rehte h,positive,shorthand
+positive_17_typo,positive_17,tracking updates time pe imlte rehte h,positive,typo
+positive_17_punctuation,positive_17,tracking updates time pe milte rehte h!,positive,punctuation
+positive_17_stress,positive_17,tracking updates timmme pe milte rehte h,positive,stress
+positive_17_shorthand_typo,positive_17,tracking updates time pe mitle rehte h,positive,shorthand_typo
+positive_17_code_mix,positive_17,"literally, tracking updates time pe milte rehte h",positive,code_mix
+positive_17_emoji_reinforce,positive_17,tracking updates time pe milte rehte h 😊,positive,emoji_reinforce
+positive_17_shorthand_emoji,positive_17,tracking updates time pe milte rehte h 😊,positive,shorthand_emoji
+positive_17_stress_emoji,positive_17,tracking updates timmme pe milte rehte h 😊,positive,stress_emoji
+positive_18_clean,positive_18,complaint ka response bohot fast tha,positive,clean
+positive_18_shorthand,positive_18,complaint ka response bhot fast tha,positive,shorthand
+positive_18_typo,positive_18,compliant ka response bohot fast tha,positive,typo
+positive_18_punctuation,positive_18,complaint ka response bohot fast tha!,positive,punctuation
+positive_18_stress,positive_18,complaint ka respooonse bohot fast tha,positive,stress
+positive_18_shorthand_typo,positive_18,complaint ka response boht fast tha,positive,shorthand_typo
+positive_18_code_mix,positive_18,"actually, complaint ka response bohot fast tha",positive,code_mix
+positive_18_emoji_reinforce,positive_18,complaint ka response bohot fast tha ❤️,positive,emoji_reinforce
+positive_18_shorthand_emoji,positive_18,complaint ka response bhot fast tha ❤️,positive,shorthand_emoji
+positive_18_stress_emoji,positive_18,complaint ka respooonse bohot fast tha ❤️,positive,stress_emoji
+positive_19_clean,positive_19,discount mil gya bina kuch bole,positive,clean
+positive_19_shorthand,positive_19,discount mil gya bina kuch bole,positive,shorthand
+positive_19_typo,positive_19,dsicount mil gya bina kuch bole,positive,typo
+positive_19_punctuation,positive_19,discount mil gya bina kuch bole!,positive,punctuation
+positive_19_stress,positive_19,discount miiil gya bina kuch bole,positive,stress
+positive_19_shorthand_typo,positive_19,discount mil gya bian kuch bole,positive,shorthand_typo
+positive_19_code_mix,positive_19,"honestly, discount mil gya bina kuch bole",positive,code_mix
+positive_19_emoji_reinforce,positive_19,discount mil gya bina kuch bole 👍,positive,emoji_reinforce
+positive_19_shorthand_emoji,positive_19,discount mil gya bina kuch bole 👍,positive,shorthand_emoji
+positive_19_stress_emoji,positive_19,discount miiil gya bina kuch bole 👍,positive,stress_emoji
+positive_20_clean,positive_20,app ka new design bohot acha h,positive,clean
+positive_20_shorthand,positive_20,app ka new design bhot acha h,positive,shorthand
+positive_20_typo,positive_20,app ka new design bohot acah h,positive,typo
+positive_20_punctuation,positive_20,app ka new design bohot acha h!,positive,punctuation
+positive_20_stress,positive_20,apppp ka new design bohot acha h,positive,stress
+positive_20_shorthand_typo,positive_20,app ka new design bhot ahca h,positive,shorthand_typo
+positive_20_code_mix,positive_20,"seriously, app ka new design bohot acha h",positive,code_mix
+positive_20_emoji_reinforce,positive_20,app ka new design bohot acha h ❤️,positive,emoji_reinforce
+positive_20_shorthand_emoji,positive_20,app ka new design bhot acha h ❤️,positive,shorthand_emoji
+positive_20_stress_emoji,positive_20,apppp ka new design bohot acha h ❤️,positive,stress_emoji
+positive_21_clean,positive_21,delivery se pehle call aaya bohot thoughtful,positive,clean
+positive_21_shorthand,positive_21,delivery se pehle call aaya bhot thoughtful,positive,shorthand
+positive_21_typo,positive_21,delivery se pehel call aaya bohot thoughtful,positive,typo
+positive_21_punctuation,positive_21,delivery se pehle call aaya bohot thoughtful!,positive,punctuation
+positive_21_stress,positive_21,delivery se pehle call aaya bohot thoughhhtful,positive,stress
+positive_21_shorthand_typo,positive_21,delivery se ephle call aaya bhot thoughtful,positive,shorthand_typo
+positive_21_code_mix,positive_21,"actually, delivery se pehle call aaya bohot thoughtful",positive,code_mix
+positive_21_emoji_reinforce,positive_21,delivery se pehle call aaya bohot thoughtful 😊,positive,emoji_reinforce
+positive_21_shorthand_emoji,positive_21,delivery se pehle call aaya bhot thoughtful 😊,positive,shorthand_emoji
+positive_21_stress_emoji,positive_21,delivery se pehle call aaya bohot thoughhhtful 😊,positive,stress_emoji
+positive_22_clean,positive_22,subscription cancel krna bhi easy nikla,positive,clean
+positive_22_shorthand,positive_22,subscription cancel krna bhi easy nikla,positive,shorthand
+positive_22_typo,positive_22,subscriptoin cancel krna bhi easy nikla,positive,typo
+positive_22_punctuation,positive_22,subscription cancel krna bhi easy nikla!,positive,punctuation
+positive_22_stress,positive_22,subscription cancel krna bhhhi easy nikla,positive,stress
+positive_22_shorthand_typo,positive_22,subscription cancel krna bhi easy nilka,positive,shorthand_typo
+positive_22_code_mix,positive_22,"just saying, subscription cancel krna bhi easy nikla",positive,code_mix
+positive_22_emoji_reinforce,positive_22,subscription cancel krna bhi easy nikla 😄,positive,emoji_reinforce
+positive_22_shorthand_emoji,positive_22,subscription cancel krna bhi easy nikla 😄,positive,shorthand_emoji
+positive_22_stress_emoji,positive_22,subscription cancel krna bhhhi easy nikla 😄,positive,stress_emoji
+positive_23_clean,positive_23,hotel booking process bilkul seedha tha,positive,clean
+positive_23_shorthand,positive_23,hotel booking process blkl seedha tha,positive,shorthand
+positive_23_typo,positive_23,hotel booking process iblkul seedha tha,positive,typo
+positive_23_punctuation,positive_23,hotel booking process bilkul seedha tha!,positive,punctuation
+positive_23_stress,positive_23,hotel booking process bilkul seedha thhha,positive,stress
+positive_23_shorthand_typo,positive_23,hotel booking process bllk seedha tha,positive,shorthand_typo
+positive_23_code_mix,positive_23,"honestly, hotel booking process bilkul seedha tha",positive,code_mix
+positive_23_emoji_reinforce,positive_23,hotel booking process bilkul seedha tha ❤️,positive,emoji_reinforce
+positive_23_shorthand_emoji,positive_23,hotel booking process blkl seedha tha ❤️,positive,shorthand_emoji
+positive_23_stress_emoji,positive_23,hotel booking process bilkul seedha thhha ❤️,positive,stress_emoji
+positive_24_clean,positive_24,cab turant mil gyi wait nahi krna pada,positive,clean
+positive_24_shorthand,positive_24,cab turant mil gyi wait nhi krna pada,positive,shorthand
+positive_24_typo,positive_24,cab truant mil gyi wait nahi krna pada,positive,typo
+positive_24_punctuation,positive_24,cab turant mil gyi wait nahi krna pada!,positive,punctuation
+positive_24_stress,positive_24,cab turant mil gyyyi wait nahi krna pada,positive,stress
+positive_24_shorthand_typo,positive_24,cab turant mil gyi awit nhi krna pada,positive,shorthand_typo
+positive_24_code_mix,positive_24,"seriously, cab turant mil gyi wait nahi krna pada",positive,code_mix
+positive_24_emoji_reinforce,positive_24,cab turant mil gyi wait nahi krna pada 🙌,positive,emoji_reinforce
+positive_24_shorthand_emoji,positive_24,cab turant mil gyi wait nhi krna pada 🙌,positive,shorthand_emoji
+positive_24_stress_emoji,positive_24,cab turant mil gyyyi wait nahi krna pada 🙌,positive,stress_emoji
+positive_25_clean,positive_25,flight status live update milta rehta h,positive,clean
+positive_25_shorthand,positive_25,flight status live update milta rehta h,positive,shorthand
+positive_25_typo,positive_25,flight status live update milta retha h,positive,typo
+positive_25_punctuation,positive_25,flight status live update milta rehta h!,positive,punctuation
+positive_25_stress,positive_25,flight status live update milllta rehta h,positive,stress
+positive_25_shorthand_typo,positive_25,flight status live update imlta rehta h,positive,shorthand_typo
+positive_25_code_mix,positive_25,"actually, flight status live update milta rehta h",positive,code_mix
+positive_25_emoji_reinforce,positive_25,flight status live update milta rehta h ❤️,positive,emoji_reinforce
+positive_25_shorthand_emoji,positive_25,flight status live update milta rehta h ❤️,positive,shorthand_emoji
+positive_25_stress_emoji,positive_25,flight status live update milllta rehta h ❤️,positive,stress_emoji
+positive_26_clean,positive_26,driver bohot achhe se laaya bina kisi dikkat ke,positive,clean
+positive_26_shorthand,positive_26,driver bhot achhe se laaya bina kisi dikkat ke,positive,shorthand
+positive_26_typo,positive_26,driver bohot achhe se alaya bina kisi dikkat ke,positive,typo
+positive_26_punctuation,positive_26,driver bohot achhe se laaya bina kisi dikkat ke!,positive,punctuation
+positive_26_stress,positive_26,driver bohhhot achhe se laaya bina kisi dikkat ke,positive,stress
+positive_26_shorthand_typo,positive_26,driver bhot acheh se laaya bina kisi dikkat ke,positive,shorthand_typo
+positive_26_code_mix,positive_26,"literally, driver bohot achhe se laaya bina kisi dikkat ke",positive,code_mix
+positive_26_emoji_reinforce,positive_26,driver bohot achhe se laaya bina kisi dikkat ke 😄,positive,emoji_reinforce
+positive_26_shorthand_emoji,positive_26,driver bhot achhe se laaya bina kisi dikkat ke 😄,positive,shorthand_emoji
+positive_26_stress_emoji,positive_26,driver bohhhot achhe se laaya bina kisi dikkat ke 😄,positive,stress_emoji
+positive_27_clean,positive_27,app ka checkout process bohot fast h ab,positive,clean
+positive_27_shorthand,positive_27,app ka checkout process bhot fast h ab,positive,shorthand
+positive_27_typo,positive_27,app ka checkout process bohto fast h ab,positive,typo
+positive_27_punctuation,positive_27,app ka checkout process bohot fast h ab!,positive,punctuation
+positive_27_stress,positive_27,app ka checkout process bohot fassst h ab,positive,stress
+positive_27_shorthand_typo,positive_27,app ka checokut process bhot fast h ab,positive,shorthand_typo
+positive_27_code_mix,positive_27,"just saying, app ka checkout process bohot fast h ab",positive,code_mix
+positive_27_emoji_reinforce,positive_27,app ka checkout process bohot fast h ab 🙌,positive,emoji_reinforce
+positive_27_shorthand_emoji,positive_27,app ka checkout process bhot fast h ab 🙌,positive,shorthand_emoji
+positive_27_stress_emoji,positive_27,app ka checkout process bohot fassst h ab 🙌,positive,stress_emoji
+positive_28_clean,positive_28,missing item turant bhej diya bina extra charge ke,positive,clean
+positive_28_shorthand,positive_28,missing item turant bhej diya bina extra charge ke,positive,shorthand
+positive_28_typo,positive_28,missing item turant bhej dyia bina extra charge ke,positive,typo
+positive_28_punctuation,positive_28,missing item turant bhej diya bina extra charge ke!,positive,punctuation
+positive_28_stress,positive_28,missing item turant bhej diya bina extttra charge ke,positive,stress
+positive_28_shorthand_typo,positive_28,missing item turant bhej diya bian extra charge ke,positive,shorthand_typo
+positive_28_code_mix,positive_28,"literally, missing item turant bhej diya bina extra charge ke",positive,code_mix
+positive_28_emoji_reinforce,positive_28,missing item turant bhej diya bina extra charge ke 👍,positive,emoji_reinforce
+positive_28_shorthand_emoji,positive_28,missing item turant bhej diya bina extra charge ke 👍,positive,shorthand_emoji
+positive_28_stress_emoji,positive_28,missing item turant bhej diya bina extttra charge ke 👍,positive,stress_emoji
+positive_29_clean,positive_29,hotel staff bohot cooperative tha,positive,clean
+positive_29_shorthand,positive_29,hotel staff bhot cooperative tha,positive,shorthand
+positive_29_typo,positive_29,ohtel staff bohot cooperative tha,positive,typo
+positive_29_punctuation,positive_29,hotel staff bohot cooperative tha!,positive,punctuation
+positive_29_stress,positive_29,hotel staaaff bohot cooperative tha,positive,stress
+positive_29_shorthand_typo,positive_29,hotel staff bhot cooeprative tha,positive,shorthand_typo
+positive_29_code_mix,positive_29,"actually, hotel staff bohot cooperative tha",positive,code_mix
+positive_29_emoji_reinforce,positive_29,hotel staff bohot cooperative tha 🙌,positive,emoji_reinforce
+positive_29_shorthand_emoji,positive_29,hotel staff bhot cooperative tha 🙌,positive,shorthand_emoji
+positive_29_stress_emoji,positive_29,hotel staaaff bohot cooperative tha 🙌,positive,stress_emoji
+positive_30_clean,positive_30,order jaldi pack ho gya expected se pehle,positive,clean
+positive_30_shorthand,positive_30,order jaldi pack ho gya expected se pehle,positive,shorthand
+positive_30_typo,positive_30,order jaldi pakc ho gya expected se pehle,positive,typo
+positive_30_punctuation,positive_30,order jaldi pack ho gya expected se pehle!,positive,punctuation
+positive_30_stress,positive_30,order jallldi pack ho gya expected se pehle,positive,stress
+positive_30_shorthand_typo,positive_30,order jaldi pack ho gya expetced se pehle,positive,shorthand_typo
+positive_30_code_mix,positive_30,"just saying, order jaldi pack ho gya expected se pehle",positive,code_mix
+positive_30_emoji_reinforce,positive_30,order jaldi pack ho gya expected se pehle ❤️,positive,emoji_reinforce
+positive_30_shorthand_emoji,positive_30,order jaldi pack ho gya expected se pehle ❤️,positive,shorthand_emoji
+positive_30_stress_emoji,positive_30,order jallldi pack ho gya expected se pehle ❤️,positive,stress_emoji
+positive_31_clean,positive_31,subscription ka trial bhi kaafi generous h,positive,clean
+positive_31_shorthand,positive_31,subscription ka trial bhi kaafi generous h,positive,shorthand
+positive_31_typo,positive_31,subscripiton ka trial bhi kaafi generous h,positive,typo
+positive_31_punctuation,positive_31,subscription ka trial bhi kaafi generous h!,positive,punctuation
+positive_31_stress,positive_31,subscription ka trial bhhhi kaafi generous h,positive,stress
+positive_31_shorthand_typo,positive_31,subscription ka trial bhi akafi generous h,positive,shorthand_typo
+positive_31_code_mix,positive_31,"honestly, subscription ka trial bhi kaafi generous h",positive,code_mix
+positive_31_emoji_reinforce,positive_31,subscription ka trial bhi kaafi generous h 😊,positive,emoji_reinforce
+positive_31_shorthand_emoji,positive_31,subscription ka trial bhi kaafi generous h 😊,positive,shorthand_emoji
+positive_31_stress_emoji,positive_31,subscription ka trial bhhhi kaafi generous h 😊,positive,stress_emoji
+positive_32_clean,positive_32,delivery partner ne sahi jagah pe deliver kiya,positive,clean
+positive_32_shorthand,positive_32,delivery partner ne sahi jagah pe deliver kiya,positive,shorthand
+positive_32_typo,positive_32,delivery partner ne saih jagah pe deliver kiya,positive,typo
+positive_32_punctuation,positive_32,delivery partner ne sahi jagah pe deliver kiya!,positive,punctuation
+positive_32_stress,positive_32,delivery partner ne sahi jagggah pe deliver kiya,positive,stress
+positive_32_shorthand_typo,positive_32,delivery patrner ne sahi jagah pe deliver kiya,positive,shorthand_typo
+positive_32_code_mix,positive_32,"literally, delivery partner ne sahi jagah pe deliver kiya",positive,code_mix
+positive_32_emoji_reinforce,positive_32,delivery partner ne sahi jagah pe deliver kiya ❤️,positive,emoji_reinforce
+positive_32_shorthand_emoji,positive_32,delivery partner ne sahi jagah pe deliver kiya ❤️,positive,shorthand_emoji
+positive_32_stress_emoji,positive_32,delivery partner ne sahi jagggah pe deliver kiya ❤️,positive,stress_emoji
+positive_33_clean,positive_33,agent ne detail me sab samjhaya bohot accha laga,positive,clean
+positive_33_shorthand,positive_33,agent ne detail me sab samjhaya bhot accha laga,positive,shorthand
+positive_33_typo,positive_33,agent ne edtail me sab samjhaya bohot accha laga,positive,typo
+positive_33_punctuation,positive_33,agent ne detail me sab samjhaya bohot accha laga!,positive,punctuation
+positive_33_stress,positive_33,agent ne detail me sab samjhaya bohot accha laggga,positive,stress
+positive_33_shorthand_typo,positive_33,agent ne detail me sab samjhaay bhot accha laga,positive,shorthand_typo
+positive_33_code_mix,positive_33,"literally, agent ne detail me sab samjhaya bohot accha laga",positive,code_mix
+positive_33_emoji_reinforce,positive_33,agent ne detail me sab samjhaya bohot accha laga 😄,positive,emoji_reinforce
+positive_33_shorthand_emoji,positive_33,agent ne detail me sab samjhaya bhot accha laga 😄,positive,shorthand_emoji
+positive_33_stress_emoji,positive_33,agent ne detail me sab samjhaya bohot accha laggga 😄,positive,stress_emoji
+positive_34_clean,positive_34,payment options kaafi convenient h ab,positive,clean
+positive_34_shorthand,positive_34,payment options kaafi convenient h ab,positive,shorthand
+positive_34_typo,positive_34,payment options kafai convenient h ab,positive,typo
+positive_34_punctuation,positive_34,payment options kaafi convenient h ab!,positive,punctuation
+positive_34_stress,positive_34,payment options kaaaafi convenient h ab,positive,stress
+positive_34_shorthand_typo,positive_34,payment optinos kaafi convenient h ab,positive,shorthand_typo
+positive_34_code_mix,positive_34,"just saying, payment options kaafi convenient h ab",positive,code_mix
+positive_34_emoji_reinforce,positive_34,payment options kaafi convenient h ab ❤️,positive,emoji_reinforce
+positive_34_shorthand_emoji,positive_34,payment options kaafi convenient h ab ❤️,positive,shorthand_emoji
+positive_34_stress_emoji,positive_34,payment options kaaaafi convenient h ab ❤️,positive,stress_emoji
+positive_35_clean,positive_35,cancellation bina kisi extra fee ke ho gya,positive,clean
+positive_35_shorthand,positive_35,cancellation bina kisi extra fee ke ho gya,positive,shorthand
+positive_35_typo,positive_35,cancellation bina kisi extar fee ke ho gya,positive,typo
+positive_35_punctuation,positive_35,cancellation bina kisi extra fee ke ho gya!,positive,punctuation
+positive_35_stress,positive_35,cancellllation bina kisi extra fee ke ho gya,positive,stress
+positive_35_shorthand_typo,positive_35,cancelaltion bina kisi extra fee ke ho gya,positive,shorthand_typo
+positive_35_code_mix,positive_35,"seriously, cancellation bina kisi extra fee ke ho gya",positive,code_mix
+positive_35_emoji_reinforce,positive_35,cancellation bina kisi extra fee ke ho gya ❤️,positive,emoji_reinforce
+positive_35_shorthand_emoji,positive_35,cancellation bina kisi extra fee ke ho gya ❤️,positive,shorthand_emoji
+positive_35_stress_emoji,positive_35,cancellllation bina kisi extra fee ke ho gya ❤️,positive,stress_emoji
+positive_36_clean,positive_36,app notifications bilkul timely h,positive,clean
+positive_36_shorthand,positive_36,app notifications blkl timely h,positive,shorthand
+positive_36_typo,positive_36,app notifications biklul timely h,positive,typo
+positive_36_punctuation,positive_36,app notifications bilkul timely h!,positive,punctuation
+positive_36_stress,positive_36,app notifications bilkkkul timely h,positive,stress
+positive_36_shorthand_typo,positive_36,app notifications bkll timely h,positive,shorthand_typo
+positive_36_code_mix,positive_36,"literally, app notifications bilkul timely h",positive,code_mix
+positive_36_emoji_reinforce,positive_36,app notifications bilkul timely h 👍,positive,emoji_reinforce
+positive_36_shorthand_emoji,positive_36,app notifications blkl timely h 👍,positive,shorthand_emoji
+positive_36_stress_emoji,positive_36,app notifications bilkkkul timely h 👍,positive,stress_emoji
+positive_37_clean,positive_37,refund process ekdum transparent tha,positive,clean
+positive_37_shorthand,positive_37,refund process ekdum transparent tha,positive,shorthand
+positive_37_typo,positive_37,refund rpocess ekdum transparent tha,positive,typo
+positive_37_punctuation,positive_37,refund process ekdum transparent tha!,positive,punctuation
+positive_37_stress,positive_37,refund procccess ekdum transparent tha,positive,stress
+positive_37_shorthand_typo,positive_37,refund process ekdum rtansparent tha,positive,shorthand_typo
+positive_37_code_mix,positive_37,"literally, refund process ekdum transparent tha",positive,code_mix
+positive_37_emoji_reinforce,positive_37,refund process ekdum transparent tha 😄,positive,emoji_reinforce
+positive_37_shorthand_emoji,positive_37,refund process ekdum transparent tha 😄,positive,shorthand_emoji
+positive_37_stress_emoji,positive_37,refund procccess ekdum transparent tha 😄,positive,stress_emoji
+positive_38_clean,positive_38,courier bohot fast tha expected se pehle aaya,positive,clean
+positive_38_shorthand,positive_38,courier bhot fast tha expected se pehle aaya,positive,shorthand
+positive_38_typo,positive_38,couirer bohot fast tha expected se pehle aaya,positive,typo
+positive_38_punctuation,positive_38,courier bohot fast tha expected se pehle aaya!,positive,punctuation
+positive_38_stress,positive_38,courier bohot fassst tha expected se pehle aaya,positive,stress
+positive_38_shorthand_typo,positive_38,courier bhot fast tha expected se phele aaya,positive,shorthand_typo
+positive_38_code_mix,positive_38,"honestly, courier bohot fast tha expected se pehle aaya",positive,code_mix
+positive_38_emoji_reinforce,positive_38,courier bohot fast tha expected se pehle aaya ❤️,positive,emoji_reinforce
+positive_38_shorthand_emoji,positive_38,courier bhot fast tha expected se pehle aaya ❤️,positive,shorthand_emoji
+positive_38_stress_emoji,positive_38,courier bohot fassst tha expected se pehle aaya ❤️,positive,stress_emoji
+positive_39_clean,positive_39,customer support ne turant callback diya,positive,clean
+positive_39_shorthand,positive_39,customer support ne turant callback diya,positive,shorthand
+positive_39_typo,positive_39,custmoer support ne turant callback diya,positive,typo
+positive_39_punctuation,positive_39,customer support ne turant callback diya!,positive,punctuation
+positive_39_stress,positive_39,customer supppport ne turant callback diya,positive,stress
+positive_39_shorthand_typo,positive_39,customer support ne turant callback dyia,positive,shorthand_typo
+positive_39_code_mix,positive_39,"just saying, customer support ne turant callback diya",positive,code_mix
+positive_39_emoji_reinforce,positive_39,customer support ne turant callback diya 😊,positive,emoji_reinforce
+positive_39_shorthand_emoji,positive_39,customer support ne turant callback diya 😊,positive,shorthand_emoji
+positive_39_stress_emoji,positive_39,customer supppport ne turant callback diya 😊,positive,stress_emoji
+positive_40_clean,positive_40,return pickup time pe ho gya,positive,clean
+positive_40_shorthand,positive_40,return pickup time pe ho gya,positive,shorthand
+positive_40_typo,positive_40,return pickup tiem pe ho gya,positive,typo
+positive_40_punctuation,positive_40,return pickup time pe ho gya!,positive,punctuation
+positive_40_stress,positive_40,retuuurn pickup time pe ho gya,positive,stress
+positive_40_shorthand_typo,positive_40,return pikcup time pe ho gya,positive,shorthand_typo
+positive_40_code_mix,positive_40,"just saying, return pickup time pe ho gya",positive,code_mix
+positive_40_emoji_reinforce,positive_40,return pickup time pe ho gya 😊,positive,emoji_reinforce
+positive_40_shorthand_emoji,positive_40,return pickup time pe ho gya 😊,positive,shorthand_emoji
+positive_40_stress_emoji,positive_40,retuuurn pickup time pe ho gya 😊,positive,stress_emoji
+positive_41_clean,positive_41,flight crew bohot friendly the,positive,clean
+positive_41_shorthand,positive_41,flight crew bhot friendly the,positive,shorthand
+positive_41_typo,positive_41,flight rcew bohot friendly the,positive,typo
+positive_41_punctuation,positive_41,flight crew bohot friendly the!,positive,punctuation
+positive_41_stress,positive_41,fliggght crew bohot friendly the,positive,stress
+positive_41_shorthand_typo,positive_41,flight crew bhot frienldy the,positive,shorthand_typo
+positive_41_code_mix,positive_41,"actually, flight crew bohot friendly the",positive,code_mix
+positive_41_emoji_reinforce,positive_41,flight crew bohot friendly the 😊,positive,emoji_reinforce
+positive_41_shorthand_emoji,positive_41,flight crew bhot friendly the 😊,positive,shorthand_emoji
+positive_41_stress_emoji,positive_41,fliggght crew bohot friendly the 😊,positive,stress_emoji
+positive_42_clean,positive_42,cab driver ne clean gaadi rakhi thi,positive,clean
+positive_42_shorthand,positive_42,cab driver ne clean gaadi rakhi thi,positive,shorthand
+positive_42_typo,positive_42,cab driver ne clean gadai rakhi thi,positive,typo
+positive_42_punctuation,positive_42,cab driver ne clean gaadi rakhi thi!,positive,punctuation
+positive_42_stress,positive_42,cab driver ne clean gaadi rakhi thhhi,positive,stress
+positive_42_shorthand_typo,positive_42,cab driver ne lcean gaadi rakhi thi,positive,shorthand_typo
+positive_42_code_mix,positive_42,"seriously, cab driver ne clean gaadi rakhi thi",positive,code_mix
+positive_42_emoji_reinforce,positive_42,cab driver ne clean gaadi rakhi thi 👍,positive,emoji_reinforce
+positive_42_shorthand_emoji,positive_42,cab driver ne clean gaadi rakhi thi 👍,positive,shorthand_emoji
+positive_42_stress_emoji,positive_42,cab driver ne clean gaadi rakhi thhhi 👍,positive,stress_emoji
+positive_43_clean,positive_43,hotel checkin bina kisi wait ke ho gya,positive,clean
+positive_43_shorthand,positive_43,hotel checkin bina kisi wait ke ho gya,positive,shorthand
+positive_43_typo,positive_43,hotel checkin bina kiis wait ke ho gya,positive,typo
+positive_43_punctuation,positive_43,hotel checkin bina kisi wait ke ho gya!,positive,punctuation
+positive_43_stress,positive_43,hotel checkin bina kisssi wait ke ho gya,positive,stress
+positive_43_shorthand_typo,positive_43,hoetl checkin bina kisi wait ke ho gya,positive,shorthand_typo
+positive_43_code_mix,positive_43,"literally, hotel checkin bina kisi wait ke ho gya",positive,code_mix
+positive_43_emoji_reinforce,positive_43,hotel checkin bina kisi wait ke ho gya ❤️,positive,emoji_reinforce
+positive_43_shorthand_emoji,positive_43,hotel checkin bina kisi wait ke ho gya ❤️,positive,shorthand_emoji
+positive_43_stress_emoji,positive_43,hotel checkin bina kisssi wait ke ho gya ❤️,positive,stress_emoji
+positive_44_clean,positive_44,order confirmation turant mil gya,positive,clean
+positive_44_shorthand,positive_44,order confirmation turant mil gya,positive,shorthand
+positive_44_typo,positive_44,order ocnfirmation turant mil gya,positive,typo
+positive_44_punctuation,positive_44,order confirmation turant mil gya!,positive,punctuation
+positive_44_stress,positive_44,order confirmation turaaant mil gya,positive,stress
+positive_44_shorthand_typo,positive_44,order confirmtaion turant mil gya,positive,shorthand_typo
+positive_44_code_mix,positive_44,"just saying, order confirmation turant mil gya",positive,code_mix
+positive_44_emoji_reinforce,positive_44,order confirmation turant mil gya 🙌,positive,emoji_reinforce
+positive_44_shorthand_emoji,positive_44,order confirmation turant mil gya 🙌,positive,shorthand_emoji
+positive_44_stress_emoji,positive_44,order confirmation turaaant mil gya 🙌,positive,stress_emoji
+positive_45_clean,positive_45,app ka UI bohot intuitive h ab,positive,clean
+positive_45_shorthand,positive_45,app ka UI bhot intuitive h ab,positive,shorthand
+positive_45_typo,positive_45,app ka UI bohto intuitive h ab,positive,typo
+positive_45_punctuation,positive_45,app ka UI bohot intuitive h ab!,positive,punctuation
+positive_45_stress,positive_45,app ka UI bohhhot intuitive h ab,positive,stress
+positive_45_shorthand_typo,positive_45,app ka UI bhot inutitive h ab,positive,shorthand_typo
+positive_45_code_mix,positive_45,"honestly, app ka UI bohot intuitive h ab",positive,code_mix
+positive_45_emoji_reinforce,positive_45,app ka UI bohot intuitive h ab 👍,positive,emoji_reinforce
+positive_45_shorthand_emoji,positive_45,app ka UI bhot intuitive h ab 👍,positive,shorthand_emoji
+positive_45_stress_emoji,positive_45,app ka UI bohhhot intuitive h ab 👍,positive,stress_emoji
+positive_46_clean,positive_46,bill breakdown bohot clear tha,positive,clean
+positive_46_shorthand,positive_46,bill breakdown bhot clear tha,positive,shorthand
+positive_46_typo,positive_46,bill breakdown bhoot clear tha,positive,typo
+positive_46_punctuation,positive_46,bill breakdown bohot clear tha!,positive,punctuation
+positive_46_stress,positive_46,bill breakdown bohhhot clear tha,positive,stress
+positive_46_shorthand_typo,positive_46,bill breakdown bhto clear tha,positive,shorthand_typo
+positive_46_code_mix,positive_46,"literally, bill breakdown bohot clear tha",positive,code_mix
+positive_46_emoji_reinforce,positive_46,bill breakdown bohot clear tha 😊,positive,emoji_reinforce
+positive_46_shorthand_emoji,positive_46,bill breakdown bhot clear tha 😊,positive,shorthand_emoji
+positive_46_stress_emoji,positive_46,bill breakdown bohhhot clear tha 😊,positive,stress_emoji
+positive_47_clean,positive_47,subscription benefits jaisa bola tha waisa hi mila,positive,clean
+positive_47_shorthand,positive_47,subscription benefits jaisa bola tha waisa hi mila,positive,shorthand
+positive_47_typo,positive_47,subscription benefits jaisa bola tha waisa hi imla,positive,typo
+positive_47_punctuation,positive_47,subscription benefits jaisa bola tha waisa hi mila!,positive,punctuation
+positive_47_stress,positive_47,subscription benefits jaisa bollla tha waisa hi mila,positive,stress
+positive_47_shorthand_typo,positive_47,subscription benefits jiasa bola tha waisa hi mila,positive,shorthand_typo
+positive_47_code_mix,positive_47,"actually, subscription benefits jaisa bola tha waisa hi mila",positive,code_mix
+positive_47_emoji_reinforce,positive_47,subscription benefits jaisa bola tha waisa hi mila 😄,positive,emoji_reinforce
+positive_47_shorthand_emoji,positive_47,subscription benefits jaisa bola tha waisa hi mila 😄,positive,shorthand_emoji
+positive_47_stress_emoji,positive_47,subscription benefits jaisa bollla tha waisa hi mila 😄,positive,stress_emoji
+positive_48_clean,positive_48,delivery update har step pe milta raha,positive,clean
+positive_48_shorthand,positive_48,delivery update har step pe milta rha,positive,shorthand
+positive_48_typo,positive_48,delivery upadte har step pe milta raha,positive,typo
+positive_48_punctuation,positive_48,delivery update har step pe milta raha!,positive,punctuation
+positive_48_stress,positive_48,delivery update haaar step pe milta raha,positive,stress
+positive_48_shorthand_typo,positive_48,delivery update har setp pe milta rha,positive,shorthand_typo
+positive_48_code_mix,positive_48,"honestly, delivery update har step pe milta raha",positive,code_mix
+positive_48_emoji_reinforce,positive_48,delivery update har step pe milta raha 😊,positive,emoji_reinforce
+positive_48_shorthand_emoji,positive_48,delivery update har step pe milta rha 😊,positive,shorthand_emoji
+positive_48_stress_emoji,positive_48,delivery update haaar step pe milta raha 😊,positive,stress_emoji
+positive_49_clean,positive_49,exchange bina kisi extra cost ke ho gya,positive,clean
+positive_49_shorthand,positive_49,exchange bina kisi extra cost ke ho gya,positive,shorthand
+positive_49_typo,positive_49,exchange bina kiis extra cost ke ho gya,positive,typo
+positive_49_punctuation,positive_49,exchange bina kisi extra cost ke ho gya!,positive,punctuation
+positive_49_stress,positive_49,exchaaange bina kisi extra cost ke ho gya,positive,stress
+positive_49_shorthand_typo,positive_49,ecxhange bina kisi extra cost ke ho gya,positive,shorthand_typo
+positive_49_code_mix,positive_49,"seriously, exchange bina kisi extra cost ke ho gya",positive,code_mix
+positive_49_emoji_reinforce,positive_49,exchange bina kisi extra cost ke ho gya 🙌,positive,emoji_reinforce
+positive_49_shorthand_emoji,positive_49,exchange bina kisi extra cost ke ho gya 🙌,positive,shorthand_emoji
+positive_49_stress_emoji,positive_49,exchaaange bina kisi extra cost ke ho gya 🙌,positive,stress_emoji
+positive_50_clean,positive_50,support agent ne extra mile jaake help ki,positive,clean
+positive_50_shorthand,positive_50,support agent ne extra mile jaake help ki,positive,shorthand
+positive_50_typo,positive_50,support agent ne extra mile jaaek help ki,positive,typo
+positive_50_punctuation,positive_50,support agent ne extra mile jaake help ki!,positive,punctuation
+positive_50_stress,positive_50,support agent ne extttra mile jaake help ki,positive,stress
+positive_50_shorthand_typo,positive_50,support agent ne etxra mile jaake help ki,positive,shorthand_typo
+positive_50_code_mix,positive_50,"just saying, support agent ne extra mile jaake help ki",positive,code_mix
+positive_50_emoji_reinforce,positive_50,support agent ne extra mile jaake help ki ❤️,positive,emoji_reinforce
+positive_50_shorthand_emoji,positive_50,support agent ne extra mile jaake help ki ❤️,positive,shorthand_emoji
+positive_50_stress_emoji,positive_50,support agent ne extttra mile jaake help ki ❤️,positive,stress_emoji
+positive_51_clean,positive_51,payment turant process ho gya bina delay ke,positive,clean
+positive_51_shorthand,positive_51,payment turant process ho gya bina delay ke,positive,shorthand
+positive_51_typo,positive_51,pamyent turant process ho gya bina delay ke,positive,typo
+positive_51_punctuation,positive_51,payment turant process ho gya bina delay ke!,positive,punctuation
+positive_51_stress,positive_51,payment turant process ho gyyya bina delay ke,positive,stress
+positive_51_shorthand_typo,positive_51,paymnet turant process ho gya bina delay ke,positive,shorthand_typo
+positive_51_code_mix,positive_51,"seriously, payment turant process ho gya bina delay ke",positive,code_mix
+positive_51_emoji_reinforce,positive_51,payment turant process ho gya bina delay ke 😄,positive,emoji_reinforce
+positive_51_shorthand_emoji,positive_51,payment turant process ho gya bina delay ke 😄,positive,shorthand_emoji
+positive_51_stress_emoji,positive_51,payment turant process ho gyyya bina delay ke 😄,positive,stress_emoji
+positive_52_clean,positive_52,order tracking link turant mil gya,positive,clean
+positive_52_shorthand,positive_52,order tracking link turant mil gya,positive,shorthand
+positive_52_typo,positive_52,oredr tracking link turant mil gya,positive,typo
+positive_52_punctuation,positive_52,order tracking link turant mil gya!,positive,punctuation
+positive_52_stress,positive_52,order tracking link turant mil gyyya,positive,stress
+positive_52_shorthand_typo,positive_52,order tracking link truant mil gya,positive,shorthand_typo
+positive_52_code_mix,positive_52,"literally, order tracking link turant mil gya",positive,code_mix
+positive_52_emoji_reinforce,positive_52,order tracking link turant mil gya 😄,positive,emoji_reinforce
+positive_52_shorthand_emoji,positive_52,order tracking link turant mil gya 😄,positive,shorthand_emoji
+positive_52_stress_emoji,positive_52,order tracking link turant mil gyyya 😄,positive,stress_emoji
+positive_53_clean,positive_53,hotel room upgrade bina extra charge ke mil gya,positive,clean
+positive_53_shorthand,positive_53,hotel room upgrade bina extra charge ke mil gya,positive,shorthand
+positive_53_typo,positive_53,hotel room upgrade bina extra charge ke mil gya,positive,typo
+positive_53_punctuation,positive_53,hotel room upgrade bina extra charge ke mil gya!,positive,punctuation
+positive_53_stress,positive_53,hotel room upgrrrade bina extra charge ke mil gya,positive,stress
+positive_53_shorthand_typo,positive_53,htoel room upgrade bina extra charge ke mil gya,positive,shorthand_typo
+positive_53_code_mix,positive_53,"actually, hotel room upgrade bina extra charge ke mil gya",positive,code_mix
+positive_53_emoji_reinforce,positive_53,hotel room upgrade bina extra charge ke mil gya 😄,positive,emoji_reinforce
+positive_53_shorthand_emoji,positive_53,hotel room upgrade bina extra charge ke mil gya 😄,positive,shorthand_emoji
+positive_53_stress_emoji,positive_53,hotel room upgrrrade bina extra charge ke mil gya 😄,positive,stress_emoji
+positive_54_clean,positive_54,cab fare bilkul fair tha,positive,clean
+positive_54_shorthand,positive_54,cab fare blkl fair tha,positive,shorthand
+positive_54_typo,positive_54,cab fare blikul fair tha,positive,typo
+positive_54_punctuation,positive_54,cab fare bilkul fair tha!,positive,punctuation
+positive_54_stress,positive_54,cab fare bilkkkul fair tha,positive,stress
+positive_54_shorthand_typo,positive_54,cab fare bkll fair tha,positive,shorthand_typo
+positive_54_code_mix,positive_54,"literally, cab fare bilkul fair tha",positive,code_mix
+positive_54_emoji_reinforce,positive_54,cab fare bilkul fair tha 👍,positive,emoji_reinforce
+positive_54_shorthand_emoji,positive_54,cab fare blkl fair tha 👍,positive,shorthand_emoji
+positive_54_stress_emoji,positive_54,cab fare bilkkkul fair tha 👍,positive,stress_emoji
+positive_55_clean,positive_55,flight rebooking bohot smoothly ho gyi,positive,clean
+positive_55_shorthand,positive_55,flight rebooking bhot smoothly ho gyi,positive,shorthand
+positive_55_typo,positive_55,lfight rebooking bohot smoothly ho gyi,positive,typo
+positive_55_punctuation,positive_55,flight rebooking bohot smoothly ho gyi!,positive,punctuation
+positive_55_stress,positive_55,flight rebooking bohot smoottthly ho gyi,positive,stress
+positive_55_shorthand_typo,positive_55,flight rebooking bhot smoohtly ho gyi,positive,shorthand_typo
+positive_55_code_mix,positive_55,"seriously, flight rebooking bohot smoothly ho gyi",positive,code_mix
+positive_55_emoji_reinforce,positive_55,flight rebooking bohot smoothly ho gyi ❤️,positive,emoji_reinforce
+positive_55_shorthand_emoji,positive_55,flight rebooking bhot smoothly ho gyi ❤️,positive,shorthand_emoji
+positive_55_stress_emoji,positive_55,flight rebooking bohot smoottthly ho gyi ❤️,positive,stress_emoji
+positive_56_clean,positive_56,app ka search feature bohot accurate h,positive,clean
+positive_56_shorthand,positive_56,app ka search feature bhot accurate h,positive,shorthand
+positive_56_typo,positive_56,app ka search feature bohot cacurate h,positive,typo
+positive_56_punctuation,positive_56,app ka search feature bohot accurate h!,positive,punctuation
+positive_56_stress,positive_56,app ka search feattture bohot accurate h,positive,stress
+positive_56_shorthand_typo,positive_56,app ka search feature bhto accurate h,positive,shorthand_typo
+positive_56_code_mix,positive_56,"seriously, app ka search feature bohot accurate h",positive,code_mix
+positive_56_emoji_reinforce,positive_56,app ka search feature bohot accurate h 👍,positive,emoji_reinforce
+positive_56_shorthand_emoji,positive_56,app ka search feature bhot accurate h 👍,positive,shorthand_emoji
+positive_56_stress_emoji,positive_56,app ka search feattture bohot accurate h 👍,positive,stress_emoji
+positive_57_clean,positive_57,delivery boy ne call karke confirm kiya,positive,clean
+positive_57_shorthand,positive_57,delivery boy ne call karke confirm kiya,positive,shorthand
+positive_57_typo,positive_57,delivery boy ne call karke ocnfirm kiya,positive,typo
+positive_57_punctuation,positive_57,delivery boy ne call karke confirm kiya!,positive,punctuation
+positive_57_stress,positive_57,delivery boy ne callll karke confirm kiya,positive,stress
+positive_57_shorthand_typo,positive_57,delviery boy ne call karke confirm kiya,positive,shorthand_typo
+positive_57_code_mix,positive_57,"seriously, delivery boy ne call karke confirm kiya",positive,code_mix
+positive_57_emoji_reinforce,positive_57,delivery boy ne call karke confirm kiya ❤️,positive,emoji_reinforce
+positive_57_shorthand_emoji,positive_57,delivery boy ne call karke confirm kiya ❤️,positive,shorthand_emoji
+positive_57_stress_emoji,positive_57,delivery boy ne callll karke confirm kiya ❤️,positive,stress_emoji
+positive_58_clean,positive_58,refund amount bilkul sahi tha,positive,clean
+positive_58_shorthand,positive_58,refund amount blkl sahi tha,positive,shorthand
+positive_58_typo,positive_58,refund maount bilkul sahi tha,positive,typo
+positive_58_punctuation,positive_58,refund amount bilkul sahi tha!,positive,punctuation
+positive_58_stress,positive_58,refund amount bilkul sahhhi tha,positive,stress
+positive_58_shorthand_typo,positive_58,refund amuont blkl sahi tha,positive,shorthand_typo
+positive_58_code_mix,positive_58,"just saying, refund amount bilkul sahi tha",positive,code_mix
+positive_58_emoji_reinforce,positive_58,refund amount bilkul sahi tha 👍,positive,emoji_reinforce
+positive_58_shorthand_emoji,positive_58,refund amount blkl sahi tha 👍,positive,shorthand_emoji
+positive_58_stress_emoji,positive_58,refund amount bilkul sahhhi tha 👍,positive,stress_emoji
+positive_59_clean,positive_59,subscription cancel karne pe koi hidden charge nahi laga,positive,clean
+positive_59_shorthand,positive_59,subscription cancel karne pe koi hidden charge nhi laga,positive,shorthand
+positive_59_typo,positive_59,subscription cancel karne pe koi hidden charge nahi laga,positive,typo
+positive_59_punctuation,positive_59,subscription cancel karne pe koi hidden charge nahi laga!,positive,punctuation
+positive_59_stress,positive_59,subscription cancel karne pe koooi hidden charge nahi laga,positive,stress
+positive_59_shorthand_typo,positive_59,subscripiton cancel karne pe koi hidden charge nhi laga,positive,shorthand_typo
+positive_59_code_mix,positive_59,"literally, subscription cancel karne pe koi hidden charge nahi laga",positive,code_mix
+positive_59_emoji_reinforce,positive_59,subscription cancel karne pe koi hidden charge nahi laga 😊,positive,emoji_reinforce
+positive_59_shorthand_emoji,positive_59,subscription cancel karne pe koi hidden charge nhi laga 😊,positive,shorthand_emoji
+positive_59_stress_emoji,positive_59,subscription cancel karne pe koooi hidden charge nahi laga 😊,positive,stress_emoji
+positive_60_clean,positive_60,overall experience bohot satisfying raha,positive,clean
+positive_60_shorthand,positive_60,overall experience bhot satisfying rha,positive,shorthand
+positive_60_typo,positive_60,overall experience bohot satisfynig raha,positive,typo
+positive_60_punctuation,positive_60,overall experience bohot satisfying raha!,positive,punctuation
+positive_60_stress,positive_60,overrrall experience bohot satisfying raha,positive,stress
+positive_60_shorthand_typo,positive_60,overall xeperience bhot satisfying rha,positive,shorthand_typo
+positive_60_code_mix,positive_60,"just saying, overall experience bohot satisfying raha",positive,code_mix
+positive_60_emoji_reinforce,positive_60,overall experience bohot satisfying raha 😄,positive,emoji_reinforce
+positive_60_shorthand_emoji,positive_60,overall experience bhot satisfying rha 😄,positive,shorthand_emoji
+positive_60_stress_emoji,positive_60,overrrall experience bohot satisfying raha 😄,positive,stress_emoji
+negative_01_clean,negative_01,service bohot kharab h bilkul bhi acha nahi,negative,clean
+negative_01_shorthand,negative_01,service bhot kharab h blkl bhi acha nhi,negative,shorthand
+negative_01_typo,negative_01,service bohot kharab h bilkul bhi ahca nahi,negative,typo
+negative_01_punctuation,negative_01,service bohot kharab h bilkul bhi acha nahi...,negative,punctuation
+negative_01_stress,negative_01,service bohot kharab h bilkul bhhhi acha nahi,negative,stress
+negative_01_shorthand_typo,negative_01,serivce bhot kharab h blkl bhi acha nhi,negative,shorthand_typo
+negative_01_code_mix,negative_01,"seriously, service bohot kharab h bilkul bhi acha nahi",negative,code_mix
+negative_01_emoji_reinforce,negative_01,service bohot kharab h bilkul bhi acha nahi 💔,negative,emoji_reinforce
+negative_01_shorthand_emoji,negative_01,service bhot kharab h blkl bhi acha nhi 💔,negative,shorthand_emoji
+negative_01_stress_emoji,negative_01,service bohot kharab h bilkul bhhhi acha nahi 💔,negative,stress_emoji
+negative_02_clean,negative_02,order 5 din late aaya bohot ganda experience,negative,clean
+negative_02_shorthand,negative_02,order 5 din late aaya bhot ganda experience,negative,shorthand
+negative_02_typo,negative_02,order 5 din late aaya bohot ganda experience,negative,typo
+negative_02_punctuation,negative_02,order 5 din late aaya bohot ganda experience...,negative,punctuation
+negative_02_stress,negative_02,order 5 din late aaya bohot ganda experiiience,negative,stress
+negative_02_shorthand_typo,negative_02,ordre 5 din late aaya bhot ganda experience,negative,shorthand_typo
+negative_02_code_mix,negative_02,"just saying, order 5 din late aaya bohot ganda experience",negative,code_mix
+negative_02_emoji_reinforce,negative_02,order 5 din late aaya bohot ganda experience 😤,negative,emoji_reinforce
+negative_02_shorthand_emoji,negative_02,order 5 din late aaya bhot ganda experience 😤,negative,shorthand_emoji
+negative_02_stress_emoji,negative_02,order 5 din late aaya bohot ganda experiiience 😤,negative,stress_emoji
+negative_03_clean,negative_03,support wale reply hi nahi krte kisi ka,negative,clean
+negative_03_shorthand,negative_03,support wale reply hi nhi krte kisi ka,negative,shorthand
+negative_03_typo,negative_03,support wale reply hi naih krte kisi ka,negative,typo
+negative_03_punctuation,negative_03,support wale reply hi nahi krte kisi ka...,negative,punctuation
+negative_03_stress,negative_03,support wale reply hi nahi krttte kisi ka,negative,stress
+negative_03_shorthand_typo,negative_03,support wale rpely hi nhi krte kisi ka,negative,shorthand_typo
+negative_03_code_mix,negative_03,"honestly, support wale reply hi nahi krte kisi ka",negative,code_mix
+negative_03_emoji_reinforce,negative_03,support wale reply hi nahi krte kisi ka 😤,negative,emoji_reinforce
+negative_03_shorthand_emoji,negative_03,support wale reply hi nhi krte kisi ka 😤,negative,shorthand_emoji
+negative_03_stress_emoji,negative_03,support wale reply hi nahi krttte kisi ka 😤,negative,stress_emoji
+negative_04_clean,negative_04,item bilkul kharab quality ka nikla,negative,clean
+negative_04_shorthand,negative_04,item blkl kharab quality ka nikla,negative,shorthand
+negative_04_typo,negative_04,item iblkul kharab quality ka nikla,negative,typo
+negative_04_punctuation,negative_04,item bilkul kharab quality ka nikla...,negative,punctuation
+negative_04_stress,negative_04,item bilkul kharab quality ka nikkkla,negative,stress
+negative_04_shorthand_typo,negative_04,item blkl kharba quality ka nikla,negative,shorthand_typo
+negative_04_code_mix,negative_04,"seriously, item bilkul kharab quality ka nikla",negative,code_mix
+negative_04_emoji_reinforce,negative_04,item bilkul kharab quality ka nikla 💔,negative,emoji_reinforce
+negative_04_shorthand_emoji,negative_04,item blkl kharab quality ka nikla 💔,negative,shorthand_emoji
+negative_04_stress_emoji,negative_04,item bilkul kharab quality ka nikkkla 💔,negative,stress_emoji
+negative_05_clean,negative_05,refund abhi tak nahi mila bohot frustrating h,negative,clean
+negative_05_shorthand,negative_05,refund abi tak nhi mila bhot frustrating h,negative,shorthand
+negative_05_typo,negative_05,refund abhi tak nahi mlia bohot frustrating h,negative,typo
+negative_05_punctuation,negative_05,refund abhi tak nahi mila bohot frustrating h...,negative,punctuation
+negative_05_stress,negative_05,refund abhi taaak nahi mila bohot frustrating h,negative,stress
+negative_05_shorthand_typo,negative_05,refund abi tak nhi mila boht frustrating h,negative,shorthand_typo
+negative_05_code_mix,negative_05,"just saying, refund abhi tak nahi mila bohot frustrating h",negative,code_mix
+negative_05_emoji_reinforce,negative_05,refund abhi tak nahi mila bohot frustrating h 😤,negative,emoji_reinforce
+negative_05_shorthand_emoji,negative_05,refund abi tak nhi mila bhot frustrating h 😤,negative,shorthand_emoji
+negative_05_stress_emoji,negative_05,refund abhi taaak nahi mila bohot frustrating h 😤,negative,stress_emoji
+negative_06_clean,negative_06,app baar baar crash ho jata h,negative,clean
+negative_06_shorthand,negative_06,app baar baar crash ho jata h,negative,shorthand
+negative_06_typo,negative_06,app baar baar carsh ho jata h,negative,typo
+negative_06_punctuation,negative_06,app baar baar crash ho jata h...,negative,punctuation
+negative_06_stress,negative_06,app baar baar crash ho jattta h,negative,stress
+negative_06_shorthand_typo,negative_06,app baar abar crash ho jata h,negative,shorthand_typo
+negative_06_code_mix,negative_06,"actually, app baar baar crash ho jata h",negative,code_mix
+negative_06_emoji_reinforce,negative_06,app baar baar crash ho jata h 😤,negative,emoji_reinforce
+negative_06_shorthand_emoji,negative_06,app baar baar crash ho jata h 😤,negative,shorthand_emoji
+negative_06_stress_emoji,negative_06,app baar baar crash ho jattta h 😤,negative,stress_emoji
+negative_07_clean,negative_07,agent ne bilkul help nahi ki,negative,clean
+negative_07_shorthand,negative_07,agent ne blkl help nhi ki,negative,shorthand
+negative_07_typo,negative_07,agent ne bilklu help nahi ki,negative,typo
+negative_07_punctuation,negative_07,agent ne bilkul help nahi ki...,negative,punctuation
+negative_07_stress,negative_07,agent ne bilkkkul help nahi ki,negative,stress
+negative_07_shorthand_typo,negative_07,agnet ne blkl help nhi ki,negative,shorthand_typo
+negative_07_code_mix,negative_07,"actually, agent ne bilkul help nahi ki",negative,code_mix
+negative_07_emoji_reinforce,negative_07,agent ne bilkul help nahi ki 😑,negative,emoji_reinforce
+negative_07_shorthand_emoji,negative_07,agent ne blkl help nhi ki 😑,negative,shorthand_emoji
+negative_07_stress_emoji,negative_07,agent ne bilkkkul help nahi ki 😑,negative,stress_emoji
+negative_08_clean,negative_08,packaging bilkul bekar thi sab tuta hua,negative,clean
+negative_08_shorthand,negative_08,packaging blkl bekr thi sab tuta hua,negative,shorthand
+negative_08_typo,negative_08,packgaing bilkul bekar thi sab tuta hua,negative,typo
+negative_08_punctuation,negative_08,packaging bilkul bekar thi sab tuta hua...,negative,punctuation
+negative_08_stress,negative_08,packaging bilkul bekkkar thi sab tuta hua,negative,stress
+negative_08_shorthand_typo,negative_08,packaging blkl bekr thi sab utta hua,negative,shorthand_typo
+negative_08_code_mix,negative_08,"literally, packaging bilkul bekar thi sab tuta hua",negative,code_mix
+negative_08_emoji_reinforce,negative_08,packaging bilkul bekar thi sab tuta hua 😠,negative,emoji_reinforce
+negative_08_shorthand_emoji,negative_08,packaging blkl bekr thi sab tuta hua 😠,negative,shorthand_emoji
+negative_08_stress_emoji,negative_08,packaging bilkul bekkkar thi sab tuta hua 😠,negative,stress_emoji
+negative_09_clean,negative_09,wait time bohot zyada tha call pe,negative,clean
+negative_09_shorthand,negative_09,wait time bhot zyada tha call pe,negative,shorthand
+negative_09_typo,negative_09,wait time bohot zydaa tha call pe,negative,typo
+negative_09_punctuation,negative_09,wait time bohot zyada tha call pe...,negative,punctuation
+negative_09_stress,negative_09,wait time bohot zyaaada tha call pe,negative,stress
+negative_09_shorthand_typo,negative_09,wait tiem bhot zyada tha call pe,negative,shorthand_typo
+negative_09_code_mix,negative_09,"seriously, wait time bohot zyada tha call pe",negative,code_mix
+negative_09_emoji_reinforce,negative_09,wait time bohot zyada tha call pe 😤,negative,emoji_reinforce
+negative_09_shorthand_emoji,negative_09,wait time bhot zyada tha call pe 😤,negative,shorthand_emoji
+negative_09_stress_emoji,negative_09,wait time bohot zyaaada tha call pe 😤,negative,stress_emoji
+negative_10_clean,negative_10,delivery boy rude tha bilkul,negative,clean
+negative_10_shorthand,negative_10,delivery boy rude tha blkl,negative,shorthand
+negative_10_typo,negative_10,delievry boy rude tha bilkul,negative,typo
+negative_10_punctuation,negative_10,delivery boy rude tha bilkul...,negative,punctuation
+negative_10_stress,negative_10,delivery boy rude thhha bilkul,negative,stress
+negative_10_shorthand_typo,negative_10,delivery boy rued tha blkl,negative,shorthand_typo
+negative_10_code_mix,negative_10,"honestly, delivery boy rude tha bilkul",negative,code_mix
+negative_10_emoji_reinforce,negative_10,delivery boy rude tha bilkul 😤,negative,emoji_reinforce
+negative_10_shorthand_emoji,negative_10,delivery boy rude tha blkl 😤,negative,shorthand_emoji
+negative_10_stress_emoji,negative_10,delivery boy rude thhha bilkul 😤,negative,stress_emoji
+negative_11_clean,negative_11,website hang ho jata h payment ke time,negative,clean
+negative_11_shorthand,negative_11,website hang ho jata h payment ke time,negative,shorthand
+negative_11_typo,negative_11,website ahng ho jata h payment ke time,negative,typo
+negative_11_punctuation,negative_11,website hang ho jata h payment ke time...,negative,punctuation
+negative_11_stress,negative_11,website hannng ho jata h payment ke time,negative,stress
+negative_11_shorthand_typo,negative_11,website hang ho jaat h payment ke time,negative,shorthand_typo
+negative_11_code_mix,negative_11,"literally, website hang ho jata h payment ke time",negative,code_mix
+negative_11_emoji_reinforce,negative_11,website hang ho jata h payment ke time 😑,negative,emoji_reinforce
+negative_11_shorthand_emoji,negative_11,website hang ho jata h payment ke time 😑,negative,shorthand_emoji
+negative_11_stress_emoji,negative_11,website hannng ho jata h payment ke time 😑,negative,stress_emoji
+negative_12_clean,negative_12,complaint ignore kr diya gya,negative,clean
+negative_12_shorthand,negative_12,complaint ignore kr diya gya,negative,shorthand
+negative_12_typo,negative_12,complaint ignore kr idya gya,negative,typo
+negative_12_punctuation,negative_12,complaint ignore kr diya gya...,negative,punctuation
+negative_12_stress,negative_12,complaint ignore kr diya gyyya,negative,stress
+negative_12_shorthand_typo,negative_12,complaint igonre kr diya gya,negative,shorthand_typo
+negative_12_code_mix,negative_12,"actually, complaint ignore kr diya gya",negative,code_mix
+negative_12_emoji_reinforce,negative_12,complaint ignore kr diya gya 😑,negative,emoji_reinforce
+negative_12_shorthand_emoji,negative_12,complaint ignore kr diya gya 😑,negative,shorthand_emoji
+negative_12_stress_emoji,negative_12,complaint ignore kr diya gyyya 😑,negative,stress_emoji
+negative_13_clean,negative_13,wrong item bheja aur response bhi nahi mila,negative,clean
+negative_13_shorthand,negative_13,wrong item bheja aur response bhi nhi mila,negative,shorthand
+negative_13_typo,negative_13,worng item bheja aur response bhi nahi mila,negative,typo
+negative_13_punctuation,negative_13,wrong item bheja aur response bhi nahi mila...,negative,punctuation
+negative_13_stress,negative_13,wrong item bheja aur response bhi nahhhi mila,negative,stress
+negative_13_shorthand_typo,negative_13,wrong item behja aur response bhi nhi mila,negative,shorthand_typo
+negative_13_code_mix,negative_13,"actually, wrong item bheja aur response bhi nahi mila",negative,code_mix
+negative_13_emoji_reinforce,negative_13,wrong item bheja aur response bhi nahi mila 😞,negative,emoji_reinforce
+negative_13_shorthand_emoji,negative_13,wrong item bheja aur response bhi nhi mila 😞,negative,shorthand_emoji
+negative_13_stress_emoji,negative_13,wrong item bheja aur response bhi nahhhi mila 😞,negative,stress_emoji
+negative_14_clean,negative_14,charges galat lagaye aur explanation bhi nahi mila,negative,clean
+negative_14_shorthand,negative_14,charges galat lagaye aur explanation bhi nhi mila,negative,shorthand
+negative_14_typo,negative_14,charges galat lagaey aur explanation bhi nahi mila,negative,typo
+negative_14_punctuation,negative_14,charges galat lagaye aur explanation bhi nahi mila...,negative,punctuation
+negative_14_stress,negative_14,charges galat lagaaaye aur explanation bhi nahi mila,negative,stress
+negative_14_shorthand_typo,negative_14,charges galat algaye aur explanation bhi nhi mila,negative,shorthand_typo
+negative_14_code_mix,negative_14,"actually, charges galat lagaye aur explanation bhi nahi mila",negative,code_mix
+negative_14_emoji_reinforce,negative_14,charges galat lagaye aur explanation bhi nahi mila 😑,negative,emoji_reinforce
+negative_14_shorthand_emoji,negative_14,charges galat lagaye aur explanation bhi nhi mila 😑,negative,shorthand_emoji
+negative_14_stress_emoji,negative_14,charges galat lagaaaye aur explanation bhi nahi mila 😑,negative,stress_emoji
+negative_15_clean,negative_15,subscription cancel krna itna mushkil kyu h,negative,clean
+negative_15_shorthand,negative_15,subscription cancel krna itna mushkil kyu h,negative,shorthand
+negative_15_typo,negative_15,subscription acncel krna itna mushkil kyu h,negative,typo
+negative_15_punctuation,negative_15,subscription cancel krna itna mushkil kyu h...,negative,punctuation
+negative_15_stress,negative_15,subscription cancel krna itnnna mushkil kyu h,negative,stress
+negative_15_shorthand_typo,negative_15,subscription cancel kran itna mushkil kyu h,negative,shorthand_typo
+negative_15_code_mix,negative_15,"seriously, subscription cancel krna itna mushkil kyu h",negative,code_mix
+negative_15_emoji_reinforce,negative_15,subscription cancel krna itna mushkil kyu h 💔,negative,emoji_reinforce
+negative_15_shorthand_emoji,negative_15,subscription cancel krna itna mushkil kyu h 💔,negative,shorthand_emoji
+negative_15_stress_emoji,negative_15,subscription cancel krna itnnna mushkil kyu h 💔,negative,stress_emoji
+negative_16_clean,negative_16,return request reject kr diya bina reason ke,negative,clean
+negative_16_shorthand,negative_16,return request reject kr diya bina reason ke,negative,shorthand
+negative_16_typo,negative_16,return request reject kr diya bina reaosn ke,negative,typo
+negative_16_punctuation,negative_16,return request reject kr diya bina reason ke...,negative,punctuation
+negative_16_stress,negative_16,return request reject kr diya bina reassson ke,negative,stress
+negative_16_shorthand_typo,negative_16,return request reject kr diay bina reason ke,negative,shorthand_typo
+negative_16_code_mix,negative_16,"literally, return request reject kr diya bina reason ke",negative,code_mix
+negative_16_emoji_reinforce,negative_16,return request reject kr diya bina reason ke 😤,negative,emoji_reinforce
+negative_16_shorthand_emoji,negative_16,return request reject kr diya bina reason ke 😤,negative,shorthand_emoji
+negative_16_stress_emoji,negative_16,return request reject kr diya bina reassson ke 😤,negative,stress_emoji
+negative_17_clean,negative_17,hotel room bilkul saaf nahi tha,negative,clean
+negative_17_shorthand,negative_17,hotel room blkl saaf nhi tha,negative,shorthand
+negative_17_typo,negative_17,htoel room bilkul saaf nahi tha,negative,typo
+negative_17_punctuation,negative_17,hotel room bilkul saaf nahi tha...,negative,punctuation
+negative_17_stress,negative_17,hotttel room bilkul saaf nahi tha,negative,stress
+negative_17_shorthand_typo,negative_17,hotel room bllk saaf nhi tha,negative,shorthand_typo
+negative_17_code_mix,negative_17,"actually, hotel room bilkul saaf nahi tha",negative,code_mix
+negative_17_emoji_reinforce,negative_17,hotel room bilkul saaf nahi tha 💔,negative,emoji_reinforce
+negative_17_shorthand_emoji,negative_17,hotel room blkl saaf nhi tha 💔,negative,shorthand_emoji
+negative_17_stress_emoji,negative_17,hotttel room bilkul saaf nahi tha 💔,negative,stress_emoji
+negative_18_clean,negative_18,cab driver ne rasta hi galat le liya,negative,clean
+negative_18_shorthand,negative_18,cab driver ne rasta hi galat le liya,negative,shorthand
+negative_18_typo,negative_18,cab driver ne rasta hi galat le liay,negative,typo
+negative_18_punctuation,negative_18,cab driver ne rasta hi galat le liya...,negative,punctuation
+negative_18_stress,negative_18,cab driver ne rasssta hi galat le liya,negative,stress
+negative_18_shorthand_typo,negative_18,cab drivre ne rasta hi galat le liya,negative,shorthand_typo
+negative_18_code_mix,negative_18,"just saying, cab driver ne rasta hi galat le liya",negative,code_mix
+negative_18_emoji_reinforce,negative_18,cab driver ne rasta hi galat le liya 😠,negative,emoji_reinforce
+negative_18_shorthand_emoji,negative_18,cab driver ne rasta hi galat le liya 😠,negative,shorthand_emoji
+negative_18_stress_emoji,negative_18,cab driver ne rasssta hi galat le liya 😠,negative,stress_emoji
+negative_19_clean,negative_19,flight delay hui aur koi update nahi mila,negative,clean
+negative_19_shorthand,negative_19,flight delay hui aur koi update nhi mila,negative,shorthand
+negative_19_typo,negative_19,flight delay hui aur koi update nhai mila,negative,typo
+negative_19_punctuation,negative_19,flight delay hui aur koi update nahi mila...,negative,punctuation
+negative_19_stress,negative_19,flight delllay hui aur koi update nahi mila,negative,stress
+negative_19_shorthand_typo,negative_19,filght delay hui aur koi update nhi mila,negative,shorthand_typo
+negative_19_code_mix,negative_19,"literally, flight delay hui aur koi update nahi mila",negative,code_mix
+negative_19_emoji_reinforce,negative_19,flight delay hui aur koi update nahi mila 😠,negative,emoji_reinforce
+negative_19_shorthand_emoji,negative_19,flight delay hui aur koi update nhi mila 😠,negative,shorthand_emoji
+negative_19_stress_emoji,negative_19,flight delllay hui aur koi update nahi mila 😠,negative,stress_emoji
+negative_20_clean,negative_20,bill me extra charge dikh raha h galti se,negative,clean
+negative_20_shorthand,negative_20,bill me extra charge dikh rha h galti se,negative,shorthand
+negative_20_typo,negative_20,bill me extra cahrge dikh raha h galti se,negative,typo
+negative_20_punctuation,negative_20,bill me extra charge dikh raha h galti se...,negative,punctuation
+negative_20_stress,negative_20,bill me extttra charge dikh raha h galti se,negative,stress
+negative_20_shorthand_typo,negative_20,bill me extra charge dikh rha h galti se,negative,shorthand_typo
+negative_20_code_mix,negative_20,"seriously, bill me extra charge dikh raha h galti se",negative,code_mix
+negative_20_emoji_reinforce,negative_20,bill me extra charge dikh raha h galti se 😤,negative,emoji_reinforce
+negative_20_shorthand_emoji,negative_20,bill me extra charge dikh rha h galti se 😤,negative,shorthand_emoji
+negative_20_stress_emoji,negative_20,bill me extttra charge dikh raha h galti se 😤,negative,stress_emoji
+negative_21_clean,negative_21,app itna slow h ki use hi nahi hota,negative,clean
+negative_21_shorthand,negative_21,app itna slow h ki use hi nhi hota,negative,shorthand
+negative_21_typo,negative_21,app itna slwo h ki use hi nahi hota,negative,typo
+negative_21_punctuation,negative_21,app itna slow h ki use hi nahi hota...,negative,punctuation
+negative_21_stress,negative_21,apppp itna slow h ki use hi nahi hota,negative,stress
+negative_21_shorthand_typo,negative_21,app itna slwo h ki use hi nhi hota,negative,shorthand_typo
+negative_21_code_mix,negative_21,"seriously, app itna slow h ki use hi nahi hota",negative,code_mix
+negative_21_emoji_reinforce,negative_21,app itna slow h ki use hi nahi hota 😑,negative,emoji_reinforce
+negative_21_shorthand_emoji,negative_21,app itna slow h ki use hi nhi hota 😑,negative,shorthand_emoji
+negative_21_stress_emoji,negative_21,apppp itna slow h ki use hi nahi hota 😑,negative,stress_emoji
+negative_22_clean,negative_22,baar baar same problem bata chuka hu koi fix nahi,negative,clean
+negative_22_shorthand,negative_22,baar baar same problem bata chuka hu koi fix nhi,negative,shorthand
+negative_22_typo,negative_22,baar baar same prolbem bata chuka hu koi fix nahi,negative,typo
+negative_22_punctuation,negative_22,baar baar same problem bata chuka hu koi fix nahi...,negative,punctuation
+negative_22_stress,negative_22,baar baar same probbblem bata chuka hu koi fix nahi,negative,stress
+negative_22_shorthand_typo,negative_22,baar baar same probelm bata chuka hu koi fix nhi,negative,shorthand_typo
+negative_22_code_mix,negative_22,"just saying, baar baar same problem bata chuka hu koi fix nahi",negative,code_mix
+negative_22_emoji_reinforce,negative_22,baar baar same problem bata chuka hu koi fix nahi 💔,negative,emoji_reinforce
+negative_22_shorthand_emoji,negative_22,baar baar same problem bata chuka hu koi fix nhi 💔,negative,shorthand_emoji
+negative_22_stress_emoji,negative_22,baar baar same probbblem bata chuka hu koi fix nahi 💔,negative,stress_emoji
+negative_23_clean,negative_23,customer care ne call hi disconnect kr diya,negative,clean
+negative_23_shorthand,negative_23,customer care ne call hi disconnect kr diya,negative,shorthand
+negative_23_typo,negative_23,customer crae ne call hi disconnect kr diya,negative,typo
+negative_23_punctuation,negative_23,customer care ne call hi disconnect kr diya...,negative,punctuation
+negative_23_stress,negative_23,customer carrre ne call hi disconnect kr diya,negative,stress
+negative_23_shorthand_typo,negative_23,customer crae ne call hi disconnect kr diya,negative,shorthand_typo
+negative_23_code_mix,negative_23,"literally, customer care ne call hi disconnect kr diya",negative,code_mix
+negative_23_emoji_reinforce,negative_23,customer care ne call hi disconnect kr diya 😑,negative,emoji_reinforce
+negative_23_shorthand_emoji,negative_23,customer care ne call hi disconnect kr diya 😑,negative,shorthand_emoji
+negative_23_stress_emoji,negative_23,customer carrre ne call hi disconnect kr diya 😑,negative,stress_emoji
+negative_24_clean,negative_24,exchange ke liye 10 din wait krna pada,negative,clean
+negative_24_shorthand,negative_24,exchange ke liye 10 din wait krna pada,negative,shorthand
+negative_24_typo,negative_24,exchange ke liye 10 din wait krna apda,negative,typo
+negative_24_punctuation,negative_24,exchange ke liye 10 din wait krna pada...,negative,punctuation
+negative_24_stress,negative_24,exchange ke liye 10 diiin wait krna pada,negative,stress
+negative_24_shorthand_typo,negative_24,exchange ke liye 10 din awit krna pada,negative,shorthand_typo
+negative_24_code_mix,negative_24,"just saying, exchange ke liye 10 din wait krna pada",negative,code_mix
+negative_24_emoji_reinforce,negative_24,exchange ke liye 10 din wait krna pada 😤,negative,emoji_reinforce
+negative_24_shorthand_emoji,negative_24,exchange ke liye 10 din wait krna pada 😤,negative,shorthand_emoji
+negative_24_stress_emoji,negative_24,exchange ke liye 10 diiin wait krna pada 😤,negative,stress_emoji
+negative_25_clean,negative_25,itna bura experience pehle kabhi nahi hua,negative,clean
+negative_25_shorthand,negative_25,itna bura experience pehle kabi nhi hua,negative,shorthand
+negative_25_typo,negative_25,itna bura experience ephle kabhi nahi hua,negative,typo
+negative_25_punctuation,negative_25,itna bura experience pehle kabhi nahi hua...,negative,punctuation
+negative_25_stress,negative_25,itna bura experience pehhhle kabhi nahi hua,negative,stress
+negative_25_shorthand_typo,negative_25,itna bura experience phele kabi nhi hua,negative,shorthand_typo
+negative_25_code_mix,negative_25,"honestly, itna bura experience pehle kabhi nahi hua",negative,code_mix
+negative_25_emoji_reinforce,negative_25,itna bura experience pehle kabhi nahi hua 😠,negative,emoji_reinforce
+negative_25_shorthand_emoji,negative_25,itna bura experience pehle kabi nhi hua 😠,negative,shorthand_emoji
+negative_25_stress_emoji,negative_25,itna bura experience pehhhle kabhi nahi hua 😠,negative,stress_emoji
+negative_26_clean,negative_26,driver raste bhar phone pe baat karta raha,negative,clean
+negative_26_shorthand,negative_26,driver raste bhar phone pe baat karta rha,negative,shorthand
+negative_26_typo,negative_26,driver raset bhar phone pe baat karta raha,negative,typo
+negative_26_punctuation,negative_26,driver raste bhar phone pe baat karta raha...,negative,punctuation
+negative_26_stress,negative_26,driver raste bhar phone pe baaaat karta raha,negative,stress
+negative_26_shorthand_typo,negative_26,driver raste bahr phone pe baat karta rha,negative,shorthand_typo
+negative_26_code_mix,negative_26,"just saying, driver raste bhar phone pe baat karta raha",negative,code_mix
+negative_26_emoji_reinforce,negative_26,driver raste bhar phone pe baat karta raha 😞,negative,emoji_reinforce
+negative_26_shorthand_emoji,negative_26,driver raste bhar phone pe baat karta rha 😞,negative,shorthand_emoji
+negative_26_stress_emoji,negative_26,driver raste bhar phone pe baaaat karta raha 😞,negative,stress_emoji
+negative_27_clean,negative_27,app checkout baar baar fail ho jata h,negative,clean
+negative_27_shorthand,negative_27,app checkout baar baar fail ho jata h,negative,shorthand
+negative_27_typo,negative_27,app checkout baar baar fial ho jata h,negative,typo
+negative_27_punctuation,negative_27,app checkout baar baar fail ho jata h...,negative,punctuation
+negative_27_stress,negative_27,app checkout baar baar faiiil ho jata h,negative,stress
+negative_27_shorthand_typo,negative_27,app checkout baar bara fail ho jata h,negative,shorthand_typo
+negative_27_code_mix,negative_27,"literally, app checkout baar baar fail ho jata h",negative,code_mix
+negative_27_emoji_reinforce,negative_27,app checkout baar baar fail ho jata h 😞,negative,emoji_reinforce
+negative_27_shorthand_emoji,negative_27,app checkout baar baar fail ho jata h 😞,negative,shorthand_emoji
+negative_27_stress_emoji,negative_27,app checkout baar baar faiiil ho jata h 😞,negative,stress_emoji
+negative_28_clean,negative_28,missing item ka koi response hi nahi mila,negative,clean
+negative_28_shorthand,negative_28,missing item ka koi response hi nhi mila,negative,shorthand
+negative_28_typo,negative_28,missing item ka koi ersponse hi nahi mila,negative,typo
+negative_28_punctuation,negative_28,missing item ka koi response hi nahi mila...,negative,punctuation
+negative_28_stress,negative_28,missing iteeem ka koi response hi nahi mila,negative,stress
+negative_28_shorthand_typo,negative_28,missing itme ka koi response hi nhi mila,negative,shorthand_typo
+negative_28_code_mix,negative_28,"actually, missing item ka koi response hi nahi mila",negative,code_mix
+negative_28_emoji_reinforce,negative_28,missing item ka koi response hi nahi mila 💔,negative,emoji_reinforce
+negative_28_shorthand_emoji,negative_28,missing item ka koi response hi nhi mila 💔,negative,shorthand_emoji
+negative_28_stress_emoji,negative_28,missing iteeem ka koi response hi nahi mila 💔,negative,stress_emoji
+negative_29_clean,negative_29,hotel staff bilkul cooperative nahi tha,negative,clean
+negative_29_shorthand,negative_29,hotel staff blkl cooperative nhi tha,negative,shorthand
+negative_29_typo,negative_29,hotel staff bilukl cooperative nahi tha,negative,typo
+negative_29_punctuation,negative_29,hotel staff bilkul cooperative nahi tha...,negative,punctuation
+negative_29_stress,negative_29,hotel staff bilkul cooperative nahi thhha,negative,stress
+negative_29_shorthand_typo,negative_29,hotel staff bkll cooperative nhi tha,negative,shorthand_typo
+negative_29_code_mix,negative_29,"honestly, hotel staff bilkul cooperative nahi tha",negative,code_mix
+negative_29_emoji_reinforce,negative_29,hotel staff bilkul cooperative nahi tha 😤,negative,emoji_reinforce
+negative_29_shorthand_emoji,negative_29,hotel staff blkl cooperative nhi tha 😤,negative,shorthand_emoji
+negative_29_stress_emoji,negative_29,hotel staff bilkul cooperative nahi thhha 😤,negative,stress_emoji
+negative_30_clean,negative_30,order pack hi nahi hua time pe,negative,clean
+negative_30_shorthand,negative_30,order pack hi nhi hua time pe,negative,shorthand
+negative_30_typo,negative_30,order pack hi naih hua time pe,negative,typo
+negative_30_punctuation,negative_30,order pack hi nahi hua time pe...,negative,punctuation
+negative_30_stress,negative_30,order pack hi nahhhi hua time pe,negative,stress
+negative_30_shorthand_typo,negative_30,odrer pack hi nhi hua time pe,negative,shorthand_typo
+negative_30_code_mix,negative_30,"literally, order pack hi nahi hua time pe",negative,code_mix
+negative_30_emoji_reinforce,negative_30,order pack hi nahi hua time pe 😤,negative,emoji_reinforce
+negative_30_shorthand_emoji,negative_30,order pack hi nhi hua time pe 😤,negative,shorthand_emoji
+negative_30_stress_emoji,negative_30,order pack hi nahhhi hua time pe 😤,negative,stress_emoji
+negative_31_clean,negative_31,subscription trial khatam hote hi bina bataye charge kr diya,negative,clean
+negative_31_shorthand,negative_31,subscription trial khatam hote hi bina bataye charge kr diya,negative,shorthand
+negative_31_typo,negative_31,subscription trial khaatm hote hi bina bataye charge kr diya,negative,typo
+negative_31_punctuation,negative_31,subscription trial khatam hote hi bina bataye charge kr diya...,negative,punctuation
+negative_31_stress,negative_31,subscription trial khatam hote hi binnna bataye charge kr diya,negative,stress
+negative_31_shorthand_typo,negative_31,subscription tiral khatam hote hi bina bataye charge kr diya,negative,shorthand_typo
+negative_31_code_mix,negative_31,"seriously, subscription trial khatam hote hi bina bataye charge kr diya",negative,code_mix
+negative_31_emoji_reinforce,negative_31,subscription trial khatam hote hi bina bataye charge kr diya 😠,negative,emoji_reinforce
+negative_31_shorthand_emoji,negative_31,subscription trial khatam hote hi bina bataye charge kr diya 😠,negative,shorthand_emoji
+negative_31_stress_emoji,negative_31,subscription trial khatam hote hi binnna bataye charge kr diya 😠,negative,stress_emoji
+negative_32_clean,negative_32,delivery partner galat address pe chala gya,negative,clean
+negative_32_shorthand,negative_32,delivery partner galat address pe chala gya,negative,shorthand
+negative_32_typo,negative_32,delivery partner galta address pe chala gya,negative,typo
+negative_32_punctuation,negative_32,delivery partner galat address pe chala gya...,negative,punctuation
+negative_32_stress,negative_32,delivvvery partner galat address pe chala gya,negative,stress
+negative_32_shorthand_typo,negative_32,delivery partner galat adderss pe chala gya,negative,shorthand_typo
+negative_32_code_mix,negative_32,"seriously, delivery partner galat address pe chala gya",negative,code_mix
+negative_32_emoji_reinforce,negative_32,delivery partner galat address pe chala gya 😠,negative,emoji_reinforce
+negative_32_shorthand_emoji,negative_32,delivery partner galat address pe chala gya 😠,negative,shorthand_emoji
+negative_32_stress_emoji,negative_32,delivvvery partner galat address pe chala gya 😠,negative,stress_emoji
+negative_33_clean,negative_33,agent ne kuch bhi properly explain nahi kiya,negative,clean
+negative_33_shorthand,negative_33,agent ne kuch bhi properly explain nhi kiya,negative,shorthand
+negative_33_typo,negative_33,agent ne kuch bhi properly explain nahi kyia,negative,typo
+negative_33_punctuation,negative_33,agent ne kuch bhi properly explain nahi kiya...,negative,punctuation
+negative_33_stress,negative_33,ageeent ne kuch bhi properly explain nahi kiya,negative,stress
+negative_33_shorthand_typo,negative_33,agent ne kuch bhi propelry explain nhi kiya,negative,shorthand_typo
+negative_33_code_mix,negative_33,"honestly, agent ne kuch bhi properly explain nahi kiya",negative,code_mix
+negative_33_emoji_reinforce,negative_33,agent ne kuch bhi properly explain nahi kiya 😑,negative,emoji_reinforce
+negative_33_shorthand_emoji,negative_33,agent ne kuch bhi properly explain nhi kiya 😑,negative,shorthand_emoji
+negative_33_stress_emoji,negative_33,ageeent ne kuch bhi properly explain nahi kiya 😑,negative,stress_emoji
+negative_34_clean,negative_34,payment options bohot limited h,negative,clean
+negative_34_shorthand,negative_34,payment options bhot limited h,negative,shorthand
+negative_34_typo,negative_34,payment options bohto limited h,negative,typo
+negative_34_punctuation,negative_34,payment options bohot limited h...,negative,punctuation
+negative_34_stress,negative_34,payment options bohhhot limited h,negative,stress
+negative_34_shorthand_typo,negative_34,payment options bhot limtied h,negative,shorthand_typo
+negative_34_code_mix,negative_34,"just saying, payment options bohot limited h",negative,code_mix
+negative_34_emoji_reinforce,negative_34,payment options bohot limited h 😠,negative,emoji_reinforce
+negative_34_shorthand_emoji,negative_34,payment options bhot limited h 😠,negative,shorthand_emoji
+negative_34_stress_emoji,negative_34,payment options bohhhot limited h 😠,negative,stress_emoji
+negative_35_clean,negative_35,cancellation pe extra fee laga diya bina bataye,negative,clean
+negative_35_shorthand,negative_35,cancellation pe extra fee laga diya bina bataye,negative,shorthand
+negative_35_typo,negative_35,cancellation pe extra fee laga diya bina btaaye,negative,typo
+negative_35_punctuation,negative_35,cancellation pe extra fee laga diya bina bataye...,negative,punctuation
+negative_35_stress,negative_35,cancellation pe extra feeee laga diya bina bataye,negative,stress
+negative_35_shorthand_typo,negative_35,cancellation pe extra fee alga diya bina bataye,negative,shorthand_typo
+negative_35_code_mix,negative_35,"seriously, cancellation pe extra fee laga diya bina bataye",negative,code_mix
+negative_35_emoji_reinforce,negative_35,cancellation pe extra fee laga diya bina bataye 😞,negative,emoji_reinforce
+negative_35_shorthand_emoji,negative_35,cancellation pe extra fee laga diya bina bataye 😞,negative,shorthand_emoji
+negative_35_stress_emoji,negative_35,cancellation pe extra feeee laga diya bina bataye 😞,negative,stress_emoji
+negative_36_clean,negative_36,app notifications time pe aate hi nahi,negative,clean
+negative_36_shorthand,negative_36,app notifications time pe aate hi nhi,negative,shorthand
+negative_36_typo,negative_36,app notificatoins time pe aate hi nahi,negative,typo
+negative_36_punctuation,negative_36,app notifications time pe aate hi nahi...,negative,punctuation
+negative_36_stress,negative_36,apppp notifications time pe aate hi nahi,negative,stress
+negative_36_shorthand_typo,negative_36,app notifications time pe aaet hi nhi,negative,shorthand_typo
+negative_36_code_mix,negative_36,"literally, app notifications time pe aate hi nahi",negative,code_mix
+negative_36_emoji_reinforce,negative_36,app notifications time pe aate hi nahi 😞,negative,emoji_reinforce
+negative_36_shorthand_emoji,negative_36,app notifications time pe aate hi nhi 😞,negative,shorthand_emoji
+negative_36_stress_emoji,negative_36,apppp notifications time pe aate hi nahi 😞,negative,stress_emoji
+negative_37_clean,negative_37,refund process bilkul unclear tha,negative,clean
+negative_37_shorthand,negative_37,refund process blkl unclear tha,negative,shorthand
+negative_37_typo,negative_37,refund prcoess bilkul unclear tha,negative,typo
+negative_37_punctuation,negative_37,refund process bilkul unclear tha...,negative,punctuation
+negative_37_stress,negative_37,refund process bilkul unclllear tha,negative,stress
+negative_37_shorthand_typo,negative_37,refund process blkl ucnlear tha,negative,shorthand_typo
+negative_37_code_mix,negative_37,"literally, refund process bilkul unclear tha",negative,code_mix
+negative_37_emoji_reinforce,negative_37,refund process bilkul unclear tha 😞,negative,emoji_reinforce
+negative_37_shorthand_emoji,negative_37,refund process blkl unclear tha 😞,negative,shorthand_emoji
+negative_37_stress_emoji,negative_37,refund process bilkul unclllear tha 😞,negative,stress_emoji
+negative_38_clean,negative_38,courier kaafi late tha bina kisi update ke,negative,clean
+negative_38_shorthand,negative_38,courier kaafi late tha bina kisi update ke,negative,shorthand
+negative_38_typo,negative_38,courier akafi late tha bina kisi update ke,negative,typo
+negative_38_punctuation,negative_38,courier kaafi late tha bina kisi update ke...,negative,punctuation
+negative_38_stress,negative_38,courrrier kaafi late tha bina kisi update ke,negative,stress
+negative_38_shorthand_typo,negative_38,courier kaafi late tha bian kisi update ke,negative,shorthand_typo
+negative_38_code_mix,negative_38,"honestly, courier kaafi late tha bina kisi update ke",negative,code_mix
+negative_38_emoji_reinforce,negative_38,courier kaafi late tha bina kisi update ke 😞,negative,emoji_reinforce
+negative_38_shorthand_emoji,negative_38,courier kaafi late tha bina kisi update ke 😞,negative,shorthand_emoji
+negative_38_stress_emoji,negative_38,courrrier kaafi late tha bina kisi update ke 😞,negative,stress_emoji
+negative_39_clean,negative_39,customer support ne callback hi nahi diya,negative,clean
+negative_39_shorthand,negative_39,customer support ne callback hi nhi diya,negative,shorthand
+negative_39_typo,negative_39,customer support ne callback hi naih diya,negative,typo
+negative_39_punctuation,negative_39,customer support ne callback hi nahi diya...,negative,punctuation
+negative_39_stress,negative_39,customer support ne callback hi nahi diyyya,negative,stress
+negative_39_shorthand_typo,negative_39,customer support ne callback hi nhi dyia,negative,shorthand_typo
+negative_39_code_mix,negative_39,"seriously, customer support ne callback hi nahi diya",negative,code_mix
+negative_39_emoji_reinforce,negative_39,customer support ne callback hi nahi diya 😑,negative,emoji_reinforce
+negative_39_shorthand_emoji,negative_39,customer support ne callback hi nhi diya 😑,negative,shorthand_emoji
+negative_39_stress_emoji,negative_39,customer support ne callback hi nahi diyyya 😑,negative,stress_emoji
+negative_40_clean,negative_40,return pickup miss ho gya do baar,negative,clean
+negative_40_shorthand,negative_40,return pickup miss ho gya do baar,negative,shorthand
+negative_40_typo,negative_40,return pickup miss ho gya do bara,negative,typo
+negative_40_punctuation,negative_40,return pickup miss ho gya do baar...,negative,punctuation
+negative_40_stress,negative_40,retuuurn pickup miss ho gya do baar,negative,stress
+negative_40_shorthand_typo,negative_40,return pickup miss ho gya do baar,negative,shorthand_typo
+negative_40_code_mix,negative_40,"seriously, return pickup miss ho gya do baar",negative,code_mix
+negative_40_emoji_reinforce,negative_40,return pickup miss ho gya do baar 💔,negative,emoji_reinforce
+negative_40_shorthand_emoji,negative_40,return pickup miss ho gya do baar 💔,negative,shorthand_emoji
+negative_40_stress_emoji,negative_40,retuuurn pickup miss ho gya do baar 💔,negative,stress_emoji
+negative_41_clean,negative_41,flight crew rude tha bilkul,negative,clean
+negative_41_shorthand,negative_41,flight crew rude tha blkl,negative,shorthand
+negative_41_typo,negative_41,flight crew rude tha bilukl,negative,typo
+negative_41_punctuation,negative_41,flight crew rude tha bilkul...,negative,punctuation
+negative_41_stress,negative_41,fliggght crew rude tha bilkul,negative,stress
+negative_41_shorthand_typo,negative_41,flihgt crew rude tha blkl,negative,shorthand_typo
+negative_41_code_mix,negative_41,"just saying, flight crew rude tha bilkul",negative,code_mix
+negative_41_emoji_reinforce,negative_41,flight crew rude tha bilkul 💔,negative,emoji_reinforce
+negative_41_shorthand_emoji,negative_41,flight crew rude tha blkl 💔,negative,shorthand_emoji
+negative_41_stress_emoji,negative_41,fliggght crew rude tha bilkul 💔,negative,stress_emoji
+negative_42_clean,negative_42,cab driver ne gandi gaadi bheji,negative,clean
+negative_42_shorthand,negative_42,cab driver ne gandi gaadi bheji,negative,shorthand
+negative_42_typo,negative_42,cab drivre ne gandi gaadi bheji,negative,typo
+negative_42_punctuation,negative_42,cab driver ne gandi gaadi bheji...,negative,punctuation
+negative_42_stress,negative_42,cab driver ne gandi gaaaadi bheji,negative,stress
+negative_42_shorthand_typo,negative_42,cab drievr ne gandi gaadi bheji,negative,shorthand_typo
+negative_42_code_mix,negative_42,"seriously, cab driver ne gandi gaadi bheji",negative,code_mix
+negative_42_emoji_reinforce,negative_42,cab driver ne gandi gaadi bheji 😑,negative,emoji_reinforce
+negative_42_shorthand_emoji,negative_42,cab driver ne gandi gaadi bheji 😑,negative,shorthand_emoji
+negative_42_stress_emoji,negative_42,cab driver ne gandi gaaaadi bheji 😑,negative,stress_emoji
+negative_43_clean,negative_43,hotel checkin me bohot wait karna pada,negative,clean
+negative_43_shorthand,negative_43,hotel checkin me bhot wait krna pada,negative,shorthand
+negative_43_typo,negative_43,htoel checkin me bohot wait karna pada,negative,typo
+negative_43_punctuation,negative_43,hotel checkin me bohot wait karna pada...,negative,punctuation
+negative_43_stress,negative_43,hotel checkin me bohot wait karrrna pada,negative,stress
+negative_43_shorthand_typo,negative_43,hotel checkin me bhot wait rkna pada,negative,shorthand_typo
+negative_43_code_mix,negative_43,"honestly, hotel checkin me bohot wait karna pada",negative,code_mix
+negative_43_emoji_reinforce,negative_43,hotel checkin me bohot wait karna pada 😤,negative,emoji_reinforce
+negative_43_shorthand_emoji,negative_43,hotel checkin me bhot wait krna pada 😤,negative,shorthand_emoji
+negative_43_stress_emoji,negative_43,hotel checkin me bohot wait karrrna pada 😤,negative,stress_emoji
+negative_44_clean,negative_44,order confirmation hi nahi mila kaafi der tak,negative,clean
+negative_44_shorthand,negative_44,order confirmation hi nhi mila kaafi der tak,negative,shorthand
+negative_44_typo,negative_44,order cofnirmation hi nahi mila kaafi der tak,negative,typo
+negative_44_punctuation,negative_44,order confirmation hi nahi mila kaafi der tak...,negative,punctuation
+negative_44_stress,negative_44,order confirmation hi nahi millla kaafi der tak,negative,stress
+negative_44_shorthand_typo,negative_44,order confirmation hi nhi mlia kaafi der tak,negative,shorthand_typo
+negative_44_code_mix,negative_44,"literally, order confirmation hi nahi mila kaafi der tak",negative,code_mix
+negative_44_emoji_reinforce,negative_44,order confirmation hi nahi mila kaafi der tak 😞,negative,emoji_reinforce
+negative_44_shorthand_emoji,negative_44,order confirmation hi nhi mila kaafi der tak 😞,negative,shorthand_emoji
+negative_44_stress_emoji,negative_44,order confirmation hi nahi millla kaafi der tak 😞,negative,stress_emoji
+negative_45_clean,negative_45,app ka UI bohot confusing h,negative,clean
+negative_45_shorthand,negative_45,app ka UI bhot confusing h,negative,shorthand
+negative_45_typo,negative_45,app ka UI bohto confusing h,negative,typo
+negative_45_punctuation,negative_45,app ka UI bohot confusing h...,negative,punctuation
+negative_45_stress,negative_45,apppp ka UI bohot confusing h,negative,stress
+negative_45_shorthand_typo,negative_45,app ka UI bhot confusign h,negative,shorthand_typo
+negative_45_code_mix,negative_45,"actually, app ka UI bohot confusing h",negative,code_mix
+negative_45_emoji_reinforce,negative_45,app ka UI bohot confusing h 😑,negative,emoji_reinforce
+negative_45_shorthand_emoji,negative_45,app ka UI bhot confusing h 😑,negative,shorthand_emoji
+negative_45_stress_emoji,negative_45,apppp ka UI bohot confusing h 😑,negative,stress_emoji
+negative_46_clean,negative_46,bill breakdown samajh hi nahi aaya,negative,clean
+negative_46_shorthand,negative_46,bill breakdown samajh hi nhi aaya,negative,shorthand
+negative_46_typo,negative_46,bill breakdown samajh hi nahi ayaa,negative,typo
+negative_46_punctuation,negative_46,bill breakdown samajh hi nahi aaya...,negative,punctuation
+negative_46_stress,negative_46,bill breakkkdown samajh hi nahi aaya,negative,stress
+negative_46_shorthand_typo,negative_46,blil breakdown samajh hi nhi aaya,negative,shorthand_typo
+negative_46_code_mix,negative_46,"literally, bill breakdown samajh hi nahi aaya",negative,code_mix
+negative_46_emoji_reinforce,negative_46,bill breakdown samajh hi nahi aaya 😠,negative,emoji_reinforce
+negative_46_shorthand_emoji,negative_46,bill breakdown samajh hi nhi aaya 😠,negative,shorthand_emoji
+negative_46_stress_emoji,negative_46,bill breakkkdown samajh hi nahi aaya 😠,negative,stress_emoji
+negative_47_clean,negative_47,subscription benefits jaisa bola tha waisa nahi mila,negative,clean
+negative_47_shorthand,negative_47,subscription benefits jaisa bola tha waisa nhi mila,negative,shorthand
+negative_47_typo,negative_47,subscription benefits jaisa bola tha waisa anhi mila,negative,typo
+negative_47_punctuation,negative_47,subscription benefits jaisa bola tha waisa nahi mila...,negative,punctuation
+negative_47_stress,negative_47,subscription benefits jaiiisa bola tha waisa nahi mila,negative,stress
+negative_47_shorthand_typo,negative_47,subscription benefits jasia bola tha waisa nhi mila,negative,shorthand_typo
+negative_47_code_mix,negative_47,"actually, subscription benefits jaisa bola tha waisa nahi mila",negative,code_mix
+negative_47_emoji_reinforce,negative_47,subscription benefits jaisa bola tha waisa nahi mila 😠,negative,emoji_reinforce
+negative_47_shorthand_emoji,negative_47,subscription benefits jaisa bola tha waisa nhi mila 😠,negative,shorthand_emoji
+negative_47_stress_emoji,negative_47,subscription benefits jaiiisa bola tha waisa nahi mila 😠,negative,stress_emoji
+negative_48_clean,negative_48,delivery update ek baar bhi nahi mila,negative,clean
+negative_48_shorthand,negative_48,delivery update ek baar bhi nhi mila,negative,shorthand
+negative_48_typo,negative_48,delivery update ek baar bhi naih mila,negative,typo
+negative_48_punctuation,negative_48,delivery update ek baar bhi nahi mila...,negative,punctuation
+negative_48_stress,negative_48,delivery update ek baar bhi nahi millla,negative,stress
+negative_48_shorthand_typo,negative_48,delivery upadte ek baar bhi nhi mila,negative,shorthand_typo
+negative_48_code_mix,negative_48,"just saying, delivery update ek baar bhi nahi mila",negative,code_mix
+negative_48_emoji_reinforce,negative_48,delivery update ek baar bhi nahi mila 😠,negative,emoji_reinforce
+negative_48_shorthand_emoji,negative_48,delivery update ek baar bhi nhi mila 😠,negative,shorthand_emoji
+negative_48_stress_emoji,negative_48,delivery update ek baar bhi nahi millla 😠,negative,stress_emoji
+negative_49_clean,negative_49,exchange pe extra cost maang liya,negative,clean
+negative_49_shorthand,negative_49,exchange pe extra cost maang liya,negative,shorthand
+negative_49_typo,negative_49,exchange pe exrta cost maang liya,negative,typo
+negative_49_punctuation,negative_49,exchange pe extra cost maang liya...,negative,punctuation
+negative_49_stress,negative_49,exchange pe extra cost maang liyyya,negative,stress
+negative_49_shorthand_typo,negative_49,exchaneg pe extra cost maang liya,negative,shorthand_typo
+negative_49_code_mix,negative_49,"actually, exchange pe extra cost maang liya",negative,code_mix
+negative_49_emoji_reinforce,negative_49,exchange pe extra cost maang liya 💔,negative,emoji_reinforce
+negative_49_shorthand_emoji,negative_49,exchange pe extra cost maang liya 💔,negative,shorthand_emoji
+negative_49_stress_emoji,negative_49,exchange pe extra cost maang liyyya 💔,negative,stress_emoji
+negative_50_clean,negative_50,support agent ne bilkul help nahi ki seriously,negative,clean
+negative_50_shorthand,negative_50,support agent ne blkl help nhi ki seriously,negative,shorthand
+negative_50_typo,negative_50,spuport agent ne bilkul help nahi ki seriously,negative,typo
+negative_50_punctuation,negative_50,support agent ne bilkul help nahi ki seriously...,negative,punctuation
+negative_50_stress,negative_50,supppport agent ne bilkul help nahi ki seriously,negative,stress
+negative_50_shorthand_typo,negative_50,support agent ne blkl help nhi ki seriuosly,negative,shorthand_typo
+negative_50_code_mix,negative_50,"just saying, support agent ne bilkul help nahi ki seriously",negative,code_mix
+negative_50_emoji_reinforce,negative_50,support agent ne bilkul help nahi ki seriously 😤,negative,emoji_reinforce
+negative_50_shorthand_emoji,negative_50,support agent ne blkl help nhi ki seriously 😤,negative,shorthand_emoji
+negative_50_stress_emoji,negative_50,supppport agent ne bilkul help nahi ki seriously 😤,negative,stress_emoji
+negative_51_clean,negative_51,payment process me kaafi delay hua,negative,clean
+negative_51_shorthand,negative_51,payment process me kaafi delay hua,negative,shorthand
+negative_51_typo,negative_51,payment procses me kaafi delay hua,negative,typo
+negative_51_punctuation,negative_51,payment process me kaafi delay hua...,negative,punctuation
+negative_51_stress,negative_51,payment process me kaaaafi delay hua,negative,stress
+negative_51_shorthand_typo,negative_51,payment process me kaafi dealy hua,negative,shorthand_typo
+negative_51_code_mix,negative_51,"literally, payment process me kaafi delay hua",negative,code_mix
+negative_51_emoji_reinforce,negative_51,payment process me kaafi delay hua 😠,negative,emoji_reinforce
+negative_51_shorthand_emoji,negative_51,payment process me kaafi delay hua 😠,negative,shorthand_emoji
+negative_51_stress_emoji,negative_51,payment process me kaaaafi delay hua 😠,negative,stress_emoji
+negative_52_clean,negative_52,order tracking link kabhi mila hi nahi,negative,clean
+negative_52_shorthand,negative_52,order tracking link kabi mila hi nhi,negative,shorthand
+negative_52_typo,negative_52,order tracking ilnk kabhi mila hi nahi,negative,typo
+negative_52_punctuation,negative_52,order tracking link kabhi mila hi nahi...,negative,punctuation
+negative_52_stress,negative_52,order tracking link kabbbhi mila hi nahi,negative,stress
+negative_52_shorthand_typo,negative_52,order tarcking link kabi mila hi nhi,negative,shorthand_typo
+negative_52_code_mix,negative_52,"honestly, order tracking link kabhi mila hi nahi",negative,code_mix
+negative_52_emoji_reinforce,negative_52,order tracking link kabhi mila hi nahi 😑,negative,emoji_reinforce
+negative_52_shorthand_emoji,negative_52,order tracking link kabi mila hi nhi 😑,negative,shorthand_emoji
+negative_52_stress_emoji,negative_52,order tracking link kabbbhi mila hi nahi 😑,negative,stress_emoji
+negative_53_clean,negative_53,hotel room bilkul promised jaisa nahi tha,negative,clean
+negative_53_shorthand,negative_53,hotel room blkl promised jaisa nhi tha,negative,shorthand
+negative_53_typo,negative_53,hotel room bilkul promised jaisa nahi tha,negative,typo
+negative_53_punctuation,negative_53,hotel room bilkul promised jaisa nahi tha...,negative,punctuation
+negative_53_stress,negative_53,hotel room bilkul promised jaisa nahhhi tha,negative,stress
+negative_53_shorthand_typo,negative_53,hotel romo blkl promised jaisa nhi tha,negative,shorthand_typo
+negative_53_code_mix,negative_53,"honestly, hotel room bilkul promised jaisa nahi tha",negative,code_mix
+negative_53_emoji_reinforce,negative_53,hotel room bilkul promised jaisa nahi tha 💔,negative,emoji_reinforce
+negative_53_shorthand_emoji,negative_53,hotel room blkl promised jaisa nhi tha 💔,negative,shorthand_emoji
+negative_53_stress_emoji,negative_53,hotel room bilkul promised jaisa nahhhi tha 💔,negative,stress_emoji
+negative_54_clean,negative_54,cab fare bohot zyada laga liya,negative,clean
+negative_54_shorthand,negative_54,cab fare bhot zyada laga liya,negative,shorthand
+negative_54_typo,negative_54,cab fare bohot zyada laga liay,negative,typo
+negative_54_punctuation,negative_54,cab fare bohot zyada laga liya...,negative,punctuation
+negative_54_stress,negative_54,caaab fare bohot zyada laga liya,negative,stress
+negative_54_shorthand_typo,negative_54,cab frae bhot zyada laga liya,negative,shorthand_typo
+negative_54_code_mix,negative_54,"seriously, cab fare bohot zyada laga liya",negative,code_mix
+negative_54_emoji_reinforce,negative_54,cab fare bohot zyada laga liya 😞,negative,emoji_reinforce
+negative_54_shorthand_emoji,negative_54,cab fare bhot zyada laga liya 😞,negative,shorthand_emoji
+negative_54_stress_emoji,negative_54,caaab fare bohot zyada laga liya 😞,negative,stress_emoji
+negative_55_clean,negative_55,flight rebooking me bohot dikkat hui,negative,clean
+negative_55_shorthand,negative_55,flight rebooking me bhot dikkat hui,negative,shorthand
+negative_55_typo,negative_55,fligth rebooking me bohot dikkat hui,negative,typo
+negative_55_punctuation,negative_55,flight rebooking me bohot dikkat hui...,negative,punctuation
+negative_55_stress,negative_55,flight rebooking me bohot dikkkkat hui,negative,stress
+negative_55_shorthand_typo,negative_55,flihgt rebooking me bhot dikkat hui,negative,shorthand_typo
+negative_55_code_mix,negative_55,"actually, flight rebooking me bohot dikkat hui",negative,code_mix
+negative_55_emoji_reinforce,negative_55,flight rebooking me bohot dikkat hui 💔,negative,emoji_reinforce
+negative_55_shorthand_emoji,negative_55,flight rebooking me bhot dikkat hui 💔,negative,shorthand_emoji
+negative_55_stress_emoji,negative_55,flight rebooking me bohot dikkkkat hui 💔,negative,stress_emoji
+negative_56_clean,negative_56,app ka search feature kaam hi nahi karta,negative,clean
+negative_56_shorthand,negative_56,app ka search feature kaam hi nhi karta,negative,shorthand
+negative_56_typo,negative_56,app ka saerch feature kaam hi nahi karta,negative,typo
+negative_56_punctuation,negative_56,app ka search feature kaam hi nahi karta...,negative,punctuation
+negative_56_stress,negative_56,app ka search feattture kaam hi nahi karta,negative,stress
+negative_56_shorthand_typo,negative_56,app ka search feature kaam hi nhi krata,negative,shorthand_typo
+negative_56_code_mix,negative_56,"honestly, app ka search feature kaam hi nahi karta",negative,code_mix
+negative_56_emoji_reinforce,negative_56,app ka search feature kaam hi nahi karta 😑,negative,emoji_reinforce
+negative_56_shorthand_emoji,negative_56,app ka search feature kaam hi nhi karta 😑,negative,shorthand_emoji
+negative_56_stress_emoji,negative_56,app ka search feattture kaam hi nahi karta 😑,negative,stress_emoji
+negative_57_clean,negative_57,delivery boy ne bina call kiye chala gya,negative,clean
+negative_57_shorthand,negative_57,delivery boy ne bina call kiye chala gya,negative,shorthand
+negative_57_typo,negative_57,delivery boy ne bian call kiye chala gya,negative,typo
+negative_57_punctuation,negative_57,delivery boy ne bina call kiye chala gya...,negative,punctuation
+negative_57_stress,negative_57,delivery boy ne bina call kiye chaaala gya,negative,stress
+negative_57_shorthand_typo,negative_57,delivery boy ne bina clal kiye chala gya,negative,shorthand_typo
+negative_57_code_mix,negative_57,"literally, delivery boy ne bina call kiye chala gya",negative,code_mix
+negative_57_emoji_reinforce,negative_57,delivery boy ne bina call kiye chala gya 😑,negative,emoji_reinforce
+negative_57_shorthand_emoji,negative_57,delivery boy ne bina call kiye chala gya 😑,negative,shorthand_emoji
+negative_57_stress_emoji,negative_57,delivery boy ne bina call kiye chaaala gya 😑,negative,stress_emoji
+negative_58_clean,negative_58,refund amount galat tha,negative,clean
+negative_58_shorthand,negative_58,refund amount galat tha,negative,shorthand
+negative_58_typo,negative_58,refund amount glaat tha,negative,typo
+negative_58_punctuation,negative_58,refund amount galat tha...,negative,punctuation
+negative_58_stress,negative_58,refund amount galat thhha,negative,stress
+negative_58_shorthand_typo,negative_58,refund aomunt galat tha,negative,shorthand_typo
+negative_58_code_mix,negative_58,"seriously, refund amount galat tha",negative,code_mix
+negative_58_emoji_reinforce,negative_58,refund amount galat tha 💔,negative,emoji_reinforce
+negative_58_shorthand_emoji,negative_58,refund amount galat tha 💔,negative,shorthand_emoji
+negative_58_stress_emoji,negative_58,refund amount galat thhha 💔,negative,stress_emoji
+negative_59_clean,negative_59,subscription cancel karne pe hidden charge laga diya,negative,clean
+negative_59_shorthand,negative_59,subscription cancel karne pe hidden charge laga diya,negative,shorthand
+negative_59_typo,negative_59,usbscription cancel karne pe hidden charge laga diya,negative,typo
+negative_59_punctuation,negative_59,subscription cancel karne pe hidden charge laga diya...,negative,punctuation
+negative_59_stress,negative_59,subscription cancel karne pe hidden charge laga diyyya,negative,stress
+negative_59_shorthand_typo,negative_59,subscription cancel karne pe hidedn charge laga diya,negative,shorthand_typo
+negative_59_code_mix,negative_59,"seriously, subscription cancel karne pe hidden charge laga diya",negative,code_mix
+negative_59_emoji_reinforce,negative_59,subscription cancel karne pe hidden charge laga diya 😑,negative,emoji_reinforce
+negative_59_shorthand_emoji,negative_59,subscription cancel karne pe hidden charge laga diya 😑,negative,shorthand_emoji
+negative_59_stress_emoji,negative_59,subscription cancel karne pe hidden charge laga diyyya 😑,negative,stress_emoji
+negative_60_clean,negative_60,overall experience bilkul disappointing raha,negative,clean
+negative_60_shorthand,negative_60,overall experience blkl disappointing rha,negative,shorthand
+negative_60_typo,negative_60,overall experience bilkul disappointing raah,negative,typo
+negative_60_punctuation,negative_60,overall experience bilkul disappointing raha...,negative,punctuation
+negative_60_stress,negative_60,overrrall experience bilkul disappointing raha,negative,stress
+negative_60_shorthand_typo,negative_60,overall expereince blkl disappointing rha,negative,shorthand_typo
+negative_60_code_mix,negative_60,"honestly, overall experience bilkul disappointing raha",negative,code_mix
+negative_60_emoji_reinforce,negative_60,overall experience bilkul disappointing raha 😞,negative,emoji_reinforce
+negative_60_shorthand_emoji,negative_60,overall experience blkl disappointing rha 😞,negative,shorthand_emoji
+negative_60_stress_emoji,negative_60,overrrall experience bilkul disappointing raha 😞,negative,stress_emoji
+neutral_01_clean,neutral_01,order kal deliver hoga,neutral,clean
+neutral_01_shorthand,neutral_01,order kal deliver hoga,neutral,shorthand
+neutral_01_typo,neutral_01,odrer kal deliver hoga,neutral,typo
+neutral_01_punctuation,neutral_01,order kal deliver hoga.,neutral,punctuation
+neutral_01_stress,neutral_01,order kal deliver hoggga,neutral,stress
+neutral_01_shorthand_typo,neutral_01,roder kal deliver hoga,neutral,shorthand_typo
+neutral_01_code_mix,neutral_01,"literally, order kal deliver hoga",neutral,code_mix
+neutral_01_emoji_reinforce,neutral_01,order kal deliver hoga 🙏,neutral,emoji_reinforce
+neutral_01_shorthand_emoji,neutral_01,order kal deliver hoga 🙏,neutral,shorthand_emoji
+neutral_01_stress_emoji,neutral_01,order kal deliver hoggga 🙏,neutral,stress_emoji
+neutral_02_clean,neutral_02,mera account balance check krna h,neutral,clean
+neutral_02_shorthand,neutral_02,mera account balance check krna h,neutral,shorthand
+neutral_02_typo,neutral_02,mera account balnace check krna h,neutral,typo
+neutral_02_punctuation,neutral_02,mera account balance check krna h.,neutral,punctuation
+neutral_02_stress,neutral_02,mera account balance check krnnna h,neutral,stress
+neutral_02_shorthand_typo,neutral_02,mera account balance check kran h,neutral,shorthand_typo
+neutral_02_code_mix,neutral_02,"literally, mera account balance check krna h",neutral,code_mix
+neutral_02_emoji_reinforce,neutral_02,mera account balance check krna h 🙏,neutral,emoji_reinforce
+neutral_02_shorthand_emoji,neutral_02,mera account balance check krna h 🙏,neutral,shorthand_emoji
+neutral_02_stress_emoji,neutral_02,mera account balance check krnnna h 🙏,neutral,stress_emoji
+neutral_03_clean,neutral_03,subscription renewal date kya h,neutral,clean
+neutral_03_shorthand,neutral_03,subscription renewal date kya h,neutral,shorthand
+neutral_03_typo,neutral_03,subscription renewla date kya h,neutral,typo
+neutral_03_punctuation,neutral_03,subscription renewal date kya h.,neutral,punctuation
+neutral_03_stress,neutral_03,subscription renewal date kyyya h,neutral,stress
+neutral_03_shorthand_typo,neutral_03,subscription renewla date kya h,neutral,shorthand_typo
+neutral_03_code_mix,neutral_03,"honestly, subscription renewal date kya h",neutral,code_mix
+neutral_03_emoji_reinforce,neutral_03,subscription renewal date kya h 🙏,neutral,emoji_reinforce
+neutral_03_shorthand_emoji,neutral_03,subscription renewal date kya h 🙏,neutral,shorthand_emoji
+neutral_03_stress_emoji,neutral_03,subscription renewal date kyyya h 🙏,neutral,stress_emoji
+neutral_04_clean,neutral_04,flight ka gate number kya h,neutral,clean
+neutral_04_shorthand,neutral_04,flight ka gate number kya h,neutral,shorthand
+neutral_04_typo,neutral_04,flight ka gaet number kya h,neutral,typo
+neutral_04_punctuation,neutral_04,flight ka gate number kya h.,neutral,punctuation
+neutral_04_stress,neutral_04,flight ka gate number kyyya h,neutral,stress
+neutral_04_shorthand_typo,neutral_04,flight ka gate unmber kya h,neutral,shorthand_typo
+neutral_04_code_mix,neutral_04,"literally, flight ka gate number kya h",neutral,code_mix
+neutral_04_emoji_reinforce,neutral_04,flight ka gate number kya h 🙏,neutral,emoji_reinforce
+neutral_04_shorthand_emoji,neutral_04,flight ka gate number kya h 🙏,neutral,shorthand_emoji
+neutral_04_stress_emoji,neutral_04,flight ka gate number kyyya h 🙏,neutral,stress_emoji
+neutral_05_clean,neutral_05,hotel checkin time kya h,neutral,clean
+neutral_05_shorthand,neutral_05,hotel checkin time kya h,neutral,shorthand
+neutral_05_typo,neutral_05,hotel checikn time kya h,neutral,typo
+neutral_05_punctuation,neutral_05,hotel checkin time kya h.,neutral,punctuation
+neutral_05_stress,neutral_05,hotel checkin timmme kya h,neutral,stress
+neutral_05_shorthand_typo,neutral_05,hotle checkin time kya h,neutral,shorthand_typo
+neutral_05_code_mix,neutral_05,"actually, hotel checkin time kya h",neutral,code_mix
+neutral_05_emoji_reinforce,neutral_05,hotel checkin time kya h 🙏,neutral,emoji_reinforce
+neutral_05_shorthand_emoji,neutral_05,hotel checkin time kya h 🙏,neutral,shorthand_emoji
+neutral_05_stress_emoji,neutral_05,hotel checkin timmme kya h 🙏,neutral,stress_emoji
+neutral_06_clean,neutral_06,cab ka fare kitna hoga,neutral,clean
+neutral_06_shorthand,neutral_06,cab ka fare kitna hoga,neutral,shorthand
+neutral_06_typo,neutral_06,cab ka frae kitna hoga,neutral,typo
+neutral_06_punctuation,neutral_06,cab ka fare kitna hoga.,neutral,punctuation
+neutral_06_stress,neutral_06,cab ka farrre kitna hoga,neutral,stress
+neutral_06_shorthand_typo,neutral_06,cab ka fare kitna hgoa,neutral,shorthand_typo
+neutral_06_code_mix,neutral_06,"actually, cab ka fare kitna hoga",neutral,code_mix
+neutral_06_emoji_reinforce,neutral_06,cab ka fare kitna hoga 🙏,neutral,emoji_reinforce
+neutral_06_shorthand_emoji,neutral_06,cab ka fare kitna hoga 🙏,neutral,shorthand_emoji
+neutral_06_stress_emoji,neutral_06,cab ka farrre kitna hoga 🙏,neutral,stress_emoji
+neutral_07_clean,neutral_07,return window kitne din ka h,neutral,clean
+neutral_07_shorthand,neutral_07,return window kitne din ka h,neutral,shorthand
+neutral_07_typo,neutral_07,return windwo kitne din ka h,neutral,typo
+neutral_07_punctuation,neutral_07,return window kitne din ka h.,neutral,punctuation
+neutral_07_stress,neutral_07,return windddow kitne din ka h,neutral,stress
+neutral_07_shorthand_typo,neutral_07,reutrn window kitne din ka h,neutral,shorthand_typo
+neutral_07_code_mix,neutral_07,"just saying, return window kitne din ka h",neutral,code_mix
+neutral_07_emoji_reinforce,neutral_07,return window kitne din ka h 🙏,neutral,emoji_reinforce
+neutral_07_shorthand_emoji,neutral_07,return window kitne din ka h 🙏,neutral,shorthand_emoji
+neutral_07_stress_emoji,neutral_07,return windddow kitne din ka h 🙏,neutral,stress_emoji
+neutral_08_clean,neutral_08,payment method change krna h,neutral,clean
+neutral_08_shorthand,neutral_08,payment method change krna h,neutral,shorthand
+neutral_08_typo,neutral_08,payment method chnage krna h,neutral,typo
+neutral_08_punctuation,neutral_08,payment method change krna h.,neutral,punctuation
+neutral_08_stress,neutral_08,payment method channnge krna h,neutral,stress
+neutral_08_shorthand_typo,neutral_08,payment mtehod change krna h,neutral,shorthand_typo
+neutral_08_code_mix,neutral_08,"literally, payment method change krna h",neutral,code_mix
+neutral_08_emoji_reinforce,neutral_08,payment method change krna h 🙏,neutral,emoji_reinforce
+neutral_08_shorthand_emoji,neutral_08,payment method change krna h 🙏,neutral,shorthand_emoji
+neutral_08_stress_emoji,neutral_08,payment method channnge krna h 🙏,neutral,stress_emoji
+neutral_09_clean,neutral_09,address update krna h profile me,neutral,clean
+neutral_09_shorthand,neutral_09,address update krna h profile me,neutral,shorthand
+neutral_09_typo,neutral_09,address update krna h profile me,neutral,typo
+neutral_09_punctuation,neutral_09,address update krna h profile me.,neutral,punctuation
+neutral_09_stress,neutral_09,address update krnnna h profile me,neutral,stress
+neutral_09_shorthand_typo,neutral_09,adrdess update krna h profile me,neutral,shorthand_typo
+neutral_09_code_mix,neutral_09,"seriously, address update krna h profile me",neutral,code_mix
+neutral_09_emoji_reinforce,neutral_09,address update krna h profile me 🙏,neutral,emoji_reinforce
+neutral_09_shorthand_emoji,neutral_09,address update krna h profile me 🙏,neutral,shorthand_emoji
+neutral_09_stress_emoji,neutral_09,address update krnnna h profile me 🙏,neutral,stress_emoji
+neutral_10_clean,neutral_10,order tracking number chahiye,neutral,clean
+neutral_10_shorthand,neutral_10,order tracking number chahiye,neutral,shorthand
+neutral_10_typo,neutral_10,roder tracking number chahiye,neutral,typo
+neutral_10_punctuation,neutral_10,order tracking number chahiye.,neutral,punctuation
+neutral_10_stress,neutral_10,order tracking number chahhhiye,neutral,stress
+neutral_10_shorthand_typo,neutral_10,ordre tracking number chahiye,neutral,shorthand_typo
+neutral_10_code_mix,neutral_10,"literally, order tracking number chahiye",neutral,code_mix
+neutral_10_emoji_reinforce,neutral_10,order tracking number chahiye 🙏,neutral,emoji_reinforce
+neutral_10_shorthand_emoji,neutral_10,order tracking number chahiye 🙏,neutral,shorthand_emoji
+neutral_10_stress_emoji,neutral_10,order tracking number chahhhiye 🙏,neutral,stress_emoji
+neutral_11_clean,neutral_11,bill ka amount kitna h,neutral,clean
+neutral_11_shorthand,neutral_11,bill ka amount kitna h,neutral,shorthand
+neutral_11_typo,neutral_11,bill ka amount kitan h,neutral,typo
+neutral_11_punctuation,neutral_11,bill ka amount kitna h.,neutral,punctuation
+neutral_11_stress,neutral_11,bill ka amouuunt kitna h,neutral,stress
+neutral_11_shorthand_typo,neutral_11,bill ka amount iktna h,neutral,shorthand_typo
+neutral_11_code_mix,neutral_11,"seriously, bill ka amount kitna h",neutral,code_mix
+neutral_11_emoji_reinforce,neutral_11,bill ka amount kitna h 🙏,neutral,emoji_reinforce
+neutral_11_shorthand_emoji,neutral_11,bill ka amount kitna h 🙏,neutral,shorthand_emoji
+neutral_11_stress_emoji,neutral_11,bill ka amouuunt kitna h 🙏,neutral,stress_emoji
+neutral_12_clean,neutral_12,delivery slot select krna h,neutral,clean
+neutral_12_shorthand,neutral_12,delivery slot select krna h,neutral,shorthand
+neutral_12_typo,neutral_12,edlivery slot select krna h,neutral,typo
+neutral_12_punctuation,neutral_12,delivery slot select krna h.,neutral,punctuation
+neutral_12_stress,neutral_12,delivery slooot select krna h,neutral,stress
+neutral_12_shorthand_typo,neutral_12,delivery slot select rkna h,neutral,shorthand_typo
+neutral_12_code_mix,neutral_12,"honestly, delivery slot select krna h",neutral,code_mix
+neutral_12_emoji_reinforce,neutral_12,delivery slot select krna h 🙏,neutral,emoji_reinforce
+neutral_12_shorthand_emoji,neutral_12,delivery slot select krna h 🙏,neutral,shorthand_emoji
+neutral_12_stress_emoji,neutral_12,delivery slooot select krna h 🙏,neutral,stress_emoji
+neutral_13_clean,neutral_13,account verification krna h,neutral,clean
+neutral_13_shorthand,neutral_13,account verification krna h,neutral,shorthand
+neutral_13_typo,neutral_13,account verification kran h,neutral,typo
+neutral_13_punctuation,neutral_13,account verification krna h.,neutral,punctuation
+neutral_13_stress,neutral_13,account verificccation krna h,neutral,stress
+neutral_13_shorthand_typo,neutral_13,account evrification krna h,neutral,shorthand_typo
+neutral_13_code_mix,neutral_13,"seriously, account verification krna h",neutral,code_mix
+neutral_13_emoji_reinforce,neutral_13,account verification krna h 🙏,neutral,emoji_reinforce
+neutral_13_shorthand_emoji,neutral_13,account verification krna h 🙏,neutral,shorthand_emoji
+neutral_13_stress_emoji,neutral_13,account verificccation krna h 🙏,neutral,stress_emoji
+neutral_14_clean,neutral_14,new password set krna h,neutral,clean
+neutral_14_shorthand,neutral_14,new password set krna h,neutral,shorthand
+neutral_14_typo,neutral_14,new apssword set krna h,neutral,typo
+neutral_14_punctuation,neutral_14,new password set krna h.,neutral,punctuation
+neutral_14_stress,neutral_14,new password seeet krna h,neutral,stress
+neutral_14_shorthand_typo,neutral_14,new password set knra h,neutral,shorthand_typo
+neutral_14_code_mix,neutral_14,"just saying, new password set krna h",neutral,code_mix
+neutral_14_emoji_reinforce,neutral_14,new password set krna h 🙏,neutral,emoji_reinforce
+neutral_14_shorthand_emoji,neutral_14,new password set krna h 🙏,neutral,shorthand_emoji
+neutral_14_stress_emoji,neutral_14,new password seeet krna h 🙏,neutral,stress_emoji
+neutral_15_clean,neutral_15,app ka version kya h abhi,neutral,clean
+neutral_15_shorthand,neutral_15,app ka version kya h abi,neutral,shorthand
+neutral_15_typo,neutral_15,app ka vesrion kya h abhi,neutral,typo
+neutral_15_punctuation,neutral_15,app ka version kya h abhi.,neutral,punctuation
+neutral_15_stress,neutral_15,app ka version kyyya h abhi,neutral,stress
+neutral_15_shorthand_typo,neutral_15,app ka verison kya h abi,neutral,shorthand_typo
+neutral_15_code_mix,neutral_15,"just saying, app ka version kya h abhi",neutral,code_mix
+neutral_15_emoji_reinforce,neutral_15,app ka version kya h abhi 🙏,neutral,emoji_reinforce
+neutral_15_shorthand_emoji,neutral_15,app ka version kya h abi 🙏,neutral,shorthand_emoji
+neutral_15_stress_emoji,neutral_15,app ka version kyyya h abhi 🙏,neutral,stress_emoji
+neutral_16_clean,neutral_16,flight booking confirm hui ya nahi,neutral,clean
+neutral_16_shorthand,neutral_16,flight booking confirm hui ya nhi,neutral,shorthand
+neutral_16_typo,neutral_16,flight booking cnofirm hui ya nahi,neutral,typo
+neutral_16_punctuation,neutral_16,flight booking confirm hui ya nahi.,neutral,punctuation
+neutral_16_stress,neutral_16,flight booking confirm huuui ya nahi,neutral,stress
+neutral_16_shorthand_typo,neutral_16,flight booking confrim hui ya nhi,neutral,shorthand_typo
+neutral_16_code_mix,neutral_16,"honestly, flight booking confirm hui ya nahi",neutral,code_mix
+neutral_16_emoji_reinforce,neutral_16,flight booking confirm hui ya nahi 🙏,neutral,emoji_reinforce
+neutral_16_shorthand_emoji,neutral_16,flight booking confirm hui ya nhi 🙏,neutral,shorthand_emoji
+neutral_16_stress_emoji,neutral_16,flight booking confirm huuui ya nahi 🙏,neutral,stress_emoji
+neutral_17_clean,neutral_17,hotel me wifi available h kya,neutral,clean
+neutral_17_shorthand,neutral_17,hotel me wifi available h kya,neutral,shorthand
+neutral_17_typo,neutral_17,hotel me wifi avaliable h kya,neutral,typo
+neutral_17_punctuation,neutral_17,hotel me wifi available h kya.,neutral,punctuation
+neutral_17_stress,neutral_17,hotel me wifffi available h kya,neutral,stress
+neutral_17_shorthand_typo,neutral_17,hotel me wifi avaliable h kya,neutral,shorthand_typo
+neutral_17_code_mix,neutral_17,"literally, hotel me wifi available h kya",neutral,code_mix
+neutral_17_emoji_reinforce,neutral_17,hotel me wifi available h kya 🙏,neutral,emoji_reinforce
+neutral_17_shorthand_emoji,neutral_17,hotel me wifi available h kya 🙏,neutral,shorthand_emoji
+neutral_17_stress_emoji,neutral_17,hotel me wifffi available h kya 🙏,neutral,stress_emoji
+neutral_18_clean,neutral_18,cab driver ka number mil sakta h,neutral,clean
+neutral_18_shorthand,neutral_18,cab driver ka number mil sakta h,neutral,shorthand
+neutral_18_typo,neutral_18,cab driver ka number mil askta h,neutral,typo
+neutral_18_punctuation,neutral_18,cab driver ka number mil sakta h.,neutral,punctuation
+neutral_18_stress,neutral_18,cab drivvver ka number mil sakta h,neutral,stress
+neutral_18_shorthand_typo,neutral_18,cab dirver ka number mil sakta h,neutral,shorthand_typo
+neutral_18_code_mix,neutral_18,"honestly, cab driver ka number mil sakta h",neutral,code_mix
+neutral_18_emoji_reinforce,neutral_18,cab driver ka number mil sakta h 🙏,neutral,emoji_reinforce
+neutral_18_shorthand_emoji,neutral_18,cab driver ka number mil sakta h 🙏,neutral,shorthand_emoji
+neutral_18_stress_emoji,neutral_18,cab drivvver ka number mil sakta h 🙏,neutral,stress_emoji
+neutral_19_clean,neutral_19,order me kitne items h,neutral,clean
+neutral_19_shorthand,neutral_19,order me kitne items h,neutral,shorthand
+neutral_19_typo,neutral_19,order me kinte items h,neutral,typo
+neutral_19_punctuation,neutral_19,order me kitne items h.,neutral,punctuation
+neutral_19_stress,neutral_19,orddder me kitne items h,neutral,stress
+neutral_19_shorthand_typo,neutral_19,order me kitne tiems h,neutral,shorthand_typo
+neutral_19_code_mix,neutral_19,"just saying, order me kitne items h",neutral,code_mix
+neutral_19_emoji_reinforce,neutral_19,order me kitne items h 🙏,neutral,emoji_reinforce
+neutral_19_shorthand_emoji,neutral_19,order me kitne items h 🙏,neutral,shorthand_emoji
+neutral_19_stress_emoji,neutral_19,orddder me kitne items h 🙏,neutral,stress_emoji
+neutral_20_clean,neutral_20,refund process me kitna time lagta h,neutral,clean
+neutral_20_shorthand,neutral_20,refund process me kitna time lagta h,neutral,shorthand
+neutral_20_typo,neutral_20,rfeund process me kitna time lagta h,neutral,typo
+neutral_20_punctuation,neutral_20,refund process me kitna time lagta h.,neutral,punctuation
+neutral_20_stress,neutral_20,refund process me kitna timmme lagta h,neutral,stress
+neutral_20_shorthand_typo,neutral_20,refund process me kitna time algta h,neutral,shorthand_typo
+neutral_20_code_mix,neutral_20,"just saying, refund process me kitna time lagta h",neutral,code_mix
+neutral_20_emoji_reinforce,neutral_20,refund process me kitna time lagta h 🙏,neutral,emoji_reinforce
+neutral_20_shorthand_emoji,neutral_20,refund process me kitna time lagta h 🙏,neutral,shorthand_emoji
+neutral_20_stress_emoji,neutral_20,refund process me kitna timmme lagta h 🙏,neutral,stress_emoji
+neutral_21_clean,neutral_21,subscription plan ke features kya h,neutral,clean
+neutral_21_shorthand,neutral_21,subscription plan ke features kya h,neutral,shorthand
+neutral_21_typo,neutral_21,subscription lpan ke features kya h,neutral,typo
+neutral_21_punctuation,neutral_21,subscription plan ke features kya h.,neutral,punctuation
+neutral_21_stress,neutral_21,subscription plan ke featuuures kya h,neutral,stress
+neutral_21_shorthand_typo,neutral_21,subscription lpan ke features kya h,neutral,shorthand_typo
+neutral_21_code_mix,neutral_21,"just saying, subscription plan ke features kya h",neutral,code_mix
+neutral_21_emoji_reinforce,neutral_21,subscription plan ke features kya h 🙏,neutral,emoji_reinforce
+neutral_21_shorthand_emoji,neutral_21,subscription plan ke features kya h 🙏,neutral,shorthand_emoji
+neutral_21_stress_emoji,neutral_21,subscription plan ke featuuures kya h 🙏,neutral,stress_emoji
+neutral_22_clean,neutral_22,payment due date kya h,neutral,clean
+neutral_22_shorthand,neutral_22,payment due date kya h,neutral,shorthand
+neutral_22_typo,neutral_22,pamyent due date kya h,neutral,typo
+neutral_22_punctuation,neutral_22,payment due date kya h.,neutral,punctuation
+neutral_22_stress,neutral_22,paymmment due date kya h,neutral,stress
+neutral_22_shorthand_typo,neutral_22,apyment due date kya h,neutral,shorthand_typo
+neutral_22_code_mix,neutral_22,"honestly, payment due date kya h",neutral,code_mix
+neutral_22_emoji_reinforce,neutral_22,payment due date kya h 🙏,neutral,emoji_reinforce
+neutral_22_shorthand_emoji,neutral_22,payment due date kya h 🙏,neutral,shorthand_emoji
+neutral_22_stress_emoji,neutral_22,paymmment due date kya h 🙏,neutral,stress_emoji
+neutral_23_clean,neutral_23,delivery address change krna h,neutral,clean
+neutral_23_shorthand,neutral_23,delivery address change krna h,neutral,shorthand
+neutral_23_typo,neutral_23,delivery address change rkna h,neutral,typo
+neutral_23_punctuation,neutral_23,delivery address change krna h.,neutral,punctuation
+neutral_23_stress,neutral_23,delivery addrrress change krna h,neutral,stress
+neutral_23_shorthand_typo,neutral_23,delivery address change knra h,neutral,shorthand_typo
+neutral_23_code_mix,neutral_23,"actually, delivery address change krna h",neutral,code_mix
+neutral_23_emoji_reinforce,neutral_23,delivery address change krna h 🙏,neutral,emoji_reinforce
+neutral_23_shorthand_emoji,neutral_23,delivery address change krna h 🙏,neutral,shorthand_emoji
+neutral_23_stress_emoji,neutral_23,delivery addrrress change krna h 🙏,neutral,stress_emoji
+neutral_24_clean,neutral_24,order status update chahiye,neutral,clean
+neutral_24_shorthand,neutral_24,order status update chahiye,neutral,shorthand
+neutral_24_typo,neutral_24,order status updtae chahiye,neutral,typo
+neutral_24_punctuation,neutral_24,order status update chahiye.,neutral,punctuation
+neutral_24_stress,neutral_24,orddder status update chahiye,neutral,stress
+neutral_24_shorthand_typo,neutral_24,order sttaus update chahiye,neutral,shorthand_typo
+neutral_24_code_mix,neutral_24,"honestly, order status update chahiye",neutral,code_mix
+neutral_24_emoji_reinforce,neutral_24,order status update chahiye 🙏,neutral,emoji_reinforce
+neutral_24_shorthand_emoji,neutral_24,order status update chahiye 🙏,neutral,shorthand_emoji
+neutral_24_stress_emoji,neutral_24,orddder status update chahiye 🙏,neutral,stress_emoji
+neutral_25_clean,neutral_25,exchange ke liye kya documents chahiye,neutral,clean
+neutral_25_shorthand,neutral_25,exchange ke liye kya documents chahiye,neutral,shorthand
+neutral_25_typo,neutral_25,exchange ke liye kya documents chaihye,neutral,typo
+neutral_25_punctuation,neutral_25,exchange ke liye kya documents chahiye.,neutral,punctuation
+neutral_25_stress,neutral_25,exchange ke liye kyyya documents chahiye,neutral,stress
+neutral_25_shorthand_typo,neutral_25,exchange ke liye kya doucments chahiye,neutral,shorthand_typo
+neutral_25_code_mix,neutral_25,"actually, exchange ke liye kya documents chahiye",neutral,code_mix
+neutral_25_emoji_reinforce,neutral_25,exchange ke liye kya documents chahiye 🙏,neutral,emoji_reinforce
+neutral_25_shorthand_emoji,neutral_25,exchange ke liye kya documents chahiye 🙏,neutral,shorthand_emoji
+neutral_25_stress_emoji,neutral_25,exchange ke liye kyyya documents chahiye 🙏,neutral,stress_emoji
+neutral_26_clean,neutral_26,account me do factor auth kaise on kre,neutral,clean
+neutral_26_shorthand,neutral_26,account me do factor auth kaise on kre,neutral,shorthand
+neutral_26_typo,neutral_26,acconut me do factor auth kaise on kre,neutral,typo
+neutral_26_punctuation,neutral_26,account me do factor auth kaise on kre.,neutral,punctuation
+neutral_26_stress,neutral_26,account me do factor auth kaise on krrre,neutral,stress
+neutral_26_shorthand_typo,neutral_26,account me do facotr auth kaise on kre,neutral,shorthand_typo
+neutral_26_code_mix,neutral_26,"just saying, account me do factor auth kaise on kre",neutral,code_mix
+neutral_26_emoji_reinforce,neutral_26,account me do factor auth kaise on kre 🙏,neutral,emoji_reinforce
+neutral_26_shorthand_emoji,neutral_26,account me do factor auth kaise on kre 🙏,neutral,shorthand_emoji
+neutral_26_stress_emoji,neutral_26,account me do factor auth kaise on krrre 🙏,neutral,stress_emoji
+neutral_27_clean,neutral_27,flight ka baggage allowance kitna h,neutral,clean
+neutral_27_shorthand,neutral_27,flight ka baggage allowance kitna h,neutral,shorthand
+neutral_27_typo,neutral_27,flight ka bagggae allowance kitna h,neutral,typo
+neutral_27_punctuation,neutral_27,flight ka baggage allowance kitna h.,neutral,punctuation
+neutral_27_stress,neutral_27,fliggght ka baggage allowance kitna h,neutral,stress
+neutral_27_shorthand_typo,neutral_27,flight ka baggaeg allowance kitna h,neutral,shorthand_typo
+neutral_27_code_mix,neutral_27,"actually, flight ka baggage allowance kitna h",neutral,code_mix
+neutral_27_emoji_reinforce,neutral_27,flight ka baggage allowance kitna h 🙏,neutral,emoji_reinforce
+neutral_27_shorthand_emoji,neutral_27,flight ka baggage allowance kitna h 🙏,neutral,shorthand_emoji
+neutral_27_stress_emoji,neutral_27,fliggght ka baggage allowance kitna h 🙏,neutral,stress_emoji
+neutral_28_clean,neutral_28,hotel ka cancellation policy kya h,neutral,clean
+neutral_28_shorthand,neutral_28,hotel ka cancellation policy kya h,neutral,shorthand
+neutral_28_typo,neutral_28,hotel ka cancellation polciy kya h,neutral,typo
+neutral_28_punctuation,neutral_28,hotel ka cancellation policy kya h.,neutral,punctuation
+neutral_28_stress,neutral_28,hotttel ka cancellation policy kya h,neutral,stress
+neutral_28_shorthand_typo,neutral_28,htoel ka cancellation policy kya h,neutral,shorthand_typo
+neutral_28_code_mix,neutral_28,"literally, hotel ka cancellation policy kya h",neutral,code_mix
+neutral_28_emoji_reinforce,neutral_28,hotel ka cancellation policy kya h 🙏,neutral,emoji_reinforce
+neutral_28_shorthand_emoji,neutral_28,hotel ka cancellation policy kya h 🙏,neutral,shorthand_emoji
+neutral_28_stress_emoji,neutral_28,hotttel ka cancellation policy kya h 🙏,neutral,stress_emoji
+neutral_29_clean,neutral_29,cab booking ke liye advance chahiye kya,neutral,clean
+neutral_29_shorthand,neutral_29,cab booking ke liye advance chahiye kya,neutral,shorthand
+neutral_29_typo,neutral_29,cab booking ke liye adavnce chahiye kya,neutral,typo
+neutral_29_punctuation,neutral_29,cab booking ke liye advance chahiye kya.,neutral,punctuation
+neutral_29_stress,neutral_29,cab booking ke liye advance chahiye kyyya,neutral,stress
+neutral_29_shorthand_typo,neutral_29,cab booking ke liey advance chahiye kya,neutral,shorthand_typo
+neutral_29_code_mix,neutral_29,"honestly, cab booking ke liye advance chahiye kya",neutral,code_mix
+neutral_29_emoji_reinforce,neutral_29,cab booking ke liye advance chahiye kya 🙏,neutral,emoji_reinforce
+neutral_29_shorthand_emoji,neutral_29,cab booking ke liye advance chahiye kya 🙏,neutral,shorthand_emoji
+neutral_29_stress_emoji,neutral_29,cab booking ke liye advance chahiye kyyya 🙏,neutral,stress_emoji
+neutral_30_clean,neutral_30,order me discount code apply kaise kre,neutral,clean
+neutral_30_shorthand,neutral_30,order me discount code apply kaise kre,neutral,shorthand
+neutral_30_typo,neutral_30,order me discount coed apply kaise kre,neutral,typo
+neutral_30_punctuation,neutral_30,order me discount code apply kaise kre.,neutral,punctuation
+neutral_30_stress,neutral_30,order me discount coddde apply kaise kre,neutral,stress
+neutral_30_shorthand_typo,neutral_30,order me disconut code apply kaise kre,neutral,shorthand_typo
+neutral_30_code_mix,neutral_30,"honestly, order me discount code apply kaise kre",neutral,code_mix
+neutral_30_emoji_reinforce,neutral_30,order me discount code apply kaise kre 🙏,neutral,emoji_reinforce
+neutral_30_shorthand_emoji,neutral_30,order me discount code apply kaise kre 🙏,neutral,shorthand_emoji
+neutral_30_stress_emoji,neutral_30,order me discount coddde apply kaise kre 🙏,neutral,stress_emoji
+neutral_31_clean,neutral_31,subscription me kitne users add ho skte h,neutral,clean
+neutral_31_shorthand,neutral_31,subscription me kitne users add ho skte h,neutral,shorthand
+neutral_31_typo,neutral_31,subscription me iktne users add ho skte h,neutral,typo
+neutral_31_punctuation,neutral_31,subscription me kitne users add ho skte h.,neutral,punctuation
+neutral_31_stress,neutral_31,subscription me kitttne users add ho skte h,neutral,stress
+neutral_31_shorthand_typo,neutral_31,subscription me kinte users add ho skte h,neutral,shorthand_typo
+neutral_31_code_mix,neutral_31,"actually, subscription me kitne users add ho skte h",neutral,code_mix
+neutral_31_emoji_reinforce,neutral_31,subscription me kitne users add ho skte h 🙏,neutral,emoji_reinforce
+neutral_31_shorthand_emoji,neutral_31,subscription me kitne users add ho skte h 🙏,neutral,shorthand_emoji
+neutral_31_stress_emoji,neutral_31,subscription me kitttne users add ho skte h 🙏,neutral,stress_emoji
+neutral_32_clean,neutral_32,payment gateway options kya kya h,neutral,clean
+neutral_32_shorthand,neutral_32,payment gateway options kya kya h,neutral,shorthand
+neutral_32_typo,neutral_32,payment gatweay options kya kya h,neutral,typo
+neutral_32_punctuation,neutral_32,payment gateway options kya kya h.,neutral,punctuation
+neutral_32_stress,neutral_32,payment gateway options kya kyyya h,neutral,stress
+neutral_32_shorthand_typo,neutral_32,paymnet gateway options kya kya h,neutral,shorthand_typo
+neutral_32_code_mix,neutral_32,"seriously, payment gateway options kya kya h",neutral,code_mix
+neutral_32_emoji_reinforce,neutral_32,payment gateway options kya kya h 🙏,neutral,emoji_reinforce
+neutral_32_shorthand_emoji,neutral_32,payment gateway options kya kya h 🙏,neutral,shorthand_emoji
+neutral_32_stress_emoji,neutral_32,payment gateway options kya kyyya h 🙏,neutral,stress_emoji
+neutral_33_clean,neutral_33,delivery partner ka naam kya h,neutral,clean
+neutral_33_shorthand,neutral_33,delivery partner ka naam kya h,neutral,shorthand
+neutral_33_typo,neutral_33,delivery aprtner ka naam kya h,neutral,typo
+neutral_33_punctuation,neutral_33,delivery partner ka naam kya h.,neutral,punctuation
+neutral_33_stress,neutral_33,delivery partner ka naaaam kya h,neutral,stress
+neutral_33_shorthand_typo,neutral_33,delivery partenr ka naam kya h,neutral,shorthand_typo
+neutral_33_code_mix,neutral_33,"just saying, delivery partner ka naam kya h",neutral,code_mix
+neutral_33_emoji_reinforce,neutral_33,delivery partner ka naam kya h 🙏,neutral,emoji_reinforce
+neutral_33_shorthand_emoji,neutral_33,delivery partner ka naam kya h 🙏,neutral,shorthand_emoji
+neutral_33_stress_emoji,neutral_33,delivery partner ka naaaam kya h 🙏,neutral,stress_emoji
+neutral_34_clean,neutral_34,account settings me language change krni h,neutral,clean
+neutral_34_shorthand,neutral_34,account settings me language change krni h,neutral,shorthand
+neutral_34_typo,neutral_34,account settigns me language change krni h,neutral,typo
+neutral_34_punctuation,neutral_34,account settings me language change krni h.,neutral,punctuation
+neutral_34_stress,neutral_34,account settings me language change krnnni h,neutral,stress
+neutral_34_shorthand_typo,neutral_34,account settings me language chnage krni h,neutral,shorthand_typo
+neutral_34_code_mix,neutral_34,"honestly, account settings me language change krni h",neutral,code_mix
+neutral_34_emoji_reinforce,neutral_34,account settings me language change krni h 🙏,neutral,emoji_reinforce
+neutral_34_shorthand_emoji,neutral_34,account settings me language change krni h 🙏,neutral,shorthand_emoji
+neutral_34_stress_emoji,neutral_34,account settings me language change krnnni h 🙏,neutral,stress_emoji
+neutral_35_clean,neutral_35,order invoice chahiye mujhe,neutral,clean
+neutral_35_shorthand,neutral_35,order invoice chahiye mujhe,neutral,shorthand
+neutral_35_typo,neutral_35,order invoice chahiye mujeh,neutral,typo
+neutral_35_punctuation,neutral_35,order invoice chahiye mujhe.,neutral,punctuation
+neutral_35_stress,neutral_35,order invoice chahhhiye mujhe,neutral,stress
+neutral_35_shorthand_typo,neutral_35,order invoice chahiey mujhe,neutral,shorthand_typo
+neutral_35_code_mix,neutral_35,"actually, order invoice chahiye mujhe",neutral,code_mix
+neutral_35_emoji_reinforce,neutral_35,order invoice chahiye mujhe 🙏,neutral,emoji_reinforce
+neutral_35_shorthand_emoji,neutral_35,order invoice chahiye mujhe 🙏,neutral,shorthand_emoji
+neutral_35_stress_emoji,neutral_35,order invoice chahhhiye mujhe 🙏,neutral,stress_emoji
+neutral_36_clean,neutral_36,flight check in online ho skta h kya,neutral,clean
+neutral_36_shorthand,neutral_36,flight check in online ho skta h kya,neutral,shorthand
+neutral_36_typo,neutral_36,flight hceck in online ho skta h kya,neutral,typo
+neutral_36_punctuation,neutral_36,flight check in online ho skta h kya.,neutral,punctuation
+neutral_36_stress,neutral_36,flight cheeeck in online ho skta h kya,neutral,stress
+neutral_36_shorthand_typo,neutral_36,filght check in online ho skta h kya,neutral,shorthand_typo
+neutral_36_code_mix,neutral_36,"literally, flight check in online ho skta h kya",neutral,code_mix
+neutral_36_emoji_reinforce,neutral_36,flight check in online ho skta h kya 🙏,neutral,emoji_reinforce
+neutral_36_shorthand_emoji,neutral_36,flight check in online ho skta h kya 🙏,neutral,shorthand_emoji
+neutral_36_stress_emoji,neutral_36,flight cheeeck in online ho skta h kya 🙏,neutral,stress_emoji
+neutral_37_clean,neutral_37,hotel room type change krna h,neutral,clean
+neutral_37_shorthand,neutral_37,hotel room type change krna h,neutral,shorthand
+neutral_37_typo,neutral_37,hotel room type chnage krna h,neutral,typo
+neutral_37_punctuation,neutral_37,hotel room type change krna h.,neutral,punctuation
+neutral_37_stress,neutral_37,hotel room type channnge krna h,neutral,stress
+neutral_37_shorthand_typo,neutral_37,hotel orom type change krna h,neutral,shorthand_typo
+neutral_37_code_mix,neutral_37,"actually, hotel room type change krna h",neutral,code_mix
+neutral_37_emoji_reinforce,neutral_37,hotel room type change krna h 🙏,neutral,emoji_reinforce
+neutral_37_shorthand_emoji,neutral_37,hotel room type change krna h 🙏,neutral,shorthand_emoji
+neutral_37_stress_emoji,neutral_37,hotel room type channnge krna h 🙏,neutral,stress_emoji
+neutral_38_clean,neutral_38,cab me extra stop add krna h,neutral,clean
+neutral_38_shorthand,neutral_38,cab me extra stop add krna h,neutral,shorthand
+neutral_38_typo,neutral_38,cab me extra stpo add krna h,neutral,typo
+neutral_38_punctuation,neutral_38,cab me extra stop add krna h.,neutral,punctuation
+neutral_38_stress,neutral_38,cab me extra stop add krnnna h,neutral,stress
+neutral_38_shorthand_typo,neutral_38,cab me extra stpo add krna h,neutral,shorthand_typo
+neutral_38_code_mix,neutral_38,"just saying, cab me extra stop add krna h",neutral,code_mix
+neutral_38_emoji_reinforce,neutral_38,cab me extra stop add krna h 🙏,neutral,emoji_reinforce
+neutral_38_shorthand_emoji,neutral_38,cab me extra stop add krna h 🙏,neutral,shorthand_emoji
+neutral_38_stress_emoji,neutral_38,cab me extra stop add krnnna h 🙏,neutral,stress_emoji
+neutral_39_clean,neutral_39,order split ho skta h kya,neutral,clean
+neutral_39_shorthand,neutral_39,order split ho skta h kya,neutral,shorthand
+neutral_39_typo,neutral_39,ordre split ho skta h kya,neutral,typo
+neutral_39_punctuation,neutral_39,order split ho skta h kya.,neutral,punctuation
+neutral_39_stress,neutral_39,orddder split ho skta h kya,neutral,stress
+neutral_39_shorthand_typo,neutral_39,order slpit ho skta h kya,neutral,shorthand_typo
+neutral_39_code_mix,neutral_39,"honestly, order split ho skta h kya",neutral,code_mix
+neutral_39_emoji_reinforce,neutral_39,order split ho skta h kya 🙏,neutral,emoji_reinforce
+neutral_39_shorthand_emoji,neutral_39,order split ho skta h kya 🙏,neutral,shorthand_emoji
+neutral_39_stress_emoji,neutral_39,orddder split ho skta h kya 🙏,neutral,stress_emoji
+neutral_40_clean,neutral_40,subscription auto renew off krna h,neutral,clean
+neutral_40_shorthand,neutral_40,subscription auto renew off krna h,neutral,shorthand
+neutral_40_typo,neutral_40,subscriptino auto renew off krna h,neutral,typo
+neutral_40_punctuation,neutral_40,subscription auto renew off krna h.,neutral,punctuation
+neutral_40_stress,neutral_40,subscription auttto renew off krna h,neutral,stress
+neutral_40_shorthand_typo,neutral_40,subscritpion auto renew off krna h,neutral,shorthand_typo
+neutral_40_code_mix,neutral_40,"honestly, subscription auto renew off krna h",neutral,code_mix
+neutral_40_emoji_reinforce,neutral_40,subscription auto renew off krna h 🙏,neutral,emoji_reinforce
+neutral_40_shorthand_emoji,neutral_40,subscription auto renew off krna h 🙏,neutral,shorthand_emoji
+neutral_40_stress_emoji,neutral_40,subscription auttto renew off krna h 🙏,neutral,stress_emoji
+neutral_41_clean,neutral_41,payment receipt chahiye,neutral,clean
+neutral_41_shorthand,neutral_41,payment receipt chahiye,neutral,shorthand
+neutral_41_typo,neutral_41,payemnt receipt chahiye,neutral,typo
+neutral_41_punctuation,neutral_41,payment receipt chahiye.,neutral,punctuation
+neutral_41_stress,neutral_41,paymmment receipt chahiye,neutral,stress
+neutral_41_shorthand_typo,neutral_41,payment receipt hcahiye,neutral,shorthand_typo
+neutral_41_code_mix,neutral_41,"just saying, payment receipt chahiye",neutral,code_mix
+neutral_41_emoji_reinforce,neutral_41,payment receipt chahiye 🙏,neutral,emoji_reinforce
+neutral_41_shorthand_emoji,neutral_41,payment receipt chahiye 🙏,neutral,shorthand_emoji
+neutral_41_stress_emoji,neutral_41,paymmment receipt chahiye 🙏,neutral,stress_emoji
+neutral_42_clean,neutral_42,delivery date confirm krni h,neutral,clean
+neutral_42_shorthand,neutral_42,delivery date confirm krni h,neutral,shorthand
+neutral_42_typo,neutral_42,delivery date confirm rkni h,neutral,typo
+neutral_42_punctuation,neutral_42,delivery date confirm krni h.,neutral,punctuation
+neutral_42_stress,neutral_42,delivery date confffirm krni h,neutral,stress
+neutral_42_shorthand_typo,neutral_42,deilvery date confirm krni h,neutral,shorthand_typo
+neutral_42_code_mix,neutral_42,"seriously, delivery date confirm krni h",neutral,code_mix
+neutral_42_emoji_reinforce,neutral_42,delivery date confirm krni h 🙏,neutral,emoji_reinforce
+neutral_42_shorthand_emoji,neutral_42,delivery date confirm krni h 🙏,neutral,shorthand_emoji
+neutral_42_stress_emoji,neutral_42,delivery date confffirm krni h 🙏,neutral,stress_emoji
+neutral_43_clean,neutral_43,account email change krna h,neutral,clean
+neutral_43_shorthand,neutral_43,account email change krna h,neutral,shorthand
+neutral_43_typo,neutral_43,account email hcange krna h,neutral,typo
+neutral_43_punctuation,neutral_43,account email change krna h.,neutral,punctuation
+neutral_43_stress,neutral_43,account email change krnnna h,neutral,stress
+neutral_43_shorthand_typo,neutral_43,account meail change krna h,neutral,shorthand_typo
+neutral_43_code_mix,neutral_43,"seriously, account email change krna h",neutral,code_mix
+neutral_43_emoji_reinforce,neutral_43,account email change krna h 🙏,neutral,emoji_reinforce
+neutral_43_shorthand_emoji,neutral_43,account email change krna h 🙏,neutral,shorthand_emoji
+neutral_43_stress_emoji,neutral_43,account email change krnnna h 🙏,neutral,stress_emoji
+neutral_44_clean,neutral_44,flight seat select krni h,neutral,clean
+neutral_44_shorthand,neutral_44,flight seat select krni h,neutral,shorthand
+neutral_44_typo,neutral_44,flight seat eslect krni h,neutral,typo
+neutral_44_punctuation,neutral_44,flight seat select krni h.,neutral,punctuation
+neutral_44_stress,neutral_44,flight seat select krnnni h,neutral,stress
+neutral_44_shorthand_typo,neutral_44,flight seat select rkni h,neutral,shorthand_typo
+neutral_44_code_mix,neutral_44,"just saying, flight seat select krni h",neutral,code_mix
+neutral_44_emoji_reinforce,neutral_44,flight seat select krni h 🙏,neutral,emoji_reinforce
+neutral_44_shorthand_emoji,neutral_44,flight seat select krni h 🙏,neutral,shorthand_emoji
+neutral_44_stress_emoji,neutral_44,flight seat select krnnni h 🙏,neutral,stress_emoji
+neutral_45_clean,neutral_45,hotel breakfast included h kya,neutral,clean
+neutral_45_shorthand,neutral_45,hotel breakfast included h kya,neutral,shorthand
+neutral_45_typo,neutral_45,hotel breakfast inlcuded h kya,neutral,typo
+neutral_45_punctuation,neutral_45,hotel breakfast included h kya.,neutral,punctuation
+neutral_45_stress,neutral_45,hotttel breakfast included h kya,neutral,stress
+neutral_45_shorthand_typo,neutral_45,htoel breakfast included h kya,neutral,shorthand_typo
+neutral_45_code_mix,neutral_45,"seriously, hotel breakfast included h kya",neutral,code_mix
+neutral_45_emoji_reinforce,neutral_45,hotel breakfast included h kya 🙏,neutral,emoji_reinforce
+neutral_45_shorthand_emoji,neutral_45,hotel breakfast included h kya 🙏,neutral,shorthand_emoji
+neutral_45_stress_emoji,neutral_45,hotttel breakfast included h kya 🙏,neutral,stress_emoji
+neutral_46_clean,neutral_46,cab share option available h kya,neutral,clean
+neutral_46_shorthand,neutral_46,cab share option available h kya,neutral,shorthand
+neutral_46_typo,neutral_46,cab shaer option available h kya,neutral,typo
+neutral_46_punctuation,neutral_46,cab share option available h kya.,neutral,punctuation
+neutral_46_stress,neutral_46,cab share option availllable h kya,neutral,stress
+neutral_46_shorthand_typo,neutral_46,cab share option availbale h kya,neutral,shorthand_typo
+neutral_46_code_mix,neutral_46,"actually, cab share option available h kya",neutral,code_mix
+neutral_46_emoji_reinforce,neutral_46,cab share option available h kya 🙏,neutral,emoji_reinforce
+neutral_46_shorthand_emoji,neutral_46,cab share option available h kya 🙏,neutral,shorthand_emoji
+neutral_46_stress_emoji,neutral_46,cab share option availllable h kya 🙏,neutral,stress_emoji
+neutral_47_clean,neutral_47,order combine kr skte h kya,neutral,clean
+neutral_47_shorthand,neutral_47,order combine kr skte h kya,neutral,shorthand
+neutral_47_typo,neutral_47,order combine kr sket h kya,neutral,typo
+neutral_47_punctuation,neutral_47,order combine kr skte h kya.,neutral,punctuation
+neutral_47_stress,neutral_47,order combine kr skttte h kya,neutral,stress
+neutral_47_shorthand_typo,neutral_47,ordre combine kr skte h kya,neutral,shorthand_typo
+neutral_47_code_mix,neutral_47,"seriously, order combine kr skte h kya",neutral,code_mix
+neutral_47_emoji_reinforce,neutral_47,order combine kr skte h kya 🙏,neutral,emoji_reinforce
+neutral_47_shorthand_emoji,neutral_47,order combine kr skte h kya 🙏,neutral,shorthand_emoji
+neutral_47_stress_emoji,neutral_47,order combine kr skttte h kya 🙏,neutral,stress_emoji
+neutral_48_clean,neutral_48,subscription pause kr skte h kya,neutral,clean
+neutral_48_shorthand,neutral_48,subscription pause kr skte h kya,neutral,shorthand
+neutral_48_typo,neutral_48,subscription pause kr kste h kya,neutral,typo
+neutral_48_punctuation,neutral_48,subscription pause kr skte h kya.,neutral,punctuation
+neutral_48_stress,neutral_48,subscriiiption pause kr skte h kya,neutral,stress
+neutral_48_shorthand_typo,neutral_48,subscription puase kr skte h kya,neutral,shorthand_typo
+neutral_48_code_mix,neutral_48,"just saying, subscription pause kr skte h kya",neutral,code_mix
+neutral_48_emoji_reinforce,neutral_48,subscription pause kr skte h kya 🙏,neutral,emoji_reinforce
+neutral_48_shorthand_emoji,neutral_48,subscription pause kr skte h kya 🙏,neutral,shorthand_emoji
+neutral_48_stress_emoji,neutral_48,subscriiiption pause kr skte h kya 🙏,neutral,stress_emoji
+neutral_49_clean,neutral_49,payment split ho skta h kya,neutral,clean
+neutral_49_shorthand,neutral_49,payment split ho skta h kya,neutral,shorthand
+neutral_49_typo,neutral_49,payment spilt ho skta h kya,neutral,typo
+neutral_49_punctuation,neutral_49,payment split ho skta h kya.,neutral,punctuation
+neutral_49_stress,neutral_49,payment split ho skttta h kya,neutral,stress
+neutral_49_shorthand_typo,neutral_49,payemnt split ho skta h kya,neutral,shorthand_typo
+neutral_49_code_mix,neutral_49,"literally, payment split ho skta h kya",neutral,code_mix
+neutral_49_emoji_reinforce,neutral_49,payment split ho skta h kya 🙏,neutral,emoji_reinforce
+neutral_49_shorthand_emoji,neutral_49,payment split ho skta h kya 🙏,neutral,shorthand_emoji
+neutral_49_stress_emoji,neutral_49,payment split ho skttta h kya 🙏,neutral,stress_emoji
+neutral_50_clean,neutral_50,delivery instructions add krni h,neutral,clean
+neutral_50_shorthand,neutral_50,delivery instructions add krni h,neutral,shorthand
+neutral_50_typo,neutral_50,edlivery instructions add krni h,neutral,typo
+neutral_50_punctuation,neutral_50,delivery instructions add krni h.,neutral,punctuation
+neutral_50_stress,neutral_50,delivery instruccctions add krni h,neutral,stress
+neutral_50_shorthand_typo,neutral_50,delivery instructions add rkni h,neutral,shorthand_typo
+neutral_50_code_mix,neutral_50,"literally, delivery instructions add krni h",neutral,code_mix
+neutral_50_emoji_reinforce,neutral_50,delivery instructions add krni h 🙏,neutral,emoji_reinforce
+neutral_50_shorthand_emoji,neutral_50,delivery instructions add krni h 🙏,neutral,shorthand_emoji
+neutral_50_stress_emoji,neutral_50,delivery instruccctions add krni h 🙏,neutral,stress_emoji
+neutral_51_clean,neutral_51,order ka weight kitna h,neutral,clean
+neutral_51_shorthand,neutral_51,order ka weight kitna h,neutral,shorthand
+neutral_51_typo,neutral_51,order ka weight kitan h,neutral,typo
+neutral_51_punctuation,neutral_51,order ka weight kitna h.,neutral,punctuation
+neutral_51_stress,neutral_51,order ka weiggght kitna h,neutral,stress
+neutral_51_shorthand_typo,neutral_51,order ka weight ktina h,neutral,shorthand_typo
+neutral_51_code_mix,neutral_51,"honestly, order ka weight kitna h",neutral,code_mix
+neutral_51_emoji_reinforce,neutral_51,order ka weight kitna h 🙏,neutral,emoji_reinforce
+neutral_51_shorthand_emoji,neutral_51,order ka weight kitna h 🙏,neutral,shorthand_emoji
+neutral_51_stress_emoji,neutral_51,order ka weiggght kitna h 🙏,neutral,stress_emoji
+neutral_52_clean,neutral_52,subscription ke liye kaun kaun se payment methods accepted h,neutral,clean
+neutral_52_shorthand,neutral_52,subscription ke liye kaun kaun se payment methods accepted h,neutral,shorthand
+neutral_52_typo,neutral_52,subscription ke liye kaun kaun se paymetn methods accepted h,neutral,typo
+neutral_52_punctuation,neutral_52,subscription ke liye kaun kaun se payment methods accepted h.,neutral,punctuation
+neutral_52_stress,neutral_52,subscription ke liyyye kaun kaun se payment methods accepted h,neutral,stress
+neutral_52_shorthand_typo,neutral_52,subscription ke liye kaun kaun se payment methods accepetd h,neutral,shorthand_typo
+neutral_52_code_mix,neutral_52,"honestly, subscription ke liye kaun kaun se payment methods accepted h",neutral,code_mix
+neutral_52_emoji_reinforce,neutral_52,subscription ke liye kaun kaun se payment methods accepted h 🙏,neutral,emoji_reinforce
+neutral_52_shorthand_emoji,neutral_52,subscription ke liye kaun kaun se payment methods accepted h 🙏,neutral,shorthand_emoji
+neutral_52_stress_emoji,neutral_52,subscription ke liyyye kaun kaun se payment methods accepted h 🙏,neutral,stress_emoji
+neutral_53_clean,neutral_53,delivery ke liye kya kya documents chahiye,neutral,clean
+neutral_53_shorthand,neutral_53,delivery ke liye kya kya documents chahiye,neutral,shorthand
+neutral_53_typo,neutral_53,delivery ke liye kya kya documenst chahiye,neutral,typo
+neutral_53_punctuation,neutral_53,delivery ke liye kya kya documents chahiye.,neutral,punctuation
+neutral_53_stress,neutral_53,delivery ke liye kyyya kya documents chahiye,neutral,stress
+neutral_53_shorthand_typo,neutral_53,delivery ke liye kya kya documnets chahiye,neutral,shorthand_typo
+neutral_53_code_mix,neutral_53,"literally, delivery ke liye kya kya documents chahiye",neutral,code_mix
+neutral_53_emoji_reinforce,neutral_53,delivery ke liye kya kya documents chahiye 🙏,neutral,emoji_reinforce
+neutral_53_shorthand_emoji,neutral_53,delivery ke liye kya kya documents chahiye 🙏,neutral,shorthand_emoji
+neutral_53_stress_emoji,neutral_53,delivery ke liye kyyya kya documents chahiye 🙏,neutral,stress_emoji
+neutral_54_clean,neutral_54,flight ka duration kitna h,neutral,clean
+neutral_54_shorthand,neutral_54,flight ka duration kitna h,neutral,shorthand
+neutral_54_typo,neutral_54,lfight ka duration kitna h,neutral,typo
+neutral_54_punctuation,neutral_54,flight ka duration kitna h.,neutral,punctuation
+neutral_54_stress,neutral_54,fliggght ka duration kitna h,neutral,stress
+neutral_54_shorthand_typo,neutral_54,flight ka duration iktna h,neutral,shorthand_typo
+neutral_54_code_mix,neutral_54,"seriously, flight ka duration kitna h",neutral,code_mix
+neutral_54_emoji_reinforce,neutral_54,flight ka duration kitna h 🙏,neutral,emoji_reinforce
+neutral_54_shorthand_emoji,neutral_54,flight ka duration kitna h 🙏,neutral,shorthand_emoji
+neutral_54_stress_emoji,neutral_54,fliggght ka duration kitna h 🙏,neutral,stress_emoji
+neutral_55_clean,neutral_55,hotel ka location kya h exactly,neutral,clean
+neutral_55_shorthand,neutral_55,hotel ka location kya h exactly,neutral,shorthand
+neutral_55_typo,neutral_55,ohtel ka location kya h exactly,neutral,typo
+neutral_55_punctuation,neutral_55,hotel ka location kya h exactly.,neutral,punctuation
+neutral_55_stress,neutral_55,hotttel ka location kya h exactly,neutral,stress
+neutral_55_shorthand_typo,neutral_55,hoetl ka location kya h exactly,neutral,shorthand_typo
+neutral_55_code_mix,neutral_55,"seriously, hotel ka location kya h exactly",neutral,code_mix
+neutral_55_emoji_reinforce,neutral_55,hotel ka location kya h exactly 🙏,neutral,emoji_reinforce
+neutral_55_shorthand_emoji,neutral_55,hotel ka location kya h exactly 🙏,neutral,shorthand_emoji
+neutral_55_stress_emoji,neutral_55,hotttel ka location kya h exactly 🙏,neutral,stress_emoji
+neutral_56_clean,neutral_56,cab ka estimated time kitna h,neutral,clean
+neutral_56_shorthand,neutral_56,cab ka estimated time kitna h,neutral,shorthand
+neutral_56_typo,neutral_56,cab ka estimaetd time kitna h,neutral,typo
+neutral_56_punctuation,neutral_56,cab ka estimated time kitna h.,neutral,punctuation
+neutral_56_stress,neutral_56,cab ka estimated timmme kitna h,neutral,stress
+neutral_56_shorthand_typo,neutral_56,cab ka esitmated time kitna h,neutral,shorthand_typo
+neutral_56_code_mix,neutral_56,"seriously, cab ka estimated time kitna h",neutral,code_mix
+neutral_56_emoji_reinforce,neutral_56,cab ka estimated time kitna h 🙏,neutral,emoji_reinforce
+neutral_56_shorthand_emoji,neutral_56,cab ka estimated time kitna h 🙏,neutral,shorthand_emoji
+neutral_56_stress_emoji,neutral_56,cab ka estimated timmme kitna h 🙏,neutral,stress_emoji
+neutral_57_clean,neutral_57,order ke liye invoice kab milega,neutral,clean
+neutral_57_shorthand,neutral_57,order ke liye invoice kab milega,neutral,shorthand
+neutral_57_typo,neutral_57,order ke lyie invoice kab milega,neutral,typo
+neutral_57_punctuation,neutral_57,order ke liye invoice kab milega.,neutral,punctuation
+neutral_57_stress,neutral_57,orddder ke liye invoice kab milega,neutral,stress
+neutral_57_shorthand_typo,neutral_57,order ke liye invoice kab milgea,neutral,shorthand_typo
+neutral_57_code_mix,neutral_57,"just saying, order ke liye invoice kab milega",neutral,code_mix
+neutral_57_emoji_reinforce,neutral_57,order ke liye invoice kab milega 🙏,neutral,emoji_reinforce
+neutral_57_shorthand_emoji,neutral_57,order ke liye invoice kab milega 🙏,neutral,shorthand_emoji
+neutral_57_stress_emoji,neutral_57,orddder ke liye invoice kab milega 🙏,neutral,stress_emoji
+neutral_58_clean,neutral_58,account create karne ke liye kya chahiye,neutral,clean
+neutral_58_shorthand,neutral_58,account create karne ke liye kya chahiye,neutral,shorthand
+neutral_58_typo,neutral_58,account creaet karne ke liye kya chahiye,neutral,typo
+neutral_58_punctuation,neutral_58,account create karne ke liye kya chahiye.,neutral,punctuation
+neutral_58_stress,neutral_58,accooount create karne ke liye kya chahiye,neutral,stress
+neutral_58_shorthand_typo,neutral_58,account cerate karne ke liye kya chahiye,neutral,shorthand_typo
+neutral_58_code_mix,neutral_58,"just saying, account create karne ke liye kya chahiye",neutral,code_mix
+neutral_58_emoji_reinforce,neutral_58,account create karne ke liye kya chahiye 🙏,neutral,emoji_reinforce
+neutral_58_shorthand_emoji,neutral_58,account create karne ke liye kya chahiye 🙏,neutral,shorthand_emoji
+neutral_58_stress_emoji,neutral_58,accooount create karne ke liye kya chahiye 🙏,neutral,stress_emoji
+neutral_59_clean,neutral_59,payment confirmation kaise milta h,neutral,clean
+neutral_59_shorthand,neutral_59,payment confirmation kaise milta h,neutral,shorthand
+neutral_59_typo,neutral_59,payment confirmation kaise imlta h,neutral,typo
+neutral_59_punctuation,neutral_59,payment confirmation kaise milta h.,neutral,punctuation
+neutral_59_stress,neutral_59,payment confirmation kaise milllta h,neutral,stress
+neutral_59_shorthand_typo,neutral_59,paymnet confirmation kaise milta h,neutral,shorthand_typo
+neutral_59_code_mix,neutral_59,"seriously, payment confirmation kaise milta h",neutral,code_mix
+neutral_59_emoji_reinforce,neutral_59,payment confirmation kaise milta h 🙏,neutral,emoji_reinforce
+neutral_59_shorthand_emoji,neutral_59,payment confirmation kaise milta h 🙏,neutral,shorthand_emoji
+neutral_59_stress_emoji,neutral_59,payment confirmation kaise milllta h 🙏,neutral,stress_emoji
+neutral_60_clean,neutral_60,delivery partner ka contact kaise milega,neutral,clean
+neutral_60_shorthand,neutral_60,delivery partner ka contact kaise milega,neutral,shorthand
+neutral_60_typo,neutral_60,delivrey partner ka contact kaise milega,neutral,typo
+neutral_60_punctuation,neutral_60,delivery partner ka contact kaise milega.,neutral,punctuation
+neutral_60_stress,neutral_60,delivery partttner ka contact kaise milega,neutral,stress
+neutral_60_shorthand_typo,neutral_60,delivery partner ka contact kaies milega,neutral,shorthand_typo
+neutral_60_code_mix,neutral_60,"seriously, delivery partner ka contact kaise milega",neutral,code_mix
+neutral_60_emoji_reinforce,neutral_60,delivery partner ka contact kaise milega 🙏,neutral,emoji_reinforce
+neutral_60_shorthand_emoji,neutral_60,delivery partner ka contact kaise milega 🙏,neutral,shorthand_emoji
+neutral_60_stress_emoji,neutral_60,delivery partttner ka contact kaise milega 🙏,neutral,stress_emoji
+positive_01_flip_sarcasm,positive_01,bohot badhiya service h aapki 🙄,negative,flip_sarcasm
+positive_02_flip_sarcasm,positive_02,delivery time pe ho gayi bahut accha laga 🙄,negative,flip_sarcasm
+positive_03_flip_sarcasm,positive_03,support team ne turant help kri thank you 🙄,negative,flip_sarcasm
+positive_04_flip_sarcasm,positive_04,app bohot smooth chal raha h ab 😒,negative,flip_sarcasm
+positive_05_flip_sarcasm,positive_05,refund itni jaldi mil gaya kamal h 🙄,negative,flip_sarcasm
+positive_06_flip_sarcasm,positive_06,customer care wale bohot polite the 🙃,negative,flip_sarcasm
+positive_07_flip_sarcasm,positive_07,order perfect condition me mila 🙄,negative,flip_sarcasm
+positive_08_flip_sarcasm,positive_08,issue turant solve ho gya bohot badhiya 😒,negative,flip_sarcasm
+positive_09_flip_sarcasm,positive_09,delivery boy bohot helpful tha 🙃,negative,flip_sarcasm
+positive_10_flip_sarcasm,positive_10,website use krna bohot easy h ab 😒,negative,flip_sarcasm
+positive_11_flip_sarcasm,positive_11,agent ne patience se sara solve kr diya 🙄,negative,flip_sarcasm
+positive_12_flip_sarcasm,positive_12,packaging bohot acchi thi is baar 😒,negative,flip_sarcasm
+positive_13_flip_sarcasm,positive_13,app update ke baad speed kaafi badh gayi 🙄,negative,flip_sarcasm
+positive_14_flip_sarcasm,positive_14,return process bohot smooth raha 🙃,negative,flip_sarcasm
+positive_15_flip_sarcasm,positive_15,exchange bina kisi dikkat ke ho gya 🙄,negative,flip_sarcasm
+positive_16_flip_sarcasm,positive_16,payment turant confirm ho gya koi issue nahi 🙄,negative,flip_sarcasm
+positive_17_flip_sarcasm,positive_17,tracking updates time pe milte rehte h 😒,negative,flip_sarcasm
+positive_18_flip_sarcasm,positive_18,complaint ka response bohot fast tha 😒,negative,flip_sarcasm
+positive_19_flip_sarcasm,positive_19,discount mil gya bina kuch bole 🙃,negative,flip_sarcasm
+positive_20_flip_sarcasm,positive_20,app ka new design bohot acha h 😒,negative,flip_sarcasm
+positive_21_flip_sarcasm,positive_21,delivery se pehle call aaya bohot thoughtful 🙃,negative,flip_sarcasm
+positive_22_flip_sarcasm,positive_22,subscription cancel krna bhi easy nikla 🙃,negative,flip_sarcasm
+positive_23_flip_sarcasm,positive_23,hotel booking process bilkul seedha tha 🙄,negative,flip_sarcasm
+positive_24_flip_sarcasm,positive_24,cab turant mil gyi wait nahi krna pada 😒,negative,flip_sarcasm
+positive_25_flip_sarcasm,positive_25,flight status live update milta rehta h 🙄,negative,flip_sarcasm
+positive_26_flip_sarcasm,positive_26,driver bohot achhe se laaya bina kisi dikkat ke 🙃,negative,flip_sarcasm
+positive_27_flip_sarcasm,positive_27,app ka checkout process bohot fast h ab 😒,negative,flip_sarcasm
+positive_28_flip_sarcasm,positive_28,missing item turant bhej diya bina extra charge ke 🙃,negative,flip_sarcasm
+positive_29_flip_sarcasm,positive_29,hotel staff bohot cooperative tha 🙄,negative,flip_sarcasm
+positive_30_flip_sarcasm,positive_30,order jaldi pack ho gya expected se pehle 🙃,negative,flip_sarcasm
+positive_31_flip_sarcasm,positive_31,subscription ka trial bhi kaafi generous h 🙄,negative,flip_sarcasm
+positive_32_flip_sarcasm,positive_32,delivery partner ne sahi jagah pe deliver kiya 🙃,negative,flip_sarcasm
+positive_33_flip_sarcasm,positive_33,agent ne detail me sab samjhaya bohot accha laga 😒,negative,flip_sarcasm
+positive_34_flip_sarcasm,positive_34,payment options kaafi convenient h ab 🙄,negative,flip_sarcasm
+positive_35_flip_sarcasm,positive_35,cancellation bina kisi extra fee ke ho gya 😒,negative,flip_sarcasm
+positive_36_flip_sarcasm,positive_36,app notifications bilkul timely h 🙄,negative,flip_sarcasm
+positive_37_flip_sarcasm,positive_37,refund process ekdum transparent tha 😒,negative,flip_sarcasm
+positive_38_flip_sarcasm,positive_38,courier bohot fast tha expected se pehle aaya 🙃,negative,flip_sarcasm
+positive_39_flip_sarcasm,positive_39,customer support ne turant callback diya 🙄,negative,flip_sarcasm
+positive_40_flip_sarcasm,positive_40,return pickup time pe ho gya 😒,negative,flip_sarcasm
+positive_41_flip_sarcasm,positive_41,flight crew bohot friendly the 🙃,negative,flip_sarcasm
+positive_42_flip_sarcasm,positive_42,cab driver ne clean gaadi rakhi thi 🙃,negative,flip_sarcasm
+positive_43_flip_sarcasm,positive_43,hotel checkin bina kisi wait ke ho gya 🙄,negative,flip_sarcasm
+positive_44_flip_sarcasm,positive_44,order confirmation turant mil gya 🙄,negative,flip_sarcasm
+positive_45_flip_sarcasm,positive_45,app ka UI bohot intuitive h ab 🙄,negative,flip_sarcasm
+positive_46_flip_sarcasm,positive_46,bill breakdown bohot clear tha 😒,negative,flip_sarcasm
+positive_47_flip_sarcasm,positive_47,subscription benefits jaisa bola tha waisa hi mila 😒,negative,flip_sarcasm
+positive_48_flip_sarcasm,positive_48,delivery update har step pe milta raha 🙃,negative,flip_sarcasm
+positive_49_flip_sarcasm,positive_49,exchange bina kisi extra cost ke ho gya 🙄,negative,flip_sarcasm
+positive_50_flip_sarcasm,positive_50,support agent ne extra mile jaake help ki 🙄,negative,flip_sarcasm
+positive_51_flip_sarcasm,positive_51,payment turant process ho gya bina delay ke 🙃,negative,flip_sarcasm
+positive_52_flip_sarcasm,positive_52,order tracking link turant mil gya 🙄,negative,flip_sarcasm
+positive_53_flip_sarcasm,positive_53,hotel room upgrade bina extra charge ke mil gya 🙃,negative,flip_sarcasm
+positive_54_flip_sarcasm,positive_54,cab fare bilkul fair tha 🙄,negative,flip_sarcasm
+positive_55_flip_sarcasm,positive_55,flight rebooking bohot smoothly ho gyi 🙄,negative,flip_sarcasm
+positive_56_flip_sarcasm,positive_56,app ka search feature bohot accurate h 🙃,negative,flip_sarcasm
+positive_57_flip_sarcasm,positive_57,delivery boy ne call karke confirm kiya 🙄,negative,flip_sarcasm
+positive_58_flip_sarcasm,positive_58,refund amount bilkul sahi tha 🙄,negative,flip_sarcasm
+positive_59_flip_sarcasm,positive_59,subscription cancel karne pe koi hidden charge nahi laga 🙃,negative,flip_sarcasm
+positive_60_flip_sarcasm,positive_60,overall experience bohot satisfying raha 😒,negative,flip_sarcasm

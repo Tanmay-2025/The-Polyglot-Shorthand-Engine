@@ -1,0 +1,22 @@
+{
+  "model_dir": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\modernbert\\best_model",
+  "device": "cpu",
+  "dtype": "fp32",
+  "param_count": 149632548,
+  "max_length": 64,
+  "single_example_latency": {
+    "mean_ms": 27.30848840047838,
+    "p50_ms": 27.044100002967753,
+    "p90_ms": 31.79033999913372,
+    "p95_ms": 32.957209990127005,
+    "p99_ms": 34.993537001428194,
+    "max_ms": 36.18809999898076,
+    "min_ms": 19.919299986213446
+  },
+  "batched_throughput": {
+    "batch_size": 32,
+    "n_batches_measured": 50,
+    "throughput_examples_per_sec": 58.1497757521958,
+    "mean_batch_latency_ms": 550.3030680009397
+  }
+}

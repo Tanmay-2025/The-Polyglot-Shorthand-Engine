@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model outputs — checkpoints and weights are large binaries unsuited
+# to git; the small JSON/CSV result files (metrics, error analysis,
+# latency benchmarks) are worth keeping if you want to commit them
+# selectively, but the model directories themselves should not be
+# pushed as-is.
+outputs/*/checkpoint-*/
+outputs/*/best_model/
+outputs/*_interrupted*/
+
+# Sensitive / large raw data — never commit personal chat exports
+data/whatsapp_export_raw.txt
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+*.log

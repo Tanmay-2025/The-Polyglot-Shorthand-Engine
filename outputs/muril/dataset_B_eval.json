@@ -1,0 +1,138 @@
+{
+  "model_dir": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\muril\\best_model",
+  "dataset": "dataset_B_robustness (held-out, hand-authored, not used for tuning)",
+  "n_examples": 108,
+  "accuracy": 0.8981481481481481,
+  "macro_f1": 0.8984126984126983,
+  "weighted_f1": 0.8984126984126983,
+  "n_errors": 11,
+  "domain_breakdown": [
+    {
+      "domain": "Orders",
+      "total": 15,
+      "errors": 6,
+      "error_rate": 0.4
+    },
+    {
+      "domain": "General",
+      "total": 12,
+      "errors": 3,
+      "error_rate": 0.25
+    },
+    {
+      "domain": "Returns & Refunds",
+      "total": 15,
+      "errors": 2,
+      "error_rate": 0.13333333333333333
+    },
+    {
+      "domain": "Account & Support",
+      "total": 12,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Delivery",
+      "total": 15,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Payments",
+      "total": 12,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Subscriptions & Billing",
+      "total": 15,
+      "errors": 0,
+      "error_rate": 0.0
+    },
+    {
+      "domain": "Travel & Transport",
+      "total": 12,
+      "errors": 0,
+      "error_rate": 0.0
+    }
+  ],
+  "misclassified": [
+    {
+      "id": "b_order_cancel_03",
+      "text": "cncl my ordr asap",
+      "intent": "order_cancel",
+      "predicted_intent": "greeting",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_status_03",
+      "text": "whr is my ordr yr",
+      "intent": "order_status",
+      "predicted_intent": "greeting",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_modify_01",
+      "text": "order me address change krna h thoda",
+      "intent": "order_modify",
+      "predicted_intent": "greeting",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_cancellation_failed_02",
+      "text": "cancel button dabaya but status same h abhi bhi",
+      "intent": "order_cancellation_failed",
+      "predicted_intent": "order_cancel",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_wrong_item_01",
+      "text": "mujhe kuch aur mila jo order nahi kiya tha",
+      "intent": "wrong_item",
+      "predicted_intent": "complaint",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_wrong_item_02",
+      "text": "wrong product aaya bhai ye toh maine mangaya hi nahi",
+      "intent": "wrong_item",
+      "predicted_intent": "return_item",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_return_item_02",
+      "text": "return process start krna h iska",
+      "intent": "return_item",
+      "predicted_intent": "subscription_cancel",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_refund_status_01",
+      "text": "mera refund kaha h abhi tak nahi aaya",
+      "intent": "refund_status",
+      "predicted_intent": "refund_missing",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_greeting_01",
+      "text": "hii kaise ho",
+      "intent": "greeting",
+      "predicted_intent": "faq_how_to",
+      "domain": "General"
+    },
+    {
+      "id": "b_complaint_02",
+      "text": "bohot disappointed hu is baar",
+      "intent": "complaint",
+      "predicted_intent": "thanks",
+      "domain": "General"
+    },
+    {
+      "id": "b_faq_how_to_03",
+      "text": "app kaise use kre samajh nahi aa rha",
+      "intent": "faq_how_to",
+      "predicted_intent": "order_cancel",
+      "domain": "General"
+    }
+  ]
+}

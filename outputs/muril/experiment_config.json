@@ -1,0 +1,39 @@
+{
+  "model_name": "MuRIL-base-cased",
+  "model_id": "google/muril-base-cased",
+  "dataset": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\data\\dataset_A_v2_36class_final.csv",
+  "num_labels": 36,
+  "max_length": 64,
+  "seed": 42,
+  "num_epochs": 5,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "train_batch_size": 8,
+  "eval_batch_size": 32,
+  "gradient_accumulation": 1,
+  "precision": "fp16",
+  "early_stopping_patience": 2,
+  "best_checkpoint": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\muril\\checkpoint-9450",
+  "best_validation_metric": 0.999382696996821,
+  "validation_metrics": {
+    "eval_loss": 0.005727163981646299,
+    "eval_accuracy": 0.9993827160493827,
+    "eval_macro_f1": 0.999382696996821,
+    "eval_weighted_f1": 0.9993826969968209,
+    "eval_runtime": 1.3082,
+    "eval_samples_per_second": 2476.683,
+    "eval_steps_per_second": 77.97,
+    "epoch": 5.0
+  },
+  "test_metrics": {
+    "test_loss": 0.02326776646077633,
+    "test_accuracy": 0.9959876543209877,
+    "test_macro_f1": 0.9959806543667971,
+    "test_weighted_f1": 0.9959806543667968,
+    "test_runtime": 1.2287,
+    "test_samples_per_second": 2636.95,
+    "test_steps_per_second": 83.015,
+    "epoch": 5.0
+  }
+}

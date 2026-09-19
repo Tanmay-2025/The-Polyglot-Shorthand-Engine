@@ -1,0 +1,203 @@
+{
+  "dataset": "Dataset A v2",
+  "classes": 36,
+  "domains": {
+    "Account & Support": 4,
+    "Delivery": 5,
+    "General": 4,
+    "Orders": 5,
+    "Payments": 4,
+    "Returns & Refunds": 5,
+    "Subscriptions & Billing": 5,
+    "Travel & Transport": 4
+  },
+  "intents": [
+    {
+      "intent": "order_cancel",
+      "domain": "Orders",
+      "description": "Cancel an existing order"
+    },
+    {
+      "intent": "order_status",
+      "domain": "Orders",
+      "description": "Check the status of an existing order"
+    },
+    {
+      "intent": "order_modify",
+      "domain": "Orders",
+      "description": "Modify an existing order"
+    },
+    {
+      "intent": "order_cancellation_failed",
+      "domain": "Orders",
+      "description": "Cancellation request did not take effect"
+    },
+    {
+      "intent": "wrong_item",
+      "domain": "Orders",
+      "description": "Received an item different from what was ordered"
+    },
+    {
+      "intent": "return_item",
+      "domain": "Returns & Refunds",
+      "description": "Request a return of an item"
+    },
+    {
+      "intent": "exchange_item",
+      "domain": "Returns & Refunds",
+      "description": "Exchange an item for another size/variant"
+    },
+    {
+      "intent": "refund_status",
+      "domain": "Returns & Refunds",
+      "description": "Ask about the status of an expected refund"
+    },
+    {
+      "intent": "refund_after_cancellation",
+      "domain": "Returns & Refunds",
+      "description": "Ask when a refund will arrive after cancellation"
+    },
+    {
+      "intent": "refund_missing",
+      "domain": "Returns & Refunds",
+      "description": "Expected refund has not been received"
+    },
+    {
+      "intent": "payment_failed",
+      "domain": "Payments",
+      "description": "Payment attempt failed"
+    },
+    {
+      "intent": "payment_pending",
+      "domain": "Payments",
+      "description": "Payment is pending"
+    },
+    {
+      "intent": "wrong_charge",
+      "domain": "Payments",
+      "description": "A charge/amount is incorrect"
+    },
+    {
+      "intent": "duplicate_charge",
+      "domain": "Payments",
+      "description": "The same payment was charged twice"
+    },
+    {
+      "intent": "delivery_address_change",
+      "domain": "Delivery",
+      "description": "Change delivery address"
+    },
+    {
+      "intent": "delivery_delay",
+      "domain": "Delivery",
+      "description": "Delivery is delayed"
+    },
+    {
+      "intent": "delivery_tracking",
+      "domain": "Delivery",
+      "description": "Track a shipment"
+    },
+    {
+      "intent": "delivery_damaged",
+      "domain": "Delivery",
+      "description": "Package/item arrived damaged"
+    },
+    {
+      "intent": "delivery_missing",
+      "domain": "Delivery",
+      "description": "Shipment says delivered but was not received"
+    },
+    {
+      "intent": "account_login",
+      "domain": "Account & Support",
+      "description": "Login/account access problem"
+    },
+    {
+      "intent": "password_reset",
+      "domain": "Account & Support",
+      "description": "Reset or change forgotten password"
+    },
+    {
+      "intent": "profile_change",
+      "domain": "Account & Support",
+      "description": "Change profile/account details"
+    },
+    {
+      "intent": "human_agent",
+      "domain": "Account & Support",
+      "description": "Ask to speak with a human support agent"
+    },
+    {
+      "intent": "subscription_cancel",
+      "domain": "Subscriptions & Billing",
+      "description": "Cancel a subscription"
+    },
+    {
+      "intent": "subscription_upgrade",
+      "domain": "Subscriptions & Billing",
+      "description": "Upgrade a subscription plan"
+    },
+    {
+      "intent": "subscription_charged",
+      "domain": "Subscriptions & Billing",
+      "description": "Subscription was charged"
+    },
+    {
+      "intent": "bill_due_date",
+      "domain": "Subscriptions & Billing",
+      "description": "Ask when a bill is due"
+    },
+    {
+      "intent": "bill_payment",
+      "domain": "Subscriptions & Billing",
+      "description": "Pay a bill"
+    },
+    {
+      "intent": "flight_booking",
+      "domain": "Travel & Transport",
+      "description": "Book a flight"
+    },
+    {
+      "intent": "flight_status",
+      "domain": "Travel & Transport",
+      "description": "Check flight status"
+    },
+    {
+      "intent": "hotel_booking",
+      "domain": "Travel & Transport",
+      "description": "Book a hotel"
+    },
+    {
+      "intent": "cab_booking",
+      "domain": "Travel & Transport",
+      "description": "Book a cab"
+    },
+    {
+      "intent": "greeting",
+      "domain": "General",
+      "description": "Greeting/opening message"
+    },
+    {
+      "intent": "thanks",
+      "domain": "General",
+      "description": "Thank the support person"
+    },
+    {
+      "intent": "complaint",
+      "domain": "General",
+      "description": "Express a general service complaint"
+    },
+    {
+      "intent": "faq_how_to",
+      "domain": "General",
+      "description": "Ask how to perform a general task"
+    }
+  ],
+  "design": {
+    "semantic_bases_per_intent": 60,
+    "surface_variants_per_base": 10,
+    "total_examples": 21600,
+    "split": "42 bases train / 9 validation / 9 test per intent",
+    "provenance": "original_constructed"
+  }
+}

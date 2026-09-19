@@ -1,0 +1,243 @@
+{
+  "model_dir": "C:\\Users\\Tanmay\\Desktop\\Polyglot_Shorthand\\outputs\\modernbert\\best_model",
+  "dataset": "dataset_B_robustness (held-out, hand-authored, not used for tuning)",
+  "n_examples": 108,
+  "accuracy": 0.7592592592592593,
+  "macro_f1": 0.7508377425044093,
+  "weighted_f1": 0.7508377425044093,
+  "n_errors": 26,
+  "domain_breakdown": [
+    {
+      "domain": "Orders",
+      "total": 15,
+      "errors": 6,
+      "error_rate": 0.4
+    },
+    {
+      "domain": "Returns & Refunds",
+      "total": 15,
+      "errors": 5,
+      "error_rate": 0.3333333333333333
+    },
+    {
+      "domain": "General",
+      "total": 12,
+      "errors": 3,
+      "error_rate": 0.25
+    },
+    {
+      "domain": "Travel & Transport",
+      "total": 12,
+      "errors": 3,
+      "error_rate": 0.25
+    },
+    {
+      "domain": "Delivery",
+      "total": 15,
+      "errors": 3,
+      "error_rate": 0.2
+    },
+    {
+      "domain": "Subscriptions & Billing",
+      "total": 15,
+      "errors": 3,
+      "error_rate": 0.2
+    },
+    {
+      "domain": "Payments",
+      "total": 12,
+      "errors": 2,
+      "error_rate": 0.16666666666666666
+    },
+    {
+      "domain": "Account & Support",
+      "total": 12,
+      "errors": 1,
+      "error_rate": 0.08333333333333333
+    }
+  ],
+  "misclassified": [
+    {
+      "id": "b_order_cancel_01",
+      "text": "bhai order cancel krdo please urgent meeting h",
+      "intent": "order_cancel",
+      "predicted_intent": "order_cancellation_failed",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_cancel_02",
+      "text": "order cancl kr do yr",
+      "intent": "order_cancel",
+      "predicted_intent": "refund_after_cancellation",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_cancel_03",
+      "text": "cncl my ordr asap",
+      "intent": "order_cancel",
+      "predicted_intent": "password_reset",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_status_03",
+      "text": "whr is my ordr yr",
+      "intent": "order_status",
+      "predicted_intent": "order_cancel",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_order_cancellation_failed_02",
+      "text": "cancel button dabaya but status same h abhi bhi",
+      "intent": "order_cancellation_failed",
+      "predicted_intent": "duplicate_charge",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_wrong_item_01",
+      "text": "mujhe kuch aur mila jo order nahi kiya tha",
+      "intent": "wrong_item",
+      "predicted_intent": "order_cancel",
+      "domain": "Orders"
+    },
+    {
+      "id": "b_delivery_address_change_03",
+      "text": "naya address dalna h order me",
+      "intent": "delivery_address_change",
+      "predicted_intent": "order_modify",
+      "domain": "Delivery"
+    },
+    {
+      "id": "b_delivery_delay_03",
+      "text": "delay ho gya delivery me kb tk milega",
+      "intent": "delivery_delay",
+      "predicted_intent": "delivery_damaged",
+      "domain": "Delivery"
+    },
+    {
+      "id": "b_delivery_tracking_02",
+      "text": "parcel ka status pta krna h",
+      "intent": "delivery_tracking",
+      "predicted_intent": "flight_status",
+      "domain": "Delivery"
+    },
+    {
+      "id": "b_return_item_02",
+      "text": "return process start krna h iska",
+      "intent": "return_item",
+      "predicted_intent": "payment_failed",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_return_item_03",
+      "text": "wapas krna h ye item",
+      "intent": "return_item",
+      "predicted_intent": "thanks",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_refund_status_03",
+      "text": "paisa wapas kab aayega abhi tak kuch nahi",
+      "intent": "refund_status",
+      "predicted_intent": "order_status",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_refund_missing_01",
+      "text": "refund abhi tak nahi mila bohot time ho gya",
+      "intent": "refund_missing",
+      "predicted_intent": "delivery_delay",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_refund_missing_02",
+      "text": "paisa wapas nahi aaya still waiting",
+      "intent": "refund_missing",
+      "predicted_intent": "delivery_delay",
+      "domain": "Returns & Refunds"
+    },
+    {
+      "id": "b_payment_failed_03",
+      "text": "payment nahi ho paya kya issue h",
+      "intent": "payment_failed",
+      "predicted_intent": "payment_pending",
+      "domain": "Payments"
+    },
+    {
+      "id": "b_wrong_charge_02",
+      "text": "galat amount cut gya account se",
+      "intent": "wrong_charge",
+      "predicted_intent": "duplicate_charge",
+      "domain": "Payments"
+    },
+    {
+      "id": "b_profile_change_02",
+      "text": "naam change krna h account me",
+      "intent": "profile_change",
+      "predicted_intent": "order_modify",
+      "domain": "Account & Support"
+    },
+    {
+      "id": "b_subscription_cancel_02",
+      "text": "cancel krni h meri membership",
+      "intent": "subscription_cancel",
+      "predicted_intent": "order_cancellation_failed",
+      "domain": "Subscriptions & Billing"
+    },
+    {
+      "id": "b_subscription_cancel_03",
+      "text": "subscription cancel krdo please",
+      "intent": "subscription_cancel",
+      "predicted_intent": "order_cancellation_failed",
+      "domain": "Subscriptions & Billing"
+    },
+    {
+      "id": "b_bill_due_date_02",
+      "text": "payment date kya h is baar ki",
+      "intent": "bill_due_date",
+      "predicted_intent": "delivery_delay",
+      "domain": "Subscriptions & Billing"
+    },
+    {
+      "id": "b_flight_status_02",
+      "text": "mera flight time pe h ya late",
+      "intent": "flight_status",
+      "predicted_intent": "delivery_delay",
+      "domain": "Travel & Transport"
+    },
+    {
+      "id": "b_cab_booking_02",
+      "text": "gaadi chahiye jaldi book kr do",
+      "intent": "cab_booking",
+      "predicted_intent": "subscription_cancel",
+      "domain": "Travel & Transport"
+    },
+    {
+      "id": "b_cab_booking_03",
+      "text": "cab lagani h station tk",
+      "intent": "cab_booking",
+      "predicted_intent": "greeting",
+      "domain": "Travel & Transport"
+    },
+    {
+      "id": "b_complaint_02",
+      "text": "bohot disappointed hu is baar",
+      "intent": "complaint",
+      "predicted_intent": "delivery_damaged",
+      "domain": "General"
+    },
+    {
+      "id": "b_complaint_03",
+      "text": "experience acha nahi raha overall",
+      "intent": "complaint",
+      "predicted_intent": "account_login",
+      "domain": "General"
+    },
+    {
+      "id": "b_faq_how_to_03",
+      "text": "app kaise use kre samajh nahi aa rha",
+      "intent": "faq_how_to",
+      "predicted_intent": "account_login",
+      "domain": "General"
+    }
+  ]
+}
