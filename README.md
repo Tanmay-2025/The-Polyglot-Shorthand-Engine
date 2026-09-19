@@ -51,7 +51,7 @@ python -m venv .venv
 # Linux/Mac:
 source .venv/bin/activate
 
-pip install torch transformers datasets scikit-learn pandas numpy accelerate sentencepiece protobuf
+pip install -r requirements.txt
 ```
 
 Requires a CUDA-capable GPU to reproduce the latency figures as reported (measured on an RTX 5060 Laptop GPU, ~8GB VRAM); training and evaluation will also run on CPU, but latency numbers won't match Section 7's GPU figures.
